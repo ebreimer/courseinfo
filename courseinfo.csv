@@ -1,0 +1,446 @@
+﻿Year,Semester,Academic Year,CRN,Subject ,Course,Course Type,Credits,Title,Cap,Act,Instructor,Contact Hours,Faculty Type
+2017,Fall,2017-2018,30103,CSIS,10,IS,3,Intro to Computer Applicat,32,31,Giacomo Rivituso (P),2.0,Adjunct
+2017,Fall,2017-2018,30108,CSIS,10,IS,0,Intro to Computer App-Lab,15,14,Mark D. Arunasalem (P),2.0,Adjunct
+2017,Fall,2017-2018,30130,CSIS,10,IS,0,Intro to Computer App-Lab,15,14,Mark D. Arunasalem (P),2.0,Adjunct
+2017,Fall,2017-2018,30129,CSIS,10,IS,3,Intro to Computer Applicat,28,25,Mark D. Arunasalem (P),2.0,Adjunct
+2017,Fall,2017-2018,31229,CSIS,10,IS,0,Intro to Computer App-Lab,15,13,Robert A. Ekblaw (P),2.0,Adjunct
+2017,Fall,2017-2018,30105,CSIS,10,IS,0,Intro to Computer App-Lab,15,15,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30910,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,15,Christopher J. Roberts (P),1.5,Adjunct
+2017,Fall,2017-2018,34074,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,16,Christopher J. Roberts (P),1.5,Adjunct
+2017,Fall,2017-2018,33605,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,16,Christopher J. Roberts (P),1.5,Adjunct
+2017,Fall,2017-2018,33601,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,13,Christopher J. Roberts (P),1.5,Adjunct
+2017,Fall,2017-2018,33602,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,16,Pauline White (P),1.5,FT Visitor/Teaching
+2017,Fall,2017-2018,33604,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,15,Pauline White (P),1.5,FT Visitor/Teaching
+2017,Fall,2017-2018,32711,CSIS,110,Both,0,Intro CS: MM Python Prg-Lab,16,10,Alok K. Mehta (P),2.0,Adjunct
+2017,Fall,2017-2018,32712,CSIS,110,Both,0,Intro CS: MM Python Prg Lab,16,9,Alok K. Mehta (P),2.0,Adjunct
+2017,Fall,2017-2018,32709,CSIS,110,Both,3,Intro CS: MM Python Prg,32,19,Alok K. Mehta (P),2.0,Adjunct
+2017,Fall,2017-2018,30565,CSIS,110,Both,0,Intro CS: Linux Systems-Lab,0,0,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30111,CSIS,110,Both,0,Intro CS:MM Python Prg-Lab,16,9,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30114,CSIS,110,Both,0,Intro CS:MM Python Prg-Lab,16,12,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30109,CSIS,110,Both,3,Intro CS:MM Python Prg,32,21,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30113,CSIS,110,Both,0,Intro CS:Linux Systems Lab,16,10,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34373,CSIS,110,Both,0,Intro to Computer Sci - BE Lab,25,0,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33607,CSIS,110,Both,0,Mohan HS: Intro to CS Lab,25,17,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30136,CSIS,110,Both,3,Intro CS: Linux Systems,16,10,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30474,CSIS,110,Both,0,Intro CS:MM Python Prg-Lab,16,14,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,32708,CSIS,110,Both,0,Intro CS:MM Python Prg Lab,16,15,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30110,CSIS,110,Both,3,Intro CS: MM Python Prg,32,29,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34374,CSIS,110,Both,3,Intro to Computer Science/Beth,25,31,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30112,CSIS,110,Both,0,Intro CS: Music Python -Lab,16,12,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30147,CSIS,110,Both,0,Intro CS: Music Python-Lab,16,16,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30527,CSIS,110,Both,3,Intro CS:Music Python,32,28,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33608,CSIS,110,Both,3,Mohan HS: Intro to CS,25,17,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30363,CSIS,114,IS,0,Management Information Sys-lab,16,16,Christopher M. Cramer (P),2.0,Adjunct
+2017,Fall,2017-2018,30307,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Christopher M. Cramer (P),2.0,Adjunct
+2017,Fall,2017-2018,30362,CSIS,114,IS,3,Management Information Systems,32,32,Christopher M. Cramer (P),2.0,Adjunct
+2017,Fall,2017-2018,30308,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30573,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30572,CSIS,114,IS,3,Management Information Systems,32,32,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,32717,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30310,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30361,CSIS,114,IS,3,Management Information Systems - 30816 - CSIS 114 - 05,32,32,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30306,CSIS,114,IS,0,Management Information Sys-Lab,17,17,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34266,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30300,CSIS,114,IS,3,Management Information Systems,33,33,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30365,CSIS,114,IS,0,Management Information Sys-lab,16,13,Ting Liu (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30364,CSIS,114,IS,0,Management Information Sys-lab,16,11,Ting Liu (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30309,CSIS,114,IS,3,CSIS-114: Management Information Systems,32,24,Ting Liu (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30943,CSIS,115,IS,3,Database Design and App fo Bus,16,15,Kurt C. Greiner (P),3.0,Adjunct
+2017,Fall,2017-2018,33609,CSIS,115,IS,3,Database Design and App fo Bus,16,15,John J. Armitage (P),3.0,FT Visitor/Teaching
+2017,Fall,2017-2018,31230,CSIS,115,IS,3,Database Design and App fo Bus,16,16,Pauline White (P),3.0,FT Visitor/Teaching
+2017,Fall,2017-2018,31033,CSIS,120,CS,0,Intro to Software Dev - Lab,16,14,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30466,CSIS,120,CS,0,Intro to Software Dev - Lab,16,14,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,31032,CSIS,120,CS,4,Intro to Software Development,32,28,Sharon A. Small (P),3.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34090,CSIS,200,IS,3,Intro to CyberSecurity,24,17,John J. Armitage (P),3.0,FT Visitor/Teaching
+2017,Fall,2017-2018,33871,CSIS,200,IS,3,Software tools for Physicists,36,35,Matthew Bellis (P),3.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34294,CSIS,210,CS,0,Data Structures-Lab,16,8,James D. Teresco (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30116,CSIS,210,CS,0,Data Structures-Lab,16,16,James D. Teresco (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30115,CSIS,210,CS,3,Data Structures,24,24,James D. Teresco (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,32869,CSIS,210,CS,0,Data Structures - Lab,16,12,Robert C. Yoder (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33651,CSIS,210,CS,0,Data Structures-Lab,16,12,Robert C. Yoder (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,32868,CSIS,210,CS,3,Data Structures,32,24,Robert C. Yoder (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33090,CSIS,220,CS,0,Assembly Lang and Comp Arc-Lab,16,8,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30192,CSIS,220,CS,0,Assembly Lang and Comp Arc-Lab,16,10,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30193,CSIS,220,CS,0,Assembly Lang and Comp Arc-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2017,Fall,2017-2018,33089,CSIS,220,CS,4,Assembly Lang and Comp Archtcr,24,13,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30117,CSIS,220,CS,4,Assembly Lang and Comp Archtcr,24,21,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2017,Fall,2017-2018,30917,CSIS,251,CS,0,Discrete Structures-Lab,18,18,James R. Matthews (P),1.5,Tenure/Tenure Track
+2017,Fall,2017-2018,33061,CSIS,251,CS,0,Discrete Structures-Lab,18,17,James R. Matthews (P),1.5,Tenure/Tenure Track
+2017,Fall,2017-2018,30918,CSIS,251,CS,0,Discrete Structures-Lab,18,11,James R. Matthews (P),1.5,Tenure/Tenure Track
+2017,Fall,2017-2018,33060,CSIS,251,CS,4,Discrete Structures,32,27,James R. Matthews (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,31547,CSIS,251,CS,4,Discrete Structures,24,19,James R. Matthews (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30456,CSIS,350,CS,3,Database Management Systems,28,28,Scott L. Vandenberg (P),3.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33612,CSIS,380,CS,0,Computer Graphics - Lab,18,18,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33611,CSIS,380,CS,3,Computer Graphics,18,18,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33613,CSIS,400,CS,3,Unix/Linux,16,16,Ira J Goldstein (P),3.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33794,CSIS,400,CS,3,Parallel Proc/High Perf Comp,17,15,James D. Teresco (P),3.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34100,CSIS,401,CS,3,Robotics,16,16,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34098,CSIS,401,CS,0,Robotics Lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,34102,CSIS,410,CS,3,Software Engineering I,24,14,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33652,CSIS,410,CS,0,Software Engineering I-Lab,16,15,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,32721,CSIS,410,CS,0,Software Engineering I-Lab,16,7,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,33230,CSIS,410,CS,0,Software Engineering I -Lab,16,15,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2017,Fall,2017-2018,30118,CSIS,410,CS,3,Software Engineering I,24,23,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40037,CSIS,10,IS,3,Intro to Computer Applications,32,31,Giacomo Rivituso (P),2.0,Adjunct
+2017,Spring,2016-2017,40038,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Mark D. Arunasalem (P),2.0,Adjunct
+2017,Spring,2016-2017,40040,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Mark D. Arunasalem (P),2.0,Adjunct
+2017,Spring,2016-2017,40870,CSIS,10,IS,0,Intro to Computer App.-Lab,16,15,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,42658,CSIS,10,IS,3,Intro to Computer Applications,32,32,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40041,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,43901,CSIS,11,IS,1,Prob Solving Sprdshts Hybrid,16,16,Ira J Goldstein (P),1.5,Tenure/Tenure Track
+2017,Spring,2016-2017,43905,CSIS,11,IS,1,Prob Solving Sprdshts Hybrid,16,13,Ira J Goldstein (P),1.5,Tenure/Tenure Track
+2017,Spring,2016-2017,43902,CSIS,11,IS,1,Prob Solving Sprdshts Hybird,16,15,Ira J Goldstein (P),1.5,Tenure/Tenure Track
+2017,Spring,2016-2017,43999,CSIS,11,IS,1,Prob Solving With Spreadsheets,17,16,James D. Teresco (P),1.5,Tenure/Tenure Track
+2017,Spring,2016-2017,42890,CSIS,110,Both,0,Intro to CS: MM Python Lab,16,15,Alok K. Mehta (P),2.0,Adjunct
+2017,Spring,2016-2017,42888,CSIS,110,Both,0,Intro to CS: MM Python Lab,16,16,Alok K. Mehta (P),2.0,Adjunct
+2017,Spring,2016-2017,42886,CSIS,110,Both,3,Intro to CS: MM Python,32,31,Alok K. Mehta (P),2.0,Adjunct
+2017,Spring,2016-2017,43870,CSIS,110,Both,0,Intro to CS: Music Python-Lab,16,16,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42660,CSIS,110,Both,0,Intro to CS: Music Python Lab,16,16,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40357,CSIS,110,Both,3,Intro to CS: Music Phython,32,32,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40194,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Jeffrey A. Yates (P),2.0,Adjunct
+2017,Spring,2016-2017,42661,CSIS,114,IS,0,Management Information Sys-Lab,18,16,Jeffrey A. Yates (P),2.0,Adjunct
+2017,Spring,2016-2017,40121,CSIS,114,IS,3,Management Information Systems,34,32,Jeffrey A. Yates (P),2.0,Adjunct
+2017,Spring,2016-2017,40362,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40197,CSIS,114,IS,0,Management Information Sys-Lab,17,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40195,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40873,CSIS,114,IS,0,Management Information Sys-Lab,17,17,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40658,CSIS,114,IS,3,Management Information Systems,32,32,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40275,CSIS,114,IS,3,Management Information Systems,33,33,John J. Armitage (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40365,CSIS,114,IS,0,Management Information Sys-Lab,17,17,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40191,CSIS,114,IS,3,Management Information Systems,17,17,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40192,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40196,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40153,CSIS,114,IS,3,Management Information Systems,32,32,Ting Liu (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40875,CSIS,115,IS,3,Database Design and App fo Bus,16,16,Kurt C. Greiner (P),3.0,Adjunct
+2017,Spring,2016-2017,43996,CSIS,115,IS,3,Database Design and App fo Bus,16,16,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40977,CSIS,115,IS,3,Database Design and App fo Bus,16,16,Robert C. Yoder (P),3.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42894,CSIS,120,CS,0,Intro to Software Dev-Lab,16,10,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40052,CSIS,120,CS,0,Intro to Software Dev-Lab,16,15,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,43589,CSIS,120,CS,0,Intro to Software Dev-Lab,16,14,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40876,CSIS,120,CS,0,Intro to Software Dev-Lab,16,15,Pauline White (P),2.0,FT Visitor/Teaching
+2017,Spring,2016-2017,42893,CSIS,120,CS,4,Intro to Software Development,32,23,Pauline White (P),3.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40051,CSIS,120,CS,4,Intro to Software Development,32,31,Pauline White (P),3.0,FT Visitor/Teaching
+2017,Spring,2016-2017,40053,CSIS,120,CS,0,Intro to Software Dev-Lab,16,11,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40487,CSIS,120,CS,0,Intro to Software Dev-Lab,16,12,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40486,CSIS,120,CS,4,Intro to Software Development,32,23,Darren T. Lim (P),3.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43873,CSIS,180,IS,0,Web Design-Lab,16,16,Joshua M. Tomaszewski (P),2.0,Adjunct
+2017,Spring,2016-2017,43872,CSIS,180,IS,3,Web Design,16,16,Joshua M. Tomaszewski (P),2.0,Adjunct
+2017,Spring,2016-2017,42035,CSIS,180,IS,3,Web Design,33,33,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42036,CSIS,180,IS,0,Web Design - Lab,17,17,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42662,CSIS,180,IS,0,Web Design-Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43874,CSIS,200,IS,3,UX Concepts,24,20,Eric A. Robinson (P),3.0,Adjunct
+2017,Spring,2016-2017,44249,CSIS,200,IS,1,C Programming,16,16,Daniel J. DiTursi (P),1.0,FT Visitor/Teaching
+2017,Spring,2016-2017,42038,CSIS,210,CS,0,Data Structures - Lab,16,15,Robert C. Yoder (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,44219,CSIS,210,CS,0,Data Structures-Lab,16,4,Robert C. Yoder (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40280,CSIS,210,CS,3,Data Structures,32,19,Robert C. Yoder (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40168,CSIS,225,CS,0,Advanced Programming Lab,16,15,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42898,CSIS,225,CS,0,Advanced Programming-Lab,16,10,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42896,CSIS,225,CS,3,Advanced Programming,24,23,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42897,CSIS,225,CS,0,Advanced Programming Lab,16,12,James D. Teresco (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40279,CSIS,225,CS,3,Advanced Programming,24,14,James D. Teresco (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,40586,CSIS,351,CS,3,Theory of Computation,24,12,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2017,Spring,2016-2017,43592,CSIS,351,CS,3,Theory of Computation,24,24,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2017,Spring,2016-2017,42905,CSIS,385,CS,0,Design+Analysis of Alg Lab,16,6,James D. Teresco (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42995,CSIS,385,CS,3,Design+Analysis of Algorithm,24,12,James D. Teresco (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42903,CSIS,385,CS,0,Design+Analysis of Alg Lab,16,14,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43594,CSIS,385,CS,0,Design+Analysis of Alg-Lab,16,16,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43595,CSIS,385,CS,3,Design+Analysis of Algorithm,24,24,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43880,CSIS,390,CS,0,Web Application Dev Lab,16,15,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43881,CSIS,390,CS,0,Web Application Dev - Lab,16,16,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43882,CSIS,390,CS,0,Web Application Dev - Lab,16,15,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43877,CSIS,390,CS,3,Web Application Development,16,14,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43879,CSIS,390,CS,3,Web Application Development,32,32,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43884,CSIS,400,CS,3,Information Retrieval,32,18,Ting Liu (P),3.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43997,CSIS,415,CS,0,Software Engineering II-Lab,16,11,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43597,CSIS,415,CS,0,Software Engineering II-Lab,16,16,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,43598,CSIS,415,CS,0,Software Engineering II-Lab,16,10,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2017,Spring,2016-2017,42045,CSIS,415,CS,3,Software Engineering II,38,37,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30103,CSIS,10,IS,3,Intro to Computer Applicat,32,30,Giacomo Rivituso (P),2.0,Adjunct
+2018,Fall,2018-2019,30105,CSIS,10,IS,0,Intro to Computer App-Lab,16,14,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,34637,CSIS,10,IS,0,Intro to Computer App-Lab,16,16,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34634,CSIS,10,IS,3,Intro to Computer Applications,32,32,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30108,CSIS,10,IS,0,Intro to Computer App-Lab,16,16,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34636,CSIS,10,IS,0,Intro to Computer App - Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,33605,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,13,Christopher J. Roberts (P),1.5,Adjunct
+2018,Fall,2018-2019,34656,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,15,Christopher J. Roberts (P),1.5,Adjunct
+2018,Fall,2018-2019,34655,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,7,Linda M. Armitage (P),1.5,Adjunct
+2018,Fall,2018-2019,30910,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,14,Mark D. Arunasalem (P),1.5,Adjunct
+2018,Fall,2018-2019,33602,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,13,Margaret S. Fryling (P),1.5,Tenure/Tenure Track
+2018,Fall,2018-2019,34657,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,14,Margaret S. Fryling (P),1.5,Tenure/Tenure Track
+2018,Fall,2018-2019,30111,CSIS,110,Both,0,Intro CS:MM Python Prg-Lab,16,11,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30114,CSIS,110,Both,0,Intro CS:MM Python Prg-Lab,16,9,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30109,CSIS,110,Both,3,Intro CS:MM Python Prg,32,20,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30474,CSIS,110,Both,0,Intro CS:MM Python Prg-Lab,16,14,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,32708,CSIS,110,Both,0,Intro CS:MM Python Prg Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30110,CSIS,110,Both,3,Intro CS: MM Python Prg,32,30,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,32712,CSIS,110,Both,0,Intro CS: Graphics & Games Lab,16,12,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,32711,CSIS,110,Both,0,Intro CS: Graphics & Games Lab,16,10,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,32709,CSIS,110,Both,3,Intro CS: Graphics & Games,32,22,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30112,CSIS,110,Both,0,Intro CS: Music Python -Lab,16,14,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30147,CSIS,110,Both,0,Intro CS: Music Python-Lab,16,15,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30527,CSIS,110,Both,3,Intro CS:Music Python,32,29,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30363,CSIS,114,IS,0,Management Information Sys-lab,16,16,Linda M. Armitage (P),2.0,Adjunct
+2018,Fall,2018-2019,30307,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Linda M. Armitage (P),2.0,Adjunct
+2018,Fall,2018-2019,30362,CSIS,114,IS,3,Management Information Systems,32,32,Linda M. Armitage (P),2.0,Adjunct
+2018,Fall,2018-2019,30306,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30310,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,34266,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,32717,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30361,CSIS,114,IS,3,Management Information Systems - 30816 - CSIS 114 - 05,32,32,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30300,CSIS,114,IS,3,Management Information Systems,32,32,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30308,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30573,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30572,CSIS,114,IS,3,Management Information Systems,32,32,John J. Armitage (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30365,CSIS,114,IS,0,Management Information Sys-lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30364,CSIS,114,IS,0,Management Information Sys-lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30309,CSIS,114,IS,3,CSIS-114: Management Information Systems,32,32,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,33609,CSIS,115,IS,3,Database Design and App fo Bus,16,15,John J. Armitage (P),3.0,FT Visitor/Teaching
+2018,Fall,2018-2019,31230,CSIS,115,IS,3,Database Design and App fo Bus,16,12,Robert C. Yoder (P),3.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30943,CSIS,115,IS,3,Database Design and App fo Bus,16,15,Robert C. Yoder (P),3.0,Tenure/Tenure Track
+2018,Fall,2018-2019,31033,CSIS,120,CS,0,Intro to Software Dev - Lab,16,13,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30466,CSIS,120,CS,0,Intro to Software Dev - Lab,16,14,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,31032,CSIS,120,CS,4,Intro to Software Development,32,27,Sharon A. Small (P),3.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34639,CSIS,180,IS,0,Web Design-Lab,16,14,Alok K. Mehta (P),2.0,Adjunct
+2018,Fall,2018-2019,34640,CSIS,180,IS,0,Web Design-Lab,16,14,Alok K. Mehta (P),2.0,Adjunct
+2018,Fall,2018-2019,34638,CSIS,180,IS,3,Web Design,32,28,Alok K. Mehta (P),2.0,Adjunct
+2018,Fall,2018-2019,34642,CSIS,200,IS,3,Data Analytics & Visualization,16,7,Lael B. Dickinson (P),3.0,Adjunct
+2018,Fall,2018-2019,34090,CSIS,200,IS,3,Intro to CyberSecurity,24,16,John J. Armitage (P),3.0,FT Visitor/Teaching
+2018,Fall,2018-2019,34647,CSIS,201,IS,0,No Code Mobile App Dev Lab,16,14,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34643,CSIS,201,IS,3,No Code Mobile App Dev,32,14,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34294,CSIS,210,CS,0,Data Structures-Lab,16,8,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30116,CSIS,210,CS,0,Data Structures-Lab,16,15,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,32869,CSIS,210,CS,0,Data Structures - Lab,16,16,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30115,CSIS,210,CS,3,Data Structures,32,28,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,32868,CSIS,210,CS,3,Data Structures,32,11,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30192,CSIS,220,CS,0,Assembly Lang and Comp Arc-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30193,CSIS,220,CS,0,Assembly Lang and Comp Arc-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Fall,2018-2019,33089,CSIS,220,CS,4,Assembly Lang and Comp Archtcr,32,32,Pauline White (P),3.0,FT Visitor/Teaching
+2018,Fall,2018-2019,30917,CSIS,251,CS,0,Discrete Structures-Lab,18,17,James R. Matthews (P),1.5,Tenure/Tenure Track
+2018,Fall,2018-2019,33061,CSIS,251,CS,0,Discrete Structures-Lab,18,15,James R. Matthews (P),1.5,Tenure/Tenure Track
+2018,Fall,2018-2019,30918,CSIS,251,CS,0,Discrete Structures-Lab,18,11,James R. Matthews (P),1.5,Tenure/Tenure Track
+2018,Fall,2018-2019,33060,CSIS,251,CS,4,Discrete Structures,32,24,James R. Matthews (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,31547,CSIS,251,CS,4,Discrete Structures,24,19,James R. Matthews (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30456,CSIS,350,CS,3,Database Management Systems,28,27,Scott L. Vandenberg (P),3.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34649,CSIS,365,CS,3,Communications and Networks,28,24,Ira J Goldstein (P),3.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34787,CSIS,370,CS,0,Robotics - Lab,16,13,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,34786,CSIS,370,CS,3,Robotics,16,13,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,33613,CSIS,400,CS,3,Human Computer Interaction,24,23,Jami L. Cotler (P),3.0,Tenure/Tenure Track
+2018,Fall,2018-2019,32721,CSIS,410,CS,0,Software Engineering I-Lab,20,20,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,33230,CSIS,410,CS,0,Software Engineering I -Lab,0,0,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,33652,CSIS,410,CS,0,Software Engineering I-Lab,18,17,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Fall,2018-2019,30118,CSIS,410,CS,3,Software Engineering I,37,37,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40870,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Dawit H. Demissie (P),2.0,Adjunct
+2018,Spring,2017-2018,40037,CSIS,10,IS,3,Intro to Computer Applications,32,32,Giacomo Rivituso (P),2.0,Adjunct
+2018,Spring,2017-2018,40040,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Mark D. Arunasalem (P),2.0,Adjunct
+2018,Spring,2017-2018,40038,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Mark D. Arunasalem (P),2.0,Adjunct
+2018,Spring,2017-2018,40041,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,42658,CSIS,10,IS,3,Intro to Computer Applications,32,32,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43901,CSIS,11,IS,1,Prob Solving Spreadsheets,16,16,Christopher J. Roberts (P),1.5,Adjunct
+2018,Spring,2017-2018,43999,CSIS,11,IS,1,Prob Solving Spreadsheets,16,16,Christopher J. Roberts (P),1.5,Adjunct
+2018,Spring,2017-2018,44487,CSIS,11,IS,1,Prob Solving Spreadsheets,16,14,Robert A. Ekblaw (P),1.5,Adjunct
+2018,Spring,2017-2018,43905,CSIS,11,IS,1,Prob Solving Spreadsheets,16,15,Robert A. Ekblaw (P),1.5,Adjunct
+2018,Spring,2017-2018,42890,CSIS,110,Both,0,Intro to CS: MM Python Lab,16,16,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42888,CSIS,110,Both,0,Intro to CS: MM Python Lab,17,16,James R. Matthews (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42886,CSIS,110,Both,3,Intro to CS: MM Python,33,32,James R. Matthews (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43870,CSIS,110,Both,0,Intro to CS: MM Python-Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42660,CSIS,110,Both,0,Intro to CS: MM Python Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40357,CSIS,110,Both,3,Intro to CS: MM Python,32,32,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40194,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Lael B. Dickinson (P),2.0,Adjunct
+2018,Spring,2017-2018,42661,CSIS,114,IS,0,Management Information Sys-Lab,16,14,Lael B. Dickinson (P),2.0,Adjunct
+2018,Spring,2017-2018,40121,CSIS,114,IS,3,Management Information Systems,32,30,Lael B. Dickinson (P),2.0,Adjunct
+2018,Spring,2017-2018,40196,CSIS,114,IS,0,Management Information Sys-Lab,16,14,Linda M. Armitage (P),2.0,Adjunct
+2018,Spring,2017-2018,40153,CSIS,114,IS,3,Management Information Systems,32,30,Linda M. Armitage (P),2.0,Adjunct
+2018,Spring,2017-2018,40873,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40195,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40197,CSIS,114,IS,0,Management Information Sys-Lab,16,15,John J. Armitage (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40362,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40275,CSIS,114,IS,3,Management Information Systems,32,31,John J. Armitage (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40658,CSIS,114,IS,3,Management Information Systems,32,32,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40192,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40977,CSIS,115,IS,3,Database Design and App fo Bus,16,16,John J. Armitage (P),3.0,FT Visitor/Teaching
+2018,Spring,2017-2018,43996,CSIS,115,IS,3,Database Design and App fo Bus,16,16,Scott L. Vandenberg (P),3.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42894,CSIS,120,CS,0,Intro to Software Dev-Lab,16,7,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40876,CSIS,120,CS,0,Intro to Software Dev-Lab,16,8,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,42893,CSIS,120,CS,4,Intro to Software Development,32,15,Pauline White (P),3.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40052,CSIS,120,CS,0,Intro to Software Dev-Lab,16,16,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43589,CSIS,120,CS,0,Intro to Software Dev-Lab,16,14,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40051,CSIS,120,CS,4,Intro to Software Development,32,30,Sharon A. Small (P),3.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40053,CSIS,120,CS,0,Intro to Software Dev-Lab,16,9,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40487,CSIS,120,CS,0,Intro to Software Dev-Lab,16,11,Ting Liu (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40486,CSIS,120,CS,4,Intro to Software Development,32,20,Ting Liu (P),3.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43873,CSIS,180,IS,0,Web Design-Lab,16,16,Alok K. Mehta (P),2.0,Adjunct
+2018,Spring,2017-2018,44479,CSIS,180,IS,0,Web Design-Lab,16,13,Alok K. Mehta (P),2.0,Adjunct
+2018,Spring,2017-2018,43872,CSIS,180,IS,3,Web Design,32,29,Alok K. Mehta (P),2.0,Adjunct
+2018,Spring,2017-2018,42662,CSIS,180,IS,0,Web Design-Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42036,CSIS,180,IS,0,Web Design - Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42035,CSIS,180,IS,3,Web Design,32,32,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42038,CSIS,210,CS,0,Data Structures - Lab,16,12,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,44219,CSIS,210,CS,0,Data Structures-Lab,16,4,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,40280,CSIS,210,CS,3,Data Structures,32,16,Pauline White (P),2.0,FT Visitor/Teaching
+2018,Spring,2017-2018,42897,CSIS,225,CS,0,Advanced Programming Lab,17,16,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40168,CSIS,225,CS,0,Advanced Programming Lab,16,13,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42898,CSIS,225,CS,0,Advanced Programming-Lab,16,12,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40279,CSIS,225,CS,3,Advanced Programming,24,19,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42896,CSIS,225,CS,3,Advanced Programming,24,22,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,40586,CSIS,351,CS,3,Theory of Computation,24,8,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2018,Spring,2017-2018,43592,CSIS,351,CS,3,Theory of Computation,24,24,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2018,Spring,2017-2018,44481,CSIS,355,CS,3,Advanced Database,16,15,Scott L. Vandenberg (P),3.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42905,CSIS,385,CS,0,Design+Analysis of Alg Lab,16,16,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42903,CSIS,385,CS,0,Design+Analysis of Alg Lab,16,13,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43594,CSIS,385,CS,0,Design+Analysis of Alg-Lab,16,10,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43595,CSIS,385,CS,3,Design+Analysis of Algorithm,24,23,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42995,CSIS,385,CS,3,Design+Analysis of Algorithm,24,16,James D. Teresco (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43880,CSIS,390,CS,0,Web Application Dev Lab,16,16,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43881,CSIS,390,CS,0,Web Application Dev - Lab,16,13,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43877,CSIS,390,CS,3,Web Application Development,32,29,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43884,CSIS,400,CS,3,Cryptography,24,19,Daniel J. DiTursi (P),3.0,FT Visitor/Teaching
+2018,Spring,2017-2018,44480,CSIS,400,CS,3,Proactive Cyber Security,32,32,John J. Armitage (P),3.0,FT Visitor/Teaching
+2018,Spring,2017-2018,43598,CSIS,415,CS,0,Software Engineering II-Lab,16,11,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43597,CSIS,415,CS,0,Software Engineering II-Lab,16,10,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,43997,CSIS,415,CS,0,Software Engineering II-Lab,16,16,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2018,Spring,2017-2018,42045,CSIS,415,CS,3,Software Engineering II,38,37,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30103,CSIS,10,IS,3,Intro to Computer Applicat,32,32,Laura Schindler (P),2.0,Adjunct
+2019,Fall,2019-2020,30105,CSIS,10,IS,0,Intro to Computer App-Lab,16,15,Linda M. Armitage (P),2.0,Adjunct
+2019,Fall,2019-2020,34637,CSIS,10,IS,0,Intro to Computer App-Lab,16,16,Mark D. Arunasalem (P),2.0,Adjunct
+2019,Fall,2019-2020,34636,CSIS,10,IS,0,Intro to Computer App - Lab,16,16,Mark D. Arunasalem (P),2.0,Adjunct
+2019,Fall,2019-2020,34634,CSIS,10,IS,3,Intro to Computer Applications,32,31,TBA,2.0,Adjunct
+2019,Fall,2019-2020,30108,CSIS,10,IS,0,Intro to Computer App-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30910,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,15,Mark D. Arunasalem (P),1.5,Adjunct
+2019,Fall,2019-2020,34655,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,7,Mark D. Arunasalem (P),1.5,Adjunct
+2019,Fall,2019-2020,33605,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,15,Daniel J. DiTursi (P),1.5,FT Visitor/Teaching
+2019,Fall,2019-2020,34656,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,16,Daniel J. DiTursi (P),1.5,FT Visitor/Teaching
+2019,Fall,2019-2020,33602,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,16,Eric A. Breimer (P),1.5,Tenure/Tenure Track
+2019,Fall,2019-2020,34657,CSIS,11,IS,1,Prob Solving With Spreadsheets,16,16,Eric A. Breimer (P),1.5,Tenure/Tenure Track
+2019,Fall,2019-2020,30111,CSIS,110,Both,0,Intro CS:Linux-Lab,15,7,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30114,CSIS,110,Both,0,Intro CS:Linux-Lab,15,11,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30109,CSIS,110,Both,3,Intro CS: Linux,30,18,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30474,CSIS,110,Both,0,Intro CS:MM Python Prg-Lab,15,13,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32708,CSIS,110,Both,0,Intro CS:MM Python Prg Lab,15,11,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30110,CSIS,110,Both,3,Intro CS: MM Python Prg,30,24,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32711,CSIS,110,Both,0,Intro CS: Multimedia Lab,15,11,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32712,CSIS,110,Both,0,Intro CS: Multimedia Lab,15,14,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32709,CSIS,110,Both,3,Intro CS: Multimedia,30,25,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30112,CSIS,110,Both,0,Intro CS: Music Python -Lab,15,13,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30147,CSIS,110,Both,0,Intro CS: Music Python-Lab,15,11,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30527,CSIS,110,Both,3,Intro CS:Music Python,30,24,Scott L. Vandenberg (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32717,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Laura Schindler (P),2.0,Adjunct
+2019,Fall,2019-2020,30364,CSIS,114,IS,0,Management Information Sys-lab,16,12,Laura Schindler (P),2.0,Adjunct
+2019,Fall,2019-2020,30309,CSIS,114,IS,3,CSIS-114: Management Information Systems,32,29,Laura Schindler (P),2.0,Adjunct
+2019,Fall,2019-2020,35119,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Linda M. Armitage (P),2.0,Adjunct
+2019,Fall,2019-2020,35120,CSIS,114,IS,0,Management Information Sys-Lab,16,14,Linda M. Armitage (P),2.0,Adjunct
+2019,Fall,2019-2020,35118,CSIS,114,IS,3,Management Information Systems,32,30,Linda M. Armitage (P),2.0,Adjunct
+2019,Fall,2019-2020,30363,CSIS,114,IS,0,Management Information Sys-lab,16,13,TBA,2.0,Adjunct
+2019,Fall,2019-2020,30307,CSIS,114,IS,0,Management Information Sys-Lab,16,9,TBA,2.0,Adjunct
+2019,Fall,2019-2020,30362,CSIS,114,IS,3,Management Information Systems,32,22,TBA,2.0,Adjunct
+2019,Fall,2019-2020,30306,CSIS,114,IS,0,Management Information Sys-Lab,16,12,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30310,CSIS,114,IS,0,Management Information Sys-Lab,16,14,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30300,CSIS,114,IS,3,Management Information Systems,32,26,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30573,CSIS,114,IS,0,Management Information Sys-Lab,16,15,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,34266,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30365,CSIS,114,IS,0,Management Information Sys-lab,16,15,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30308,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30572,CSIS,114,IS,3,Management Information Systems,32,31,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30361,CSIS,114,IS,3,Management Information Systems - 30816 - CSIS 114 - 05,32,30,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30943,CSIS,115,IS,3,Database Design and App fo Bus,16,15,Robert C. Yoder (P),3.0,Tenure/Tenure Track
+2019,Fall,2019-2020,33609,CSIS,115,IS,3,Database Design and App fo Bus,16,16,Robert C. Yoder (P),3.0,Tenure/Tenure Track
+2019,Fall,2019-2020,31033,CSIS,120,CS,0,Intro to Software Dev - Lab,16,16,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30466,CSIS,120,CS,0,Intro to Software Dev - Lab,16,15,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,31032,CSIS,120,CS,4,Intro to Software Development,32,31,Sharon A. Small (P),3.0,Tenure/Tenure Track
+2019,Fall,2019-2020,34639,CSIS,180,IS,0,Web Design-Lab,16,14,Alok K. Mehta (P),2.0,Adjunct
+2019,Fall,2019-2020,34640,CSIS,180,IS,0,Web Design-Lab,16,12,Alok K. Mehta (P),2.0,Adjunct
+2019,Fall,2019-2020,34638,CSIS,180,IS,3,Web Design,32,26,Alok K. Mehta (P),2.0,Adjunct
+2019,Fall,2019-2020,34090,CSIS,200,IS,3,Intro to CyberSecurity,28,19,John J. Armitage (P),3.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30116,CSIS,210,CS,0,Data Structures-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30115,CSIS,210,CS,3,Data Structures,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,34294,CSIS,210,CS,0,Data Structures-Lab,16,16,James D. Teresco (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32869,CSIS,210,CS,0,Data Structures - Lab,16,16,James D. Teresco (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32868,CSIS,210,CS,3,Data Structures,32,32,James D. Teresco (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30193,CSIS,220,CS,0,Assembly Lang and Comp Arc-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30192,CSIS,220,CS,0,Assembly Lang and Comp Arc-Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Fall,2019-2020,33089,CSIS,220,CS,4,Assembly Lang and Comp Archtcr,32,32,Pauline White (P),3.0,FT Visitor/Teaching
+2019,Fall,2019-2020,30917,CSIS,251,CS,0,Discrete Structures-Lab,18,16,James R. Matthews (P),1.5,Tenure/Tenure Track
+2019,Fall,2019-2020,33061,CSIS,251,CS,0,Discrete Structures-Lab,18,15,James R. Matthews (P),1.5,Tenure/Tenure Track
+2019,Fall,2019-2020,30918,CSIS,251,CS,0,Discrete Structures-Lab,18,16,James R. Matthews (P),1.5,Tenure/Tenure Track
+2019,Fall,2019-2020,33060,CSIS,251,CS,4,Discrete Structures,32,23,James R. Matthews (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,31547,CSIS,251,CS,4,Discrete Structures,24,24,James R. Matthews (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,35122,CSIS,340,CS,3,Programming Languages,28,21,James D. Teresco (P),3.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30456,CSIS,350,CS,3,Database Management Systems,28,28,Scott L. Vandenberg (P),3.0,Tenure/Tenure Track
+2019,Fall,2019-2020,34787,CSIS,370,CS,0,Robotics - Lab,16,15,Ting Liu (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,34786,CSIS,370,CS,3,Robotics,16,15,Ting Liu (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,33613,CSIS,400,CS,3,Unix/Linux,16,11,Ira J Goldstein (P),3.0,Tenure/Tenure Track
+2019,Fall,2019-2020,30118,CSIS,410,CS,3,Software Engineering I,40,29,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,33230,CSIS,410,CS,0,Software Engineering I -Lab,16,6,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,33652,CSIS,410,CS,0,Software Engineering I-Lab,16,9,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Fall,2019-2020,32721,CSIS,410,CS,0,Software Engineering I-Lab,16,14,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40037,CSIS,10,IS,3,Intro to Computer Applications,32,32,Christopher J. Roberts (P),2.0,Adjunct
+2019,Spring,2018-2019,40041,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Laura Schindler (P),2.0,Adjunct
+2019,Spring,2018-2019,40040,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Linda M. Armitage (P),2.0,Adjunct
+2019,Spring,2018-2019,40038,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Mark D. Arunasalem (P),2.0,Adjunct
+2019,Spring,2018-2019,40870,CSIS,10,IS,0,Intro to Computer App.-Lab,16,16,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42658,CSIS,10,IS,3,Intro to Computer Applications,32,32,Ira J Goldstein (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43901,CSIS,11,IS,1,Prob Solving Spreadsheets,16,13,Pauline White (P),1.5,FT Visitor/Teaching
+2019,Spring,2018-2019,43999,CSIS,11,IS,1,Prob Solving Spreadsheets,16,14,Pauline White (P),1.5,FT Visitor/Teaching
+2019,Spring,2018-2019,45232,CSIS,11,IS,1,Prob Solving Sprdshts Hybrid,16,13,Ira J Goldstein (P),1.5,Tenure/Tenure Track
+2019,Spring,2018-2019,45233,CSIS,11,IS,1,Prob Solving Sprdshts Hybrid,16,10,Ira J Goldstein (P),1.5,Tenure/Tenure Track
+2019,Spring,2018-2019,45234,CSIS,11,IS,1,Prob Solving Sprdshts Hybrid,16,15,Jami L. Cotler (P),1.5,Tenure/Tenure Track
+2019,Spring,2018-2019,43870,CSIS,110,Both,0,Intro to CS: MM Python-Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42660,CSIS,110,Both,0,Intro to CS: MM Python Lab,16,16,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40357,CSIS,110,Both,3,Intro to CS: MM Python,32,32,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42890,CSIS,110,Both,0,Intro to CS: GameMaker-Lab,16,14,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42888,CSIS,110,Both,0,Intro to CS: GameMaker-Lab,16,9,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42886,CSIS,110,Both,3,Intro to CS: GameMaker,32,23,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40192,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Linda M. Armitage (P),2.0,Adjunct
+2019,Spring,2018-2019,40196,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Linda M. Armitage (P),2.0,Adjunct
+2019,Spring,2018-2019,40153,CSIS,114,IS,3,Management Information Systems,32,32,Linda M. Armitage (P),2.0,Adjunct
+2019,Spring,2018-2019,40873,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40195,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40658,CSIS,114,IS,3,Management Information Systems,32,32,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40197,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40362,CSIS,114,IS,0,Management Information Sys-Lab,16,16,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40275,CSIS,114,IS,3,Management Information Systems,32,32,John J. Armitage (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,42661,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40194,CSIS,114,IS,0,Management Information Sys-Lab,16,16,Ting Liu (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40121,CSIS,114,IS,3,Management Information Systems,32,32,Ting Liu (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40977,CSIS,115,IS,3,Database Design and App fo Bus,16,16,John J. Armitage (P),3.0,FT Visitor/Teaching
+2019,Spring,2018-2019,43996,CSIS,115,IS,3,Database Design and App fo Bus,16,16,John J. Armitage (P),3.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40876,CSIS,120,CS,0,Intro to Software Dev-Lab,16,15,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,42893,CSIS,120,CS,4,Intro to Software Development,16,15,Pauline White (P),3.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40487,CSIS,120,CS,0,Intro to Software Dev-Lab,16,14,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40053,CSIS,120,CS,0,Intro to Software Dev-Lab,17,16,Margaret S. Fryling (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40486,CSIS,120,CS,4,Intro to Software Development,32,30,Margaret S. Fryling (P),3.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40052,CSIS,120,CS,0,Intro to Software Dev-Lab,16,16,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43589,CSIS,120,CS,0,Intro to Software Dev-Lab,16,13,Sharon A. Small (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,40051,CSIS,120,CS,4,Intro to Software Development,32,29,Sharon A. Small (P),3.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43873,CSIS,180,IS,0,Web Design-Lab,16,16,Alok K. Mehta (P),2.0,Adjunct
+2019,Spring,2018-2019,44479,CSIS,180,IS,0,Web Design-Lab,16,16,Alok K. Mehta (P),2.0,Adjunct
+2019,Spring,2018-2019,43872,CSIS,180,IS,3,Web Design,32,32,Alok K. Mehta (P),2.0,Adjunct
+2019,Spring,2018-2019,42036,CSIS,180,IS,0,Web Design - Lab,16,10,Laura Schindler (P),2.0,Adjunct
+2019,Spring,2018-2019,42662,CSIS,180,IS,0,Web Design-Lab,16,9,Laura Schindler (P),2.0,Adjunct
+2019,Spring,2018-2019,42035,CSIS,180,IS,3,Web Design,32,19,Laura Schindler (P),2.0,Adjunct
+2019,Spring,2018-2019,44980,CSIS,201,IS,0,Diversity in CS - Lab,24,12,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,44978,CSIS,201,IS,3,Diversity in CS,24,12,MaryAnne L. Egan (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,44219,CSIS,210,CS,0,Data Structures-Lab,16,10,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,42038,CSIS,210,CS,0,Data Structures - Lab,16,16,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40280,CSIS,210,CS,3,Data Structures,32,26,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,40168,CSIS,225,CS,0,Advanced Programming Lab,13,4,Pauline White (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,42897,CSIS,225,CS,0,Advanced Programming Lab,13,12,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42898,CSIS,225,CS,0,Advanced Programming-Lab,16,15,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42896,CSIS,225,CS,3,Advanced Programming,39,31,Darren T. Lim (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,44984,CSIS,320,CS,0,Machine Learning-Lab,16,15,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,44986,CSIS,320,CS,0,Machine Learning-Lab,16,11,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,44983,CSIS,320,CS,3,Machine Learning,32,26,Daniel J. DiTursi (P),2.0,FT Visitor/Teaching
+2019,Spring,2018-2019,43592,CSIS,351,CS,3,Theory of Computation,32,32,James R. Matthews (P),3.0,Tenure/Tenure Track
+2019,Spring,2018-2019,44990,CSIS,380,CS,0,Computer Graphics-Lab,16,16,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,44989,CSIS,380,CS,0,Computer Graphics-Lab,16,16,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,44988,CSIS,380,CS,3,Computer Graphics,32,32,Robin Y. Flatland (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42903,CSIS,385,CS,0,Design+Analysis of Alg Lab,14,13,James D. Teresco (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42905,CSIS,385,CS,0,Design+Analysis of Alg Lab,13,13,James D. Teresco (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43594,CSIS,385,CS,0,Design+Analysis of Alg-Lab,13,13,James D. Teresco (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42995,CSIS,385,CS,3,Design+Analysis of Algorithm,40,39,James D. Teresco (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43880,CSIS,390,CS,0,Web Application Dev Lab,17,16,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43881,CSIS,390,CS,0,Web Application Dev - Lab,16,13,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43877,CSIS,390,CS,3,Web Application Development,32,29,Eric A. Breimer (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43597,CSIS,415,CS,0,Software Engineering II-Lab,16,11,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43598,CSIS,415,CS,0,Software Engineering II-Lab,16,6,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,43997,CSIS,415,CS,0,Software Engineering II-Lab,16,16,Jami L. Cotler (P),2.0,Tenure/Tenure Track
+2019,Spring,2018-2019,42045,CSIS,415,CS,3,Software Engineering II,38,33,Jami L. Cotler (P),2.0,Tenure/Tenure Track
