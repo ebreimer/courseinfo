@@ -1,0 +1,1608 @@
+﻿Term,Semester,Year,CRN,Subject,Number,Section,Title,Instructor,Credits,Max,Enroll,SectionType,ContactHours,InstructorType,CourseType
+201030,Fall,2009,30120,CSIS,10,5F,Intro to Computer App-Lab,Bryant,0,9,9,Lab,2,F,B
+201030,Fall,2009,30114,CSIS,10,7,Intro to Computer Applicat,Bryant,3,30,26,Lecture,2,F,B
+201030,Fall,2009,30530,CSIS,10,3,Intro to Computer Applicat,Bryant,3,30,26,Lecture,2,F,B
+201030,Fall,2009,30145,CSIS,10,7E,Intro to Computer App-Lab,Conway,0,15,15,Lab,2,P,B
+201030,Fall,2009,30144,CSIS,10,3E,Intro to Computer Applicat,Cutler,3,30,30,Lecture,2,P,B
+201030,Fall,2009,30118,CSIS,10,9F,Intro to Computer App-Lab,Lim,0,15,15,Lab,2,T,B
+201030,Fall,2009,30121,CSIS,10,0H,Intro to Computer App-Lab,Lim,0,15,15,Lab,2,T,B
+201030,Fall,2009,30532,CSIS,10,1F,Intro to Computer App - Lab,Liss,0,15,14,Lab,2,F,B
+201030,Fall,2009,30116,CSIS,10,8T,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201030,Fall,2009,30531,CSIS,10,8H,Intro to Computer App - Lab,Liss,0,15,15,Lab,2,F,B
+201030,Fall,2009,30115,CSIS,10,9,Intro to Computer Applicat,Liss,3,30,30,Lecture,2,F,B
+201030,Fall,2009,30119,CSIS,10,13M,Intro to Computer App-Lab,White,0,15,14,Lab,2,P,B
+201030,Fall,2009,30434,CSIS,11,05B,Prob Solving With Spreadsheets,Lederman,1,14,7,Lecture,1.5,T,B
+201030,Fall,2009,30433,CSIS,11,05A,Prob Solving With Spreadsheets,Lederman,1,14,12,Lecture,1.5,T,B
+201030,Fall,2009,30966,CSIS,19,3W,Computer Mediated Communicatn,Cotler,1,16,8,Lecture,1,F,N
+201030,Fall,2009,31448,CSIS,19,WE,Computer-Mediated Communicatn,Cotler,1,16,17,Lecture,1,F,N
+201030,Fall,2009,30952,CSIS,19,13T,Competitive Programming II,Diehl,1,9,6,Lecture,1,T,N
+201030,Fall,2009,30126,CSIS,110,9F,Intro CS:3D Prog w/Alice-Lab,Diehl,0,16,9,Lab,2,T,M
+201030,Fall,2009,30127,CSIS,110,2H,Intro CS:3D Progw/Alice-Lab,Egan,0,16,7,Lab,2,T,M
+201030,Fall,2009,30163,CSIS,110,1F,Intro CS:3D Prog w/Alice-Lab,Egan,0,16,14,Lab,2,T,M
+201030,Fall,2009,30125,CSIS,110,5H,Intro CS:3D Prog w/Alice-Lab,Egan,0,16,15,Lab,2,T,M
+201030,Fall,2009,30833,CSIS,110,9,Intro CS:3D Prog with Alice,Egan,3,32,15,Lecture,2,T,M
+201030,Fall,2009,30122,CSIS,110,3,Intro CS:3D Prog with Alice,Egan,3,32,28,Lecture,2,T,M
+201030,Fall,2009,30124,CSIS,110,5F,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,13,Lab,2,T,M
+201030,Fall,2009,30705,CSIS,110,4H,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,16,Lab,2,T,M
+201030,Fall,2009,30123,CSIS,110,7,Intro CS:3D Prog with Alice,Horowitz,3,32,30,Lecture,2,T,M
+201030,Fall,2009,30153,CSIS,110,H10,Intro CS: MM Python Prg-Lab,Vandenberg,0,16,9,Lab,2,T,M
+201030,Fall,2009,30926,CSIS,110,F9,Intro CS MM Python Prg-Lab,Vandenberg,0,16,10,Lab,2,T,M
+201030,Fall,2009,30152,CSIS,110,11,Intro CS Multimedia Python Prg,Vandenberg,3,32,19,Lecture,2,T,M
+201030,Fall,2009,31231,CSIS,112,3,Database Desgn and App for Bus,Garnsey,3,24,16,Lecture,3,T,N
+201030,Fall,2009,30835,CSIS,112,7,Database Desgn and App for Bus,Yoder,3,16,16,Lecture,3,T,N
+201030,Fall,2009,30437,CSIS,114,EH,Management Information Sys-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201030,Fall,2009,30537,CSIS,114,WE,Management Information Sys-lab,Arunasalem,0,16,16,Lab,2,P,B
+201030,Fall,2009,30536,CSIS,114,13M,Management Information Sys-lab,Breimer,0,16,14,Lab,2,T,B
+201030,Fall,2009,30436,CSIS,114,8T,Management Information Sys-Lab,Breimer,0,16,16,Lab,2,T,B
+201030,Fall,2009,30534,CSIS,114,13,Management Information Systems,Breimer,3,32,30,Lecture,2,T,B
+201030,Fall,2009,31346,CSIS,114,M9,Management Information Sys-Lab,Bryant,0,16,13,Lab,2,F,B
+201030,Fall,2009,31348,CSIS,114,2T,Management Information Sys-Lab,Bryant,0,16,14,Lab,2,F,B
+201030,Fall,2009,31345,CSIS,114,11,Management Information Systems,Bryant,3,32,27,Lecture,2,F,B
+201030,Fall,2009,30943,CSIS,114,ET,Management Information Sys-Lab,Conway,0,16,16,Lab,2,P,B
+201030,Fall,2009,30535,CSIS,114,5M,Management Information Sys-lab,Cotler,0,16,16,Lab,2,F,B
+201030,Fall,2009,30533,CSIS,114,5,Management Information Systems,Cotler,3,32,32,Lecture,2,F,B
+201030,Fall,2009,30435,CSIS,114,1M,Management Information Sys-Lab,Horowitz,0,16,16,Lab,2,T,B
+201030,Fall,2009,30582,CSIS,114,8H,Management Information Sys-Lab,Horowitz,0,16,16,Lab,2,T,B
+201030,Fall,2009,30428,CSIS,114,1,Management Information Systems,Horowitz,3,32,32,Lecture,2,T,B
+201030,Fall,2009,30439,CSIS,114,10T,Management Information Sys-Lab,Liss,0,16,17,Lab,2,F,B
+201030,Fall,2009,30942,CSIS,114,7,Management Information Systems,Liss,3,16,17,Lecture,2,F,B
+201030,Fall,2009,30438,CSIS,114,WH,Management Information Systems,White,3,32,32,Lecture,2,P,B
+201030,Fall,2009,30696,CSIS,120,2H,Intro to Programming - Lab,Lim,0,16,13,Lab,2,T,M
+201030,Fall,2009,30695,CSIS,120,5,Intro to Software Development,Lim,4,32,22,Lecture,3,T,M
+201030,Fall,2009,31418,CSIS,120,ME,Intro to Programming-Lab,White,0,16,9,Lab,2,P,M
+201030,Fall,2009,30834,CSIS,200,4,Introduction to GIS,Yoder,3,16,10,Lecture,3,T,N
+201030,Fall,2009,30129,CSIS,210,ME,Data Structures-Lab,Flatland,0,16,6,Lab,2,T,M
+201030,Fall,2009,30165,CSIS,210,9M,Data Structures-Lab,Flatland,0,16,14,Lab,2,T,M
+201030,Fall,2009,30128,CSIS,210,TW,Data Structures,Flatland,3,32,20,Lecture,3,T,M
+201030,Fall,2009,30219,CSIS,220,9W,Comp Arch & Assemb Lan-Lab,Diehl,0,16,8,Lab,2,T,M
+201030,Fall,2009,30218,CSIS,220,5W,Comp Arch & Assemb Lan-Lab,Diehl,0,16,9,Lab,2,T,M
+201030,Fall,2009,30130,CSIS,220,4,Assembly Lang and Comp Archtcr,Diehl,4,32,17,Lecture,3,T,M
+201030,Fall,2009,30697,CSIS,251,8,Discrete Structures,Matthews,3,32,28,Lecture,3,T,M
+201030,Fall,2009,30676,CSIS,350,6,Database Management Systems,Vandenberg,3,16,16,Lecture,3,T,M
+201030,Fall,2009,31228,CSIS,380,9W,Computer Graphics-Lab,Flatland,0,16,16,Lab,2,T,M
+201030,Fall,2009,31227,CSIS,380,11,Computer Graphics,Flatland,3,16,16,Lecture,2,T,M
+201030,Fall,2009,31230,CSIS,401,5M,Web App. Dev. Lab,Breimer,0,16,13,Lab,2,T,M
+201030,Fall,2009,31229,CSIS,401,5WF,Web App. Development,Breimer,3,16,13,Lecture,2,T,M
+201030,Fall,2009,30131,CSIS,410,1,Software Engineering I,Lederman,3,30,17,Lecture,2,T,M
+201040,Spring,2010,40056,CSIS,10,10T,Intro to Computer App.-Lab,Bryant,0,15,15,Lab,2,F,B
+201040,Spring,2010,40051,CSIS,10,7,Intro to Computer Applications,Bryant,3,30,30,Lecture,2,F,B
+201040,Spring,2010,40052,CSIS,10,9,Intro to Computer Applications,Bryant,3,30,30,Lecture,2,F,B
+201040,Spring,2010,40050,CSIS,10,MW,Intro to Computer Applications,Cutler,3,30,28,Lecture,2,P,B
+201040,Spring,2010,40053,CSIS,10,10H,Intro to Computer App.-Lab,Diehl,0,15,15,Lab,2,T,B
+201040,Spring,2010,40055,CSIS,10,11W,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201040,Spring,2010,40273,CSIS,10,1F,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201040,Spring,2010,41247,CSIS,10,3,Intro to Computer Applications,Liss,3,30,30,Lecture,2,F,B
+201040,Spring,2010,40272,CSIS,10,9F,Intro to Computer App - Lab,Steciuk,0,15,13,Lab,2,P,B
+201040,Spring,2010,41248,CSIS,10,9W,Intro to Computer App.-Lab,Vandenberg,0,15,15,Lab,2,T,B
+201040,Spring,2010,40054,CSIS,10,HE,Intro to Computer App.-Lab,White,0,15,15,Lab,2,P,B
+201040,Spring,2010,41346,CSIS,10,ME,Intro to Computer App - Lab,White,0,15,15,Lab,2,P,B
+201040,Spring,2010,40739,CSIS,11,8B,Prob Solving With Spreadsheets,Lederman,1,15,12,Lecture,1.5,T,B
+201040,Spring,2010,40738,CSIS,11,8A,Prob Solving With Spreadsheets,Lederman,1,15,15,Lecture,1.5,T,B
+201040,Spring,2010,40743,CSIS,19,4T,Internet Collaboration,Cotler,1,15,13,Lecture,1,F,N
+201040,Spring,2010,41249,CSIS,19,ME,Internet Collaboration,Cotler,1,15,13,Lecture,1,F,N
+201040,Spring,2010,40827,CSIS,30,12,Intro to Computing with SPSS,Gianico,3,30,10,Lecture,3,P,N
+201040,Spring,2010,40072,CSIS,110,8T,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,13,Lab,2,T,M
+201040,Spring,2010,40071,CSIS,110,6H,Intro CS:3D Prog w/ Alice-Lab,Horowitz,0,16,15,Lab,2,T,M
+201040,Spring,2010,40552,CSIS,110,5,Intro to CS:3D Prog with Alice,Horowitz,3,32,28,Lecture,2,T,M
+201040,Spring,2010,40566,CSIS,110,1W,Intro CS:Multi Python Prg-Lab,Vandenberg,0,16,12,Lab,2,T,M
+201040,Spring,2010,40740,CSIS,110,1,Intro CS:Multimedia Python Prg,Vandenberg,3,16,12,Lecture,2,T,M
+201040,Spring,2010,41250,CSIS,112,7,Database Desgn and App for Bus,Cotler,3,16,16,Lecture,3,F,N
+201040,Spring,2010,40231,CSIS,112,2,Database Desgn and App for Bus,Vandenberg,3,16,16,Lecture,3,T,N
+201040,Spring,2010,41467,CSIS,114,ET,Management Information Sys-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201040,Spring,2010,41466,CSIS,114,TE,Management Information Systems,Arunasalem,3,16,16,Lecture,2,P,B
+201040,Spring,2010,40411,CSIS,114,M9,Management Information Sys-Lab,Breimer,0,16,16,Lab,2,T,B
+201040,Spring,2010,40279,CSIS,114,6T,Management Information Sys-Lab,Breimer,0,16,17,Lab,2,T,B
+201040,Spring,2010,40274,CSIS,114,9,Management Information Systems,Breimer,3,32,33,Lecture,2,T,B
+201040,Spring,2010,40276,CSIS,114,1M,Management Information Sys-Lab,Bryant,0,16,16,Lab,2,F,B
+201040,Spring,2010,40282,CSIS,114,2T,Management Information Sys-Lab,Bryant,0,16,16,Lab,2,F,B
+201040,Spring,2010,40212,CSIS,114,1,Management Information Systems,Bryant,3,32,32,Lecture,2,F,B
+201040,Spring,2010,40561,CSIS,114,THE,Management Information Sys-Lab,Conway,0,16,16,Lab,2,P,B
+201040,Spring,2010,40564,CSIS,114,EW,Management Information Sys-Lab,Conway,0,16,16,Lab,2,P,B
+201040,Spring,2010,40277,CSIS,114,3M,Management Information Sys-Lab,Cotler,0,16,15,Lab,2,F,B
+201040,Spring,2010,40409,CSIS,114,3,Management Information Systems,Cotler,3,32,31,Lecture,2,F,B
+201040,Spring,2010,40280,CSIS,114,2H,Management Information Sys-Lab,Egan,0,16,16,Lab,2,T,B
+201040,Spring,2010,40278,CSIS,114,9M,Management Information Sys-Lab,Horowitz,0,16,16,Lab,2,T,B
+201040,Spring,2010,40741,CSIS,114,4T,Management Information Sys-Lab,Horowitz,0,16,16,Lab,2,T,B
+201040,Spring,2010,40165,CSIS,114,7,Management Information Systems,Horowitz,3,32,32,Lecture,2,T,B
+201040,Spring,2010,40281,CSIS,114,9F,Management Information Sys-Lab,Liss,0,16,16,Lab,2,F,B
+201040,Spring,2010,40410,CSIS,114,8H,Management Information Sys-Lab,Liss,0,16,16,Lab,2,F,B
+201040,Spring,2010,40275,CSIS,114,6,Management Information Systems,Liss,3,32,32,Lecture,2,F,B
+201040,Spring,2010,40560,CSIS,114,WE,Management Information Systems,Yoder,3,32,32,Lecture,2,T,B
+201040,Spring,2010,40413,CSIS,116,9F,Survey of Info Technology-Lab,Yoder,0,16,14,Lab,2,T,N
+201040,Spring,2010,40412,CSIS,116,11,Survey of Info Technology,Yoder,3,16,14,Lecture,2,T,N
+201040,Spring,2010,40075,CSIS,120,8H,Intro to Programming Lab,Egan,0,16,15,Lab,2,T,M
+201040,Spring,2010,40074,CSIS,120,9W,Intro to Programming Lab,Egan,0,16,16,Lab,2,T,M
+201040,Spring,2010,40073,CSIS,120,5,Intro to Software Development,Egan,4,32,31,Lecture,3,T,M
+201040,Spring,2010,40874,CSIS,120,WE,Intro to Programming-Lab,White,0,16,15,Lab,2,P,M
+201040,Spring,2010,40873,CSIS,120,3E,Intro to Software Development,White,4,16,15,Lecture,3,P,M
+201040,Spring,2010,40417,CSIS,210,10W,Data Structures-Lab,Diehl,0,16,12,Lab,2,T,M
+201040,Spring,2010,40416,CSIS,210,5,Data Structures,Diehl,3,16,12,Lecture,3,T,M
+201040,Spring,2010,40239,CSIS,225,11W,Object-Oriented Des & Prog Lab,Lim,0,12,5,Lab,2,T,M
+201040,Spring,2010,40238,CSIS,225,5W,Object-Oriented Des & Prog-Lab,Lim,0,12,12,Lab,2,T,M
+201040,Spring,2010,40414,CSIS,225,5,Advanced Programming,Lim,3,24,17,Lecture,2,T,M
+201040,Spring,2010,41252,CSIS,330,10T,Operating Systems-Lab,Flatland,0,16,16,Lab,3,T,M
+201040,Spring,2010,41251,CSIS,330,13,Operating Systems,Flatland,4,16,16,Lecture,3,T,M
+201040,Spring,2010,40008,CSIS,351,8,Theory of Computation,Diehl,3,32,19,Lecture,3,T,M
+201040,Spring,2010,40076,CSIS,385,4,Design+Analysis of Algorithm,Flatland,3,24,17,Lecture,3,T,M
+201040,Spring,2010,41253,CSIS,400,9,Bioinfomatics,Lim,3,16,8,Lecture,3,T,M
+201040,Spring,2010,40166,CSIS,415,6E,Software Engineering II,Lederman,3,32,17,Lecture,2,T,M
+201130,Fall,2010,30136,CSIS,10,HE,Intro to Computer App-Lab,Adkins,0,15,15,Lab,2,#N/A,B
+201130,Fall,2010,30473,CSIS,10,1F,Intro to Computer App - Lab,Arunasalem,0,15,13,Lab,2,P,B
+201130,Fall,2010,30113,CSIS,10,10T,Intro to Computer App-Lab,Bryant,0,15,14,Lab,2,F,B
+201130,Fall,2010,30109,CSIS,10,9,Intro to Computer Applicat,Bryant,3,30,29,Lecture,2,F,B
+201130,Fall,2010,30108,CSIS,10,7,Intro to Computer Applicat,Bryant,3,30,30,Lecture,2,F,B
+201130,Fall,2010,30135,CSIS,10,3E,Intro to Computer Applicat,Cutler,3,30,30,Lecture,2,P,B
+201130,Fall,2010,30472,CSIS,10,10H,Intro to Computer App - Lab,Putnick,0,15,15,Lab,2,T,B
+201130,Fall,2010,30110,CSIS,10,9W,Intro to Computer App-Lab,Teresco,0,15,14,Lab,2,T,B
+201130,Fall,2010,30112,CSIS,10,13W,Intro to Computer App-Lab,Teresco,0,15,15,Lab,2,T,B
+201130,Fall,2010,30471,CSIS,10,3,Intro to Computer Applicat,Teresco,3,24,23,Lecture,2,T,B
+201130,Fall,2010,30114,CSIS,10,1M,Intro to Computer App-Lab,White,0,15,12,Lab,2,F,B
+201130,Fall,2010,30111,CSIS,10,1W,Intro to Computer App-Lab,White,0,15,15,Lab,2,F,B
+201130,Fall,2010,31354,CSIS,11,12B,Prob Solving With Spreadsheets,Lederman,1,15,9,Lecture,1.5,T,B
+201130,Fall,2010,30383,CSIS,11,08B,Prob Solving With Spreadsheets,Lederman,1,15,14,Lecture,1.5,T,B
+201130,Fall,2010,31353,CSIS,11,12A,Prob Solving With Spreadsheets,Lederman,1,15,14,Lecture,1.5,T,B
+201130,Fall,2010,30382,CSIS,11,08A,Prob Solving With Spreadsheets,Lederman,1,15,15,Lecture,1.5,T,B
+201130,Fall,2010,30741,CSIS,19,13M,Internet Collaboration,Cotler,1,16,7,Lecture,1,F,N
+201130,Fall,2010,30609,CSIS,110,9M,Intro CS:3D Prog w/Alice-Lab,Egan,0,16,13,Lab,2,T,M
+201130,Fall,2010,30154,CSIS,110,5M,Intro CS:3D Prog w/Alice-Lab,Egan,0,16,15,Lab,2,T,M
+201130,Fall,2010,30116,CSIS,110,7,Intro CS:3D Prog with Alice,Egan,3,32,28,Lecture,2,T,M
+201130,Fall,2010,30117,CSIS,110,5F,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,14,Lab,2,T,M
+201130,Fall,2010,30119,CSIS,110,9F,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,14,Lab,2,T,M
+201130,Fall,2010,30678,CSIS,110,9,Intro CS:3D Prog with Alice,Horowitz,3,32,28,Lecture,2,T,M
+201130,Fall,2010,30120,CSIS,110,5H,Intro CS:MM Python Prg Prg-Lab,Small,0,16,9,Lab,2,T,M
+201130,Fall,2010,30118,CSIS,110,6T,Intro CS:MM Python Prg-Lab,Small,0,16,11,Lab,2,T,M
+201130,Fall,2010,30115,CSIS,110,11F,Intro CS:Multimedia Python Prg,Small,3,32,20,Lecture,2,T,M
+201130,Fall,2010,30144,CSIS,110,13W,Intro CS: MM Python Prg-Lab,Vandenberg,0,16,15,Lab,2,T,M
+201130,Fall,2010,30726,CSIS,110,HE,Intro CS MM Python Prg-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201130,Fall,2010,30143,CSIS,110,11,Intro CS Multimedia Python Prg,Vandenberg,3,32,31,Lecture,2,T,M
+201130,Fall,2010,30984,CSIS,114,2T,Management Information Sys-Lab,Bryant,0,16,15,Lab,2,F,B
+201130,Fall,2010,30982,CSIS,114,M1,Management Information Sys-Lab,Bryant,0,16,16,Lab,2,F,B
+201130,Fall,2010,30378,CSIS,114,1,Management Information Systems,Bryant,3,32,31,Lecture,2,F,B
+201130,Fall,2010,30478,CSIS,114,WE,Management Information Sys-lab,Conway,0,16,14,Lab,2,P,B
+201130,Fall,2010,30386,CSIS,114,EM,Management Information Sys-Lab,Conway,0,16,16,Lab,2,P,B
+201130,Fall,2010,30475,CSIS,114,ME,Management Information Systems,Conway,3,32,32,Lecture,2,P,B
+201130,Fall,2010,30385,CSIS,114,T2,Management Information Sys-Lab,Cortesi,0,16,16,Lab,2,P,B
+201130,Fall,2010,31358,CSIS,114,H2,Management Information Sys-Lab,Cortesi,0,16,16,Lab,2,P,B
+201130,Fall,2010,30387,CSIS,114,05M,Management Information Systems,Cortesi,3,32,32,Lecture,2,P,B
+201130,Fall,2010,30476,CSIS,114,3M,Management Information Sys-lab,Cotler,0,16,17,Lab,2,F,B
+201130,Fall,2010,30474,CSIS,114,3,Management Information Systems,Cotler,3,32,33,Lecture,2,F,B
+201130,Fall,2010,30384,CSIS,114,2H,Management Information Sys-Lab,Egan,0,16,16,Lab,2,T,B
+201130,Fall,2010,30477,CSIS,114,10H,Management Information Sys-lab,Horowitz,0,16,16,Lab,2,T,B
+201130,Fall,2010,30509,CSIS,114,8H,Management Information Sys-Lab,Horowitz,0,16,16,Lab,2,T,B
+201130,Fall,2010,30981,CSIS,114,13,Management Information Systems,Horowitz,3,32,32,Lecture,2,T,B
+201130,Fall,2010,30388,CSIS,114,10T,Management Information Sys-Lab,Liss,0,16,15,Lab,2,F,B
+201130,Fall,2010,30734,CSIS,114,H10,Management Information Sys-Lab,Liss,0,16,16,Lab,2,F,B
+201130,Fall,2010,30733,CSIS,114,6,Management Information Systems,Liss,3,32,31,Lecture,2,F,B
+201130,Fall,2010,31356,CSIS,114,EW,Management Information Sys-Lab,Small,0,16,12,Lab,2,T,B
+201130,Fall,2010,31357,CSIS,114,HE,Management Information Sys-Lab,Small,0,16,14,Lab,2,T,B
+201130,Fall,2010,31355,CSIS,114,WR,Management Information System,Small,3,32,24,Lecture,2,T,B
+201130,Fall,2010,31394,CSIS,115,7,Database Design and App fo Bus,Garnsey,3,16,14,Lecture,3,T,N
+201130,Fall,2010,31393,CSIS,115,5,Database Design and App fo Bus,Yoder,3,16,14,Lecture,3,T,N
+201130,Fall,2010,31042,CSIS,120,8H,Intro to Programming-Lab,Breimer,0,16,14,Lab,2,T,M
+201130,Fall,2010,30600,CSIS,120,9W,Intro to Programming - Lab,Breimer,0,16,15,Lab,2,T,M
+201130,Fall,2010,30599,CSIS,120,5,Intro to Software Development,Breimer,4,32,29,Lecture,3,T,M
+201130,Fall,2010,31505,CSIS,120,1F,Intro to Programming-Lab,White,0,16,10,Lab,2,F,M
+201130,Fall,2010,31504,CSIS,120,2,Intro to Software Development,White,4,16,10,Lecture,3,F,M
+201130,Fall,2010,31359,CSIS,200,2,Human-Computer Interaction,Cotler,3,16,12,Lecture,3,F,N
+201130,Fall,2010,30679,CSIS,200,4,Introduction to GIS,Yoder,3,16,12,Lecture,3,T,N
+201130,Fall,2010,30122,CSIS,210,1F,Data Structures-Lab,Flatland,0,16,13,Lab,2,T,M
+201130,Fall,2010,30156,CSIS,210,5W,Data Structures-Lab,Flatland,0,16,16,Lab,2,T,M
+201130,Fall,2010,30121,CSIS,210,3,Data Structures,Flatland,3,32,29,Lecture,3,T,M
+201130,Fall,2010,30205,CSIS,220,8T,Comp Arch & Assemb Lan-Lab,Teresco,0,16,4,Lab,2,T,M
+201130,Fall,2010,30204,CSIS,220,5F,Comp Arch & Assemb Lan-Lab,Teresco,0,16,14,Lab,2,T,M
+201130,Fall,2010,30123,CSIS,220,4,Assembly Lang and Comp Archtcr,Teresco,4,32,18,Lecture,3,T,M
+201130,Fall,2010,31339,CSIS,251,13M,Discrete Structures I-Lab,Matthews,0,16,15,Lab,1.5,T,M
+201130,Fall,2010,31340,CSIS,251,ME,Discrete Structures I-Lab,Matthews,0,16,16,Lab,1.5,T,M
+201130,Fall,2010,30601,CSIS,251,8,Discrete Structures,Matthews,4,32,31,Lecture,2,T,M
+201130,Fall,2010,31362,CSIS,310,11,Numerical Methods,Putnick,3,24,8,Lecture,3,T,M
+201130,Fall,2010,30586,CSIS,350,6,Database Management Systems,Vandenberg,3,16,15,Lecture,3,T,M
+201130,Fall,2010,31396,CSIS,390,1W,Web Application Develop - Lab,Breimer,0,16,7,Lab,2,T,M
+201130,Fall,2010,31395,CSIS,390,2,Web Application Development,Breimer,3,16,7,Lecture,2,T,M
+201130,Fall,2010,30124,CSIS,410,1,Software Engineering I,Lederman,3,30,12,Lecture,2,T,M
+201140,Spring,2011,41649,CSIS,10,HE,Intro to Computer App.-Lab,Arunasalem,0,15,12,Lab,2,P,B
+201140,Spring,2011,41650,CSIS,10,TE,Intro to Computer App.-Lab,Arunasalem,0,15,13,Lab,2,P,B
+201140,Spring,2011,41652,CSIS,10,4T,Intro to Computer App.-Lab,Bryant,0,15,15,Lab,2,F,B
+201140,Spring,2011,42386,CSIS,10,9W,Intro to Computer App.-Lab,Bryant,0,15,15,Lab,2,F,B
+201140,Spring,2011,41647,CSIS,10,7,Intro to Computer Applications,Bryant,3,30,31,Lecture,2,F,B
+201140,Spring,2011,41646,CSIS,10,MW,Intro to Computer Applications,Cutler,3,30,28,Lecture,2,P,B
+201140,Spring,2011,41826,CSIS,10,1F,Intro to Computer App-Lab,Liss,0,15,8,Lab,2,F,B
+201140,Spring,2011,41651,CSIS,10,11M,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201140,Spring,2011,41648,CSIS,10,9,Intro to Computer Applications,Liss,3,30,30,Lecture,2,F,B
+201140,Spring,2011,41825,CSIS,10,9F,Intro to Computer App - Lab,Teresco,0,15,14,Lab,2,T,B
+201140,Spring,2011,42471,CSIS,10,1M,Intro to Computer App - Lab,White,0,15,13,Lab,2,F,B
+201140,Spring,2011,42945,CSIS,10,1W,Intro to Computer App.-Lab,White,0,15,15,Lab,2,F,B
+201140,Spring,2011,42385,CSIS,10,2,Intro to Computer Applications,White,3,30,31,Lecture,2,F,B
+201140,Spring,2011,42153,CSIS,11,8B,Prob Solving With Spreadsheets,Nobel,1,15,13,Lecture,1.5,P,B
+201140,Spring,2011,42152,CSIS,11,8A,Prob Solving With Spreadsheets,Nobel,1,15,15,Lecture,1.5,P,B
+201140,Spring,2011,41660,CSIS,110,6H,Intro CS:3D Prog w/ Alice-Lab,Horowitz,0,15,15,Lab,2,T,M
+201140,Spring,2011,41661,CSIS,110,8T,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,15,15,Lab,2,T,M
+201140,Spring,2011,42038,CSIS,110,11,Intro to CS:3D Prog with Alice,Horowitz,3,30,30,Lecture,2,T,M
+201140,Spring,2011,42048,CSIS,110,2T,Intro CS:Multi Python Prg-Lab,Small,0,12,8,Lab,2,T,M
+201140,Spring,2011,42946,CSIS,110,2H,Intro CS: Multi Python Prg-Lab,Small,0,12,11,Lab,2,T,M
+201140,Spring,2011,42154,CSIS,110,5,Intro CS:Multimedia Python Prg,Small,3,24,19,Lecture,2,T,M
+201140,Spring,2011,41937,CSIS,114,M9,Management Information Sys-Lab,Breimer,0,15,15,Lab,2,T,B
+201140,Spring,2011,41827,CSIS,114,9,Management Information Systems,Breimer,3,30,30,Lecture,2,T,B
+201140,Spring,2011,42947,CSIS,114,9M,Management Information Sys-Lab,Bryant,0,15,13,Lab,2,F,B
+201140,Spring,2011,41829,CSIS,114,1M,Management Information Sys-Lab,Bryant,0,15,15,Lab,2,F,B
+201140,Spring,2011,41779,CSIS,114,1,Management Information Systems,Bryant,3,30,28,Lecture,2,F,B
+201140,Spring,2011,42043,CSIS,114,EM,Management Information Sys-Lab,Conway,0,15,15,Lab,2,P,B
+201140,Spring,2011,42046,CSIS,114,EW,Management Information Sys-Lab,Conway,0,15,15,Lab,2,P,B
+201140,Spring,2011,42042,CSIS,114,MW,Management Information Systems,Conway,3,30,30,Lecture,2,P,B
+201140,Spring,2011,41830,CSIS,114,3M,Management Information Sys-Lab,Cotler,0,15,15,Lab,2,F,B
+201140,Spring,2011,41833,CSIS,114,4H,Management Information Sys-Lab,Cotler,0,15,15,Lab,2,F,B
+201140,Spring,2011,41935,CSIS,114,3,Management Information Systems,Cotler,3,30,30,Lecture,2,F,B
+201140,Spring,2011,42155,CSIS,114,4T,Management Information Sys-Lab,Horowitz,0,15,14,Lab,2,T,B
+201140,Spring,2011,41831,CSIS,114,ME,Management Information Sys-Lab,Horowitz,0,15,15,Lab,2,T,B
+201140,Spring,2011,41745,CSIS,114,7,Management Information Systems,Horowitz,3,30,30,Lecture,2,T,B
+201140,Spring,2011,41835,CSIS,114,8T,Management Information Sys-Lab,Small,0,15,15,Lab,2,T,B
+201140,Spring,2011,41832,CSIS,114,3F,Management Information Sys-Lab,Vandenberg,0,15,14,Lab,2,T,B
+201140,Spring,2011,41834,CSIS,114,9F,Management Information Sys-Lab,Vandenberg,0,15,15,Lab,2,T,B
+201140,Spring,2011,41828,CSIS,114,6,Management Information Systems,Vandenberg,3,30,29,Lecture,2,T,B
+201140,Spring,2011,42948,CSIS,114,13W,Management Information Sys-Lab,Yoder,0,15,8,Lab,2,T,B
+201140,Spring,2011,42581,CSIS,114,ET,Management Information Sys-Lab,Yoder,0,15,15,Lab,2,T,B
+201140,Spring,2011,42580,CSIS,114,TE,Management Information Systems,Yoder,3,30,23,Lecture,2,T,B
+201140,Spring,2011,42950,CSIS,115,7,Database Design and App fo Bus,Cotler,3,15,15,Lecture,3,F,N
+201140,Spring,2011,43073,CSIS,115,3E,Database Design and App fo Bus,Fryling,3,15,13,Lecture,3,T,N
+201140,Spring,2011,42949,CSIS,115,10,Database Design and App fo Bus,Vandenberg,3,15,15,Lecture,3,T,N
+201140,Spring,2011,41939,CSIS,116,1W,Survey of Info Technology-Lab,Cortesi,0,15,16,Lab,2,P,N
+201140,Spring,2011,41938,CSIS,116,2,Survey of Info Technology,Cortesi,3,15,16,Lecture,2,P,N
+201140,Spring,2011,41663,CSIS,120,9W,Intro to Programming Lab,Egan,0,15,15,Lab,2,T,M
+201140,Spring,2011,41664,CSIS,120,8H,Intro to Programming Lab,Egan,0,15,16,Lab,2,T,M
+201140,Spring,2011,41662,CSIS,120,5,Intro to Software Development,Egan,4,30,31,Lecture,3,T,M
+201140,Spring,2011,42201,CSIS,120,3W,Intro to Programming-Lab,Teresco,0,15,12,Lab,2,T,M
+201140,Spring,2011,42953,CSIS,120,W9,Intro to Programming-Lab,Teresco,0,15,15,Lab,2,T,M
+201140,Spring,2011,42200,CSIS,120,8,Intro to Software Development,Teresco,4,30,27,Lecture,3,T,M
+201140,Spring,2011,42956,CSIS,200,3,Under-represented Groups,Egan,3,24,10,Lecture,3,T,N
+201140,Spring,2011,41943,CSIS,210,9M,Data Structures-Lab,Small,0,15,10,Lab,2,T,M
+201140,Spring,2011,41942,CSIS,210,7,Data Structures,Small,3,15,10,Lecture,3,T,M
+201140,Spring,2011,41801,CSIS,225,13W,Object-Oriented Des & Prog Lab,Lim,0,15,11,Lab,2,T,M
+201140,Spring,2011,41800,CSIS,225,5W,Object-Oriented Des & Prog-Lab,Lim,0,15,15,Lab,2,T,M
+201140,Spring,2011,41940,CSIS,225,5,Advanced Programming,Lim,3,30,26,Lecture,2,T,M
+201140,Spring,2011,43030,CSIS,351,8,Theory of Computation,Breimer,3,24,20,Lecture,3,T,M
+201140,Spring,2011,42954,CSIS,365,3,Communications and Networks,Lederman,3,32,20,Lecture,3,T,M
+201140,Spring,2011,42955,CSIS,375,9,Intro to Artificial Intellig,Lim,3,24,23,Lecture,3,T,M
+201140,Spring,2011,41665,CSIS,385,4,Design+Analysis of Algorithm,Teresco,3,32,15,Lecture,3,T,M
+201140,Spring,2011,41746,CSIS,415,6E,Software Engineering II,Lederman,3,32,12,Lecture,2,T,M
+201230,Fall,2011,30130,CSIS,10,HE,Intro to Computer App-Lab,Arunasalem,0,15,11,Lab,2,P,B
+201230,Fall,2011,30359,CSIS,10,10H,Intro to Computer App - Lab,Bryant,0,15,14,Lab,2,F,B
+201230,Fall,2011,30107,CSIS,10,10T,Intro to Computer App-Lab,Bryant,0,15,15,Lab,2,F,B
+201230,Fall,2011,30102,CSIS,10,7,Intro to Computer Applicat,Bryant,3,30,30,Lecture,2,F,B
+201230,Fall,2011,30129,CSIS,10,3E,Intro to Computer Applicat,Cutler,3,30,30,Lecture,2,P,B
+201230,Fall,2011,31229,CSIS,10,TE,Intro to Computer App-Lab,DiTursi,0,15,15,Lab,2,F,B
+201230,Fall,2011,30358,CSIS,10,MW,Intro to Computer Applicat,DiTursi,3,30,30,Lecture,2,F,B
+201230,Fall,2011,30103,CSIS,10,9,Intro to Computer Applicat,DiTursi,3,30,31,Lecture,2,F,B
+201230,Fall,2011,30104,CSIS,10,13M,Intro to Computer App-Lab,Flatland,0,15,15,Lab,2,T,B
+201230,Fall,2011,30108,CSIS,10,1M,Intro to Computer App-Lab,Liss,0,15,10,Lab,2,F,B
+201230,Fall,2011,30105,CSIS,10,1W,Intro to Computer App-Lab,Liss,0,15,14,Lab,2,F,B
+201230,Fall,2011,30360,CSIS,10,1F,Intro to Computer App - Lab,Putnick,0,15,12,Lab,2,T,B
+201230,Fall,2011,30106,CSIS,10,13W,Intro to Computer App-Lab,Putnick,0,15,15,Lab,2,T,B
+201230,Fall,2011,30305,CSIS,11,08B,Prob Solving With Spreadsheets,Flatland,1,15,14,Lecture,1.5,T,B
+201230,Fall,2011,30304,CSIS,11,08A,Prob Solving With Spreadsheets,Flatland,1,15,15,Lecture,1.5,T,B
+201230,Fall,2011,30911,CSIS,11,12B,Prob Solving With Spreadsheets,Nobel,1,15,9,Lecture,1.5,P,B
+201230,Fall,2011,30910,CSIS,11,12A,Prob Solving With Spreadsheets,Nobel,1,15,15,Lecture,1.5,P,B
+201230,Fall,2011,31502,CSIS,19,13M,Competitive Programming,Lim,1,16,9,Lecture,1,T,N
+201230,Fall,2011,30147,CSIS,110,6T,Intro CS:3D Prog w/Alice-Lab,Egan,0,16,15,Lab,2,T,M
+201230,Fall,2011,30474,CSIS,110,9M,Intro CS:3D Prog w/Alice-Lab,Egan,0,16,16,Lab,2,T,M
+201230,Fall,2011,30110,CSIS,110,7,Intro CS:3D Prog with Alice,Egan,3,32,31,Lecture,2,T,M
+201230,Fall,2011,30111,CSIS,110,8H,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,15,Lab,2,T,M
+201230,Fall,2011,30113,CSIS,110,9F,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,17,Lab,2,T,M
+201230,Fall,2011,30527,CSIS,110,9,Intro CS:3D Prog with Alice,Horowitz,3,32,32,Lecture,2,T,M
+201230,Fall,2011,30114,CSIS,110,5H,Intro CS:MM Python Prg Prg-Lab,Small,0,16,12,Lab,2,T,M
+201230,Fall,2011,30112,CSIS,110,1F,Intro CS:MM Python Prg-Lab,Small,0,16,13,Lab,2,T,M
+201230,Fall,2011,30109,CSIS,110,3MW,Intro CS:Multimedia Python Prg,Small,3,32,25,Lecture,2,T,M
+201230,Fall,2011,30565,CSIS,110,HE,Intro CS MM Python Prg-Lab,Vandenberg,0,16,11,Lab,2,T,M
+201230,Fall,2011,30137,CSIS,110,13W,Intro CS: MM Python Prg-Lab,Vandenberg,0,16,14,Lab,2,T,M
+201230,Fall,2011,30136,CSIS,110,11,Intro CS Multimedia Python Prg,Vandenberg,3,32,25,Lecture,2,T,M
+201230,Fall,2011,30681,CSIS,114,2T,Management Information Sys-Lab,Bryant,0,16,11,Lab,2,F,B
+201230,Fall,2011,30679,CSIS,114,M1,Management Information Sys-Lab,Bryant,0,16,14,Lab,2,F,B
+201230,Fall,2011,30300,CSIS,114,1,Management Information Systems,Bryant,3,32,25,Lecture,2,F,B
+201230,Fall,2011,30365,CSIS,114,WE,Management Information Sys-lab,Conway,0,16,14,Lab,2,P,B
+201230,Fall,2011,30308,CSIS,114,EM,Management Information Sys-Lab,Conway,0,16,16,Lab,2,P,B
+201230,Fall,2011,30362,CSIS,114,ME,Management Information Systems,Conway,3,32,30,Lecture,2,P,B
+201230,Fall,2011,30306,CSIS,114,5F,Management Information Sys-Lab,Cotler,0,16,15,Lab,2,F,B
+201230,Fall,2011,30363,CSIS,114,3M,Management Information Sys-lab,Cotler,0,16,16,Lab,2,F,B
+201230,Fall,2011,30361,CSIS,114,3,Management Information Systems,Cotler,3,32,31,Lecture,2,F,B
+201230,Fall,2011,30307,CSIS,114,T2,Management Information Sys-Lab,DiTursi,0,16,13,Lab,2,F,B
+201230,Fall,2011,30915,CSIS,114,H2,Management Information Sys-Lab,DiTursi,0,16,14,Lab,2,F,B
+201230,Fall,2011,30309,CSIS,114,05M,Management Information Systems,DiTursi,3,32,27,Lecture,2,F,B
+201230,Fall,2011,30310,CSIS,114,5W,Management Information Sys-Lab,Fryling,0,16,16,Lab,2,T,B
+201230,Fall,2011,30573,CSIS,114,H12,Management Information Sys-Lab,Fryling,0,16,16,Lab,2,T,B
+201230,Fall,2011,30572,CSIS,114,6,Management Information Systems,Fryling,3,32,32,Lecture,2,T,B
+201230,Fall,2011,30364,CSIS,114,12T,Management Information Sys-lab,Horowitz,0,16,16,Lab,2,T,B
+201230,Fall,2011,30388,CSIS,114,4T,Management Information Sys-Lab,Horowitz,0,16,16,Lab,2,T,B
+201230,Fall,2011,30678,CSIS,114,13,Management Information Systems,Horowitz,3,32,32,Lecture,2,T,B
+201230,Fall,2011,30914,CSIS,114,MEE,Management Information Sys-Lab,Schindler,0,16,10,Lab,2,P,B
+201230,Fall,2011,30913,CSIS,114,TE,Management Information Sys-Lab,Schindler,0,16,16,Lab,2,P,B
+201230,Fall,2011,30912,CSIS,114,MW,Management Information System,Schindler,3,32,26,Lecture,2,P,B
+201230,Fall,2011,31230,CSIS,115,9,Database Design and App fo Bus,Fryling,3,16,16,Lecture,3,T,N
+201230,Fall,2011,30944,CSIS,115,7,Database Design and App fo Bus,Garnsey,3,16,16,Lecture,3,T,N
+201230,Fall,2011,30943,CSIS,115,5,Database Design and App fo Bus,Lim,3,16,16,Lecture,3,T,N
+201230,Fall,2011,30466,CSIS,120,9W,Intro to Programming - Lab,Breimer,0,16,9,Lab,2,T,M
+201230,Fall,2011,30701,CSIS,120,8H,Intro to Programming-Lab,Breimer,0,16,12,Lab,2,T,M
+201230,Fall,2011,30465,CSIS,120,5,Intro to Software Development,Breimer,4,32,21,Lecture,3,T,M
+201230,Fall,2011,31033,CSIS,120,WE,Intro to Programming-Lab,Lim,0,16,16,Lab,2,T,M
+201230,Fall,2011,31032,CSIS,120,2E,Intro to Software Development,Lim,4,16,16,Lecture,3,T,M
+201230,Fall,2011,31232,CSIS,180,9M,Web Design-Lab,Teresco,0,16,16,Lab,2,T,N
+201230,Fall,2011,31231,CSIS,180,9,Web Design,Teresco,3,16,16,Lecture,2,T,N
+201230,Fall,2011,31552,CSIS,200,4,Human-Computer Interaction,Cotler,3,16,7,Lecture,3,F,N
+201230,Fall,2011,30149,CSIS,210,10H,Data Structures-Lab,Yoder,0,16,14,Lab,2,T,M
+201230,Fall,2011,30116,CSIS,210,9F,Data Structures-Lab,Yoder,0,16,16,Lab,2,T,M
+201230,Fall,2011,30115,CSIS,210,11,Data Structures,Yoder,3,32,30,Lecture,3,T,M
+201230,Fall,2011,30192,CSIS,220,5W,Comp Arch & Assemb Lan-Lab,Teresco,0,16,13,Lab,2,T,M
+201230,Fall,2011,30193,CSIS,220,8T,Comp Arch & Assemb Lan-Lab,Teresco,0,16,16,Lab,2,T,M
+201230,Fall,2011,30117,CSIS,220,4,Assembly Lang and Comp Archtcr,Teresco,4,32,29,Lecture,3,T,M
+201230,Fall,2011,31546,CSIS,251,EM,Discrete Structures I-Lab,Matthews,0,16,8,Lab,1.5,T,M
+201230,Fall,2011,30896,CSIS,251,13M,Discrete Structures I-Lab,Matthews,0,16,16,Lab,1.5,T,M
+201230,Fall,2011,30897,CSIS,251,ME,Discrete Structures I-Lab,Matthews,0,16,17,Lab,1.5,T,M
+201230,Fall,2011,31545,CSIS,251,10,Discrete Structures,Matthews,4,16,8,Lecture,2,T,M
+201230,Fall,2011,30467,CSIS,251,8,Discrete Structures,Matthews,4,32,33,Lecture,2,T,M
+201230,Fall,2011,30456,CSIS,350,6,Database Management Systems,Vandenberg,3,16,16,Lecture,3,T,M
+201230,Fall,2011,30946,CSIS,390,8T,Web Application Develop - Lab,Breimer,0,16,16,Lab,2,T,M
+201230,Fall,2011,30945,CSIS,390,11,Web Application Development,Breimer,3,16,16,Lecture,2,T,M
+201230,Fall,2011,31474,CSIS,401,5F,Robotics Lab,Small,0,20,20,Lab,2,T,M
+201230,Fall,2011,31473,CSIS,401,5,Robotics,Small,3,20,20,Lecture,2,T,M
+201230,Fall,2011,30118,CSIS,410,1,Software Engineering I,Lederman,3,30,22,Lecture,2,T,M
+201240,Spring,2012,40188,CSIS,10,TE,Intro to Computer App - Lab,Arunasalem,0,15,14,Lab,2,P,B
+201240,Spring,2012,40039,CSIS,10,12T,Intro to Computer App.-Lab,Arunasalem,0,15,15,Lab,2,P,B
+201240,Spring,2012,40041,CSIS,10,4T,Intro to Computer App.-Lab,Bryant,0,15,15,Lab,2,F,B
+201240,Spring,2012,40585,CSIS,10,9W,Intro to Computer App.-Lab,Bryant,0,15,15,Lab,2,F,B
+201240,Spring,2012,40036,CSIS,10,7,Intro to Computer Applications,Bryant,3,30,30,Lecture,2,F,B
+201240,Spring,2012,40040,CSIS,10,2T,Intro to Computer App.-Lab,Conway,0,15,14,Lab,2,P,B
+201240,Spring,2012,40189,CSIS,10,1F,Intro to Computer App-Lab,Conway,0,15,15,Lab,2,P,B
+201240,Spring,2012,40035,CSIS,10,MW,Intro to Computer Applications,Cutler,3,30,30,Lecture,2,P,B
+201240,Spring,2012,40584,CSIS,10,2,Intro to Computer Applications,DiTursi,3,30,14,Lecture,2,F,B
+201240,Spring,2012,41470,CSIS,10,4,Intro to Computer Applications,DiTursi,3,30,30,Lecture,2,F,B
+201240,Spring,2012,40622,CSIS,10,1M,Intro to Computer App - Lab,Liss,0,15,15,Lab,2,F,B
+201240,Spring,2012,40870,CSIS,10,1W,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201240,Spring,2012,40037,CSIS,10,9,Intro to Computer Applications,Schindler,3,30,30,Lecture,2,P,B
+201240,Spring,2012,40038,CSIS,10,12H,Intro to Computer App.-Lab,Yates,0,15,15,Lab,2,P,B
+201240,Spring,2012,40457,CSIS,11,8B,Prob Solving With Spreadsheets,Nobel,1,15,12,Lecture,1.5,P,B
+201240,Spring,2012,40456,CSIS,11,8A,Prob Solving With Spreadsheets,Nobel,1,15,16,Lecture,1.5,P,B
+201240,Spring,2012,41472,CSIS,13,15W,Computer Ethics,Liss,1,24,5,Lecture,1,F,N
+201240,Spring,2012,41474,CSIS,19,ME,Designing/User Experience,Robinson,1,24,12,Lecture,1,P,N
+201240,Spring,2012,41541,CSIS,19,09M,Robotics Competitions,Small,1,24,15,Lecture,1,T,N
+201240,Spring,2012,40049,CSIS,110,6H,Intro CS:3D Prog w/ Alice-Lab,Horowitz,0,12,11,Lab,2,T,M
+201240,Spring,2012,40050,CSIS,110,3F,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,12,12,Lab,2,T,M
+201240,Spring,2012,40357,CSIS,110,11,Intro to CS:3D Prog with Alice,Horowitz,3,24,23,Lecture,2,T,M
+201240,Spring,2012,40366,CSIS,110,2T,Intro CS:Multi Python Prg-Lab,Vandenberg,0,15,6,Lab,2,T,M
+201240,Spring,2012,40871,CSIS,110,2H,Intro CS: Multi Python Prg-Lab,Vandenberg,0,15,10,Lab,2,T,M
+201240,Spring,2012,40458,CSIS,110,5,Intro CS:Multimedia Python Prg,Vandenberg,3,30,16,Lecture,2,T,M
+201240,Spring,2012,40276,CSIS,114,M9,Management Information Sys-Lab,Breimer,0,15,15,Lab,2,T,B
+201240,Spring,2012,40190,CSIS,114,9,Management Information Systems,Breimer,3,30,30,Lecture,2,T,B
+201240,Spring,2012,40872,CSIS,114,9M,Management Information Sys-Lab,Bryant,0,15,14,Lab,2,F,B
+201240,Spring,2012,40192,CSIS,114,1M,Management Information Sys-Lab,Bryant,0,15,15,Lab,2,F,B
+201240,Spring,2012,40153,CSIS,114,1,Management Information Systems,Bryant,3,30,29,Lecture,2,F,B
+201240,Spring,2012,40198,CSIS,114,4T,Management Information Sys-Lab,Conway,0,15,15,Lab,2,P,B
+201240,Spring,2012,40196,CSIS,114,4H,Management Information Sys-Lab,Cotler,0,15,14,Lab,2,F,B
+201240,Spring,2012,40193,CSIS,114,3M,Management Information Sys-Lab,Cotler,0,15,15,Lab,2,F,B
+201240,Spring,2012,40275,CSIS,114,3,Management Information Systems,Cotler,3,30,29,Lecture,2,F,B
+201240,Spring,2012,40195,CSIS,114,8H,Management Information Sys-Lab,DiTursi,0,15,9,Lab,2,F,B
+201240,Spring,2012,40197,CSIS,114,8T,Management Information Sys-Lab,DiTursi,0,15,13,Lab,2,F,B
+201240,Spring,2012,40191,CSIS,114,6,Management Information Systems,DiTursi,3,30,22,Lecture,2,F,B
+201240,Spring,2012,40659,CSIS,114,TN,Management Information Sys-Lab,Fryling,0,15,15,Lab,2,T,B
+201240,Spring,2012,40873,CSIS,114,13W,Management Information Sys-Lab,Fryling,0,15,15,Lab,2,T,B
+201240,Spring,2012,40658,CSIS,114,11,Management Information Systems,Fryling,3,30,30,Lecture,2,T,B
+201240,Spring,2012,40194,CSIS,114,ME,Management Information Sys-Lab,Horowitz,0,15,15,Lab,2,T,B
+201240,Spring,2012,40459,CSIS,114,T8,Management Information Sys-Lab,Horowitz,0,15,15,Lab,2,T,B
+201240,Spring,2012,40121,CSIS,114,7,Management Information Systems,Horowitz,3,30,30,Lecture,2,T,B
+201240,Spring,2012,40362,CSIS,114,WE,Management Information Sys-Lab,Schindler,0,15,15,Lab,2,P,B
+201240,Spring,2012,40365,CSIS,114,EM,Management Information Sys-Lab,Schindler,0,15,15,Lab,2,P,B
+201240,Spring,2012,40361,CSIS,114,MW,Management Information Systems,Schindler,3,30,30,Lecture,2,P,B
+201240,Spring,2012,40875,CSIS,115,7,Database Design and App fo Bus,Cotler,3,15,15,Lecture,3,F,N
+201240,Spring,2012,40874,CSIS,115,10,Database Design and App fo Bus,Fryling,3,15,15,Lecture,3,T,N
+201240,Spring,2012,40977,CSIS,115,3E,Database Design and App fo Bus,Lim,3,15,16,Lecture,3,T,N
+201240,Spring,2012,41475,CSIS,115,5,Database Design and App fo Bus,Nobel,3,15,15,Lecture,3,P,N
+201240,Spring,2012,40278,CSIS,116,12H,Survey of Info Technology-Lab,Cortesi,0,15,11,Lab,2,P,N
+201240,Spring,2012,41476,CSIS,116,9F,Survey of Info Technology-Lab,Cortesi,0,15,11,Lab,2,P,N
+201240,Spring,2012,40277,CSIS,116,15,Survey of Info Technology,Cortesi,3,30,22,Lecture,2,P,N
+201240,Spring,2012,40053,CSIS,120,8H,Intro to Programming Lab,Small,0,15,12,Lab,2,T,M
+201240,Spring,2012,40052,CSIS,120,9W,Intro to Programming Lab,Small,0,15,14,Lab,2,T,M
+201240,Spring,2012,40051,CSIS,120,5,Intro to Software Development,Small,4,30,26,Lecture,3,T,M
+201240,Spring,2012,40487,CSIS,120,3W,Intro to Programming-Lab,Teresco,0,15,13,Lab,2,T,M
+201240,Spring,2012,40876,CSIS,120,W9,Intro to Programming-Lab,Teresco,0,15,16,Lab,2,T,M
+201240,Spring,2012,40486,CSIS,120,8,Intro to Software Development,Teresco,4,30,29,Lecture,3,T,M
+201240,Spring,2012,40879,CSIS,200,8,Intro to GIS,Yoder,3,15,13,Lecture,3,T,N
+201240,Spring,2012,40281,CSIS,210,9M,Data Structures-Lab,Yoder,0,15,18,Lab,2,T,M
+201240,Spring,2012,40280,CSIS,210,7,Data Structures,Yoder,3,15,18,Lecture,3,T,M
+201240,Spring,2012,40169,CSIS,225,13W,Object-Oriented Des & Prog Lab,Lim,0,15,15,Lab,2,T,M
+201240,Spring,2012,40168,CSIS,225,5W,Object-Oriented Des & Prog-Lab,Lim,0,15,16,Lab,2,T,M
+201240,Spring,2012,40279,CSIS,225,5,Advanced Programming,Lim,3,30,31,Lecture,2,T,M
+201240,Spring,2012,41479,CSIS,330,3F,Operating Systems - Lab,Teresco,0,16,6,Lab,3,T,M
+201240,Spring,2012,41477,CSIS,330,4,Operating Systems,Teresco,4,16,6,Lecture,3,T,M
+201240,Spring,2012,41588,CSIS,351,1,Theory of Computation,DiTursi,3,32,31,Lecture,3,F,M
+201240,Spring,2012,41480,CSIS,355,13,Advanced Database,Vandenberg,3,16,14,Lecture,3,T,M
+201240,Spring,2012,41483,CSIS,380,6T,Computer Graphics - Lab,Flatland,0,16,17,Lab,2,T,M
+201240,Spring,2012,41481,CSIS,380,5,Computer Graphics,Flatland,3,16,17,Lecture,2,T,M
+201240,Spring,2012,40054,CSIS,385,11,Design+Analysis of Algorithm,Flatland,3,30,30,Lecture,3,T,M
+201240,Spring,2012,40122,CSIS,415,6E,Software Engineering II,Lederman,3,32,21,Lecture,2,T,M
+201330,Fall,2012,30359,CSIS,10,09W,Intro to Computer App - Lab,Bryant,0,15,14,Lab,2,F,B
+201330,Fall,2012,30129,CSIS,10,3E,Intro to Computer Applicat,Cutler,3,30,27,Lecture,2,P,B
+201330,Fall,2012,30103,CSIS,10,2E,Intro to Computer Applicat,Cutler,3,30,30,Lecture,2,P,B
+201330,Fall,2012,30105,CSIS,10,05M,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201330,Fall,2012,30108,CSIS,10,01M,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201330,Fall,2012,30106,CSIS,10,01W,Intro to Computer App-Lab,Putnick,0,15,9,Lab,2,T,B
+201330,Fall,2012,30360,CSIS,10,01F,Intro to Computer App - Lab,Putnick,0,15,9,Lab,2,T,B
+201330,Fall,2012,31229,CSIS,10,8ET,Intro to Computer App-Lab,Rivituso,0,15,13,Lab,2,P,B
+201330,Fall,2012,30102,CSIS,10,15,Intro to Computer Applicat,Schindler,3,30,28,Lecture,2,P,B
+201330,Fall,2012,30358,CSIS,10,7,Intro to Computer Applicat,Schindler,3,30,30,Lecture,2,P,B
+201330,Fall,2012,30104,CSIS,10,09M,Intro to Computer App-Lab,Vandenberg,0,15,14,Lab,2,T,B
+201330,Fall,2012,30130,CSIS,10,9EW,Intro to Computer App-Lab,Yates,0,15,11,Lab,2,P,B
+201330,Fall,2012,30107,CSIS,10,05F,Intro to Computer App-Lab,Yoder,0,15,15,Lab,2,T,B
+201330,Fall,2012,30911,CSIS,11,2EB,Prob Solving With Spreadsheets,Arunasalem,1,15,11,Lecture,1.5,P,B
+201330,Fall,2012,30910,CSIS,11,3EA,Prob Solving With Spreadsheets,Arunasalem,1,15,15,Lecture,1.5,P,B
+201330,Fall,2012,30304,CSIS,11,08A,Prob Solving With Spreadsheets,Cotler,1,15,15,Lecture,1.5,F,B
+201330,Fall,2012,30305,CSIS,11,08B,Prob Solving With Spreadsheets,Cotler,1,15,15,Lecture,1.5,F,B
+201330,Fall,2012,31502,CSIS,19,2ET,Competitive Programming F12,Lim,1,16,7,Lecture,1,T,N
+201330,Fall,2012,30147,CSIS,110,29F,Intro CS:MM Python Prg-Lab,Fryling,0,15,11,Lab,2,T,M
+201330,Fall,2012,30565,CSIS,110,12H,Intro CS MM Python Prg-Lab,Fryling,0,15,14,Lab,2,T,M
+201330,Fall,2012,30136,CSIS,110,11,Intro CS Multimedia Python Prg,Fryling,3,30,25,Lecture,2,T,M
+201330,Fall,2012,30111,CSIS,110,02H,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,15,11,Lab,2,T,M
+201330,Fall,2012,30113,CSIS,110,09F,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,15,14,Lab,2,T,M
+201330,Fall,2012,30527,CSIS,110,9,Intro CS:3D Prog with Alice,Horowitz,3,30,25,Lecture,2,T,M
+201330,Fall,2012,30112,CSIS,110,05F,Intro CS:MM Python Prg-Lab,Small,0,15,13,Lab,2,T,M
+201330,Fall,2012,30114,CSIS,110,05W,Intro CS:MM Python Prg Prg-Lab,Small,0,15,14,Lab,2,T,M
+201330,Fall,2012,30109,CSIS,110,3,Intro CS:Multimedia Python Prg,Small,3,30,27,Lecture,2,T,M
+201330,Fall,2012,30474,CSIS,110,08T,Intro CS:MM Python Prg-Lab,Vandenberg,0,15,12,Lab,2,T,M
+201330,Fall,2012,30110,CSIS,110,7,Intro CS: MM Python Prg,Vandenberg,3,15,12,Lecture,2,T,M
+201330,Fall,2012,30365,CSIS,114,04H,Management Information Sys-lab,Breimer,0,16,14,Lab,2,T,B
+201330,Fall,2012,30308,CSIS,114,08T,Management Information Sys-Lab,Breimer,0,16,16,Lab,2,T,B
+201330,Fall,2012,30362,CSIS,114,25,Management Information Systems,Breimer,3,32,30,Lecture,2,T,B
+201330,Fall,2012,30681,CSIS,114,02T,Management Information Sys-Lab,Bryant,0,15,13,Lab,2,F,B
+201330,Fall,2012,30679,CSIS,114,01M,Management Information Sys-Lab,Bryant,0,15,15,Lab,2,F,B
+201330,Fall,2012,30300,CSIS,114,1,Management Information Systems,Bryant,3,30,28,Lecture,2,F,B
+201330,Fall,2012,30306,CSIS,114,22T,Management Information Sys-Lab,Cotler,0,16,12,Lab,2,F,B
+201330,Fall,2012,30363,CSIS,114,04T,Management Information Sys-lab,Cotler,0,16,13,Lab,2,F,B
+201330,Fall,2012,30361,CSIS,114,3,Management Information Systems,Cotler,3,32,25,Lecture,2,F,B
+201330,Fall,2012,30573,CSIS,114,10H,Management Information Sys-Lab,Liss,0,16,6,Lab,2,F,B
+201330,Fall,2012,30310,CSIS,114,05W,Management Information Sys-Lab,Liss,0,16,16,Lab,2,F,B
+201330,Fall,2012,30572,CSIS,114,6,Management Information Systems,Liss,3,32,22,Lecture,2,F,B
+201330,Fall,2012,30307,CSIS,114,09W,Management Information Sys-Lab,Schindler,0,15,15,Lab,2,P,B
+201330,Fall,2012,30915,CSIS,114,02H,Management Information Sys-Lab,Schindler,0,15,15,Lab,2,P,B
+201330,Fall,2012,30309,CSIS,114,5,Management Information Systems,Schindler,3,30,30,Lecture,2,P,B
+201330,Fall,2012,30364,CSIS,114,08H,Management Information Sys-lab,Yoder,0,16,10,Lab,2,T,B
+201330,Fall,2012,30678,CSIS,114,15,Management Information Systems,Yoder,3,16,10,Lecture,2,T,B
+201330,Fall,2012,31230,CSIS,115,13,Database Design and App fo Bus,Fryling,3,15,15,Lecture,3,T,N
+201330,Fall,2012,30944,CSIS,115,MWE,Database Design and App fo Bus,Garnsey,3,15,13,Lecture,3,T,N
+201330,Fall,2012,31971,CSIS,115,12,Database Design and App fo Bus,Horowitz,3,15,15,Lecture,3,T,N
+201330,Fall,2012,30943,CSIS,115,10,Database Design and App fo Bus,Horowitz,3,15,16,Lecture,3,T,N
+201330,Fall,2012,30701,CSIS,120,01W,Intro to Programming-Lab,Egan,0,15,15,Lab,2,T,M
+201330,Fall,2012,30465,CSIS,120,10,Intro to Software Development,Egan,4,15,15,Lecture,3,T,M
+201330,Fall,2012,30466,CSIS,120,04H,Intro to Programming - Lab,Lim,0,15,7,Lab,2,T,M
+201330,Fall,2012,31033,CSIS,120,09W,Intro to Programming-Lab,Lim,0,15,15,Lab,2,T,M
+201330,Fall,2012,31032,CSIS,120,12,Intro to Software Development,Lim,4,30,22,Lecture,3,T,M
+201330,Fall,2012,31232,CSIS,180,09M,Web Design-Lab,Bryant,0,16,8,Lab,2,F,N
+201330,Fall,2012,31231,CSIS,180,5,Web Design,Bryant,3,16,8,Lecture,2,F,N
+201330,Fall,2012,31973,CSIS,200,4,Diversity in Computer Science,Egan,3,24,24,Lecture,3,T,N
+201330,Fall,2012,31552,CSIS,200,2,Nature of Humans & Machines,Medsker,3,24,24,Lecture,3,T,N
+201330,Fall,2012,30149,CSIS,210,09F,Data Structures-Lab,Flatland,0,12,11,Lab,2,T,M
+201330,Fall,2012,30116,CSIS,210,01F,Data Structures-Lab,Flatland,0,12,12,Lab,2,T,M
+201330,Fall,2012,32015,CSIS,210,8H,Data Structures - Lab,Flatland,0,16,16,Lab,2,T,M
+201330,Fall,2012,30115,CSIS,210,11,Data Structures,Flatland,3,24,22,Lecture,3,T,M
+201330,Fall,2012,32014,CSIS,210,9,Data Structures,Flatland,3,16,17,Lecture,3,T,M
+201330,Fall,2012,32035,CSIS,220,9EW,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,12,Lab,2,F,M
+201330,Fall,2012,30192,CSIS,220,13W,Comp Arch & Assemb Lan-Lab,DiTursi,0,16,14,Lab,2,F,M
+201330,Fall,2012,30193,CSIS,220,05W,Comp Arch & Assemb Lan-Lab,DiTursi,0,16,15,Lab,2,F,M
+201330,Fall,2012,32034,CSIS,220,2,Assembly Lang and Comp Archtcr,DiTursi,4,16,11,Lecture,3,F,M
+201330,Fall,2012,30117,CSIS,220,4,Assembly Lang and Comp Archtcr,DiTursi,4,32,30,Lecture,3,F,M
+201330,Fall,2012,31546,CSIS,251,7EM,Discrete Structures I-Lab,Matthews,0,16,13,Lab,1.5,T,M
+201330,Fall,2012,30897,CSIS,251,3EM,Discrete Structures I-Lab,Matthews,0,16,14,Lab,1.5,T,M
+201330,Fall,2012,30896,CSIS,251,13M,Discrete Structures I-Lab,Matthews,0,16,16,Lab,1.5,T,M
+201330,Fall,2012,31545,CSIS,251,10,Discrete Structures,Matthews,4,16,12,Lecture,2,T,M
+201330,Fall,2012,30467,CSIS,251,8,Discrete Structures,Matthews,4,32,31,Lecture,2,T,M
+201330,Fall,2012,31974,CSIS,340,8,Programming Languages,Lim,3,24,11,Lecture,3,T,M
+201330,Fall,2012,30456,CSIS,350,4,Database Management Systems,Vandenberg,3,16,16,Lecture,3,T,M
+201330,Fall,2012,30946,CSIS,390,13W,Web Application Develop - Lab,Breimer,0,16,16,Lab,2,T,M
+201330,Fall,2012,30945,CSIS,390,11,Web Application Development,Breimer,3,16,16,Lecture,2,T,M
+201330,Fall,2012,31474,CSIS,401,09F,Robotics Lab,Small,0,15,14,Lab,2,T,M
+201330,Fall,2012,31473,CSIS,401,9,Robotics F12,Small,3,15,14,Lecture,2,T,M
+201330,Fall,2012,32028,CSIS,410,01M,Software Engineering I-Lab,Lederman,0,24,20,Lab,2,T,M
+201330,Fall,2012,30118,CSIS,410,1,Software Engineering I,Lederman,3,24,20,Lecture,2,T,M
+201340,Spring,2013,40189,CSIS,10,09F,Intro to Computer App-Lab,Breimer,0,15,15,Lab,2,T,B
+201340,Spring,2013,40585,CSIS,10,09W,Intro to Computer App.-Lab,Bryant,0,15,15,Lab,2,F,B
+201340,Spring,2013,40038,CSIS,10,HE,Intro to Computer App.-Lab,Cramer,0,15,14,Lab,2,P,B
+201340,Spring,2013,40036,CSIS,10,3E,Intro to Computer Applications,Cutler,3,30,30,Lecture,2,P,B
+201340,Spring,2013,40037,CSIS,10,2E,Intro to Computer Applications,Cutler,3,30,30,Lecture,2,P,B
+201340,Spring,2013,41470,CSIS,10,3,Intro to Computer Applications,DiTursi,3,30,29,Lecture,2,F,B
+201340,Spring,2013,40039,CSIS,10,WE,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201340,Spring,2013,40041,CSIS,10,05W,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201340,Spring,2013,40622,CSIS,10,09M,Intro to Computer App - Lab,Liss,0,15,15,Lab,2,F,B
+201340,Spring,2013,40870,CSIS,10,01M,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201340,Spring,2013,40584,CSIS,10,2,Intro to Computer Applications,Liss,3,30,30,Lecture,2,F,B
+201340,Spring,2013,40040,CSIS,10,TE2,Intro to Computer App.-Lab,Rivituso,0,15,14,Lab,2,P,B
+201340,Spring,2013,40456,CSIS,11,TRA,Prob Solving With Spreadsheets,Mendez,1,15,15,Lecture,1.5,P,B
+201340,Spring,2013,40457,CSIS,11,TRB,Prob Solving With Spreadsheets,Mendez,1,15,15,Lecture,1.5,P,B
+201340,Spring,2013,42034,CSIS,19,FE,Stress-free Computing,Cotler,1,24,17,Lecture,1,F,N
+201340,Spring,2013,41474,CSIS,19,12T,Designing/User Experience,Robinson,1,24,7,Lecture,1,P,N
+201340,Spring,2013,41541,CSIS,19,09W,Artificial Intelligence Res.,Small,1,24,11,Lecture,1,T,N
+201340,Spring,2013,40050,CSIS,110,24H,Intro CS:Multi Python Prg-Lab,Fryling,0,16,16,Lab,2,T,M
+201340,Spring,2013,40357,CSIS,110,7,Intro to CS:Multi Python Prg,Fryling,3,16,16,Lecture,2,T,M
+201340,Spring,2013,40366,CSIS,110,05F,Intro CS:Multi Python Prg-Lab,Vandenberg,0,15,15,Lab,2,T,M
+201340,Spring,2013,40871,CSIS,110,10H,Intro CS: Multi Python Prg-Lab,Vandenberg,0,15,15,Lab,2,T,M
+201340,Spring,2013,40458,CSIS,110,5,Intro CS:Multimedia Python Prg,Vandenberg,3,30,30,Lecture,2,T,M
+201340,Spring,2013,40872,CSIS,114,02T,Management Information Sys-Lab,Bryant,0,15,15,Lab,2,F,B
+201340,Spring,2013,40192,CSIS,114,01M,Management Information Sys-Lab,Bryant,0,15,16,Lab,2,F,B
+201340,Spring,2013,40153,CSIS,114,1,Management Information Systems,Bryant,3,30,31,Lecture,2,F,B
+201340,Spring,2013,40193,CSIS,114,10H,Management Information Sys-Lab,Cotler,0,15,14,Lab,2,F,B
+201340,Spring,2013,40196,CSIS,114,08H,Management Information Sys-Lab,Cotler,0,15,16,Lab,2,F,B
+201340,Spring,2013,40275,CSIS,114,5,Management Information Systems,Cotler,3,30,30,Lecture,2,F,B
+201340,Spring,2013,40195,CSIS,114,04T,Management Information Sys-Lab,DiTursi,0,15,15,Lab,2,F,B
+201340,Spring,2013,40197,CSIS,114,22T,Management Information Sys-Lab,DiTursi,0,15,15,Lab,2,F,B
+201340,Spring,2013,40191,CSIS,114,9,Management Information Systems,DiTursi,3,30,30,Lecture,2,F,B
+201340,Spring,2013,40873,CSIS,114,09W,Management Information Sys-Lab,Egan,0,15,15,Lab,2,T,B
+201340,Spring,2013,40658,CSIS,114,4,Management Information Systems,Egan,3,30,30,Lecture,2,T,B
+201340,Spring,2013,40659,CSIS,114,28T,Management Information Sys-Lab,Fryling,0,15,15,Lab,2,T,B
+201340,Spring,2013,40362,CSIS,114,13M,Management Information Sys-Lab,Schindler,0,15,15,Lab,2,P,B
+201340,Spring,2013,40365,CSIS,114,13W,Management Information Sys-Lab,Schindler,0,15,15,Lab,2,P,B
+201340,Spring,2013,40361,CSIS,114,27,Management Information Systems,Schindler,3,30,30,Lecture,2,P,B
+201340,Spring,2013,40194,CSIS,114,HE,Management Information Sys-Lab,Yates,0,16,16,Lab,2,P,B
+201340,Spring,2013,40121,CSIS,114,7,Management Information Systems,Yates,3,16,16,Lecture,2,P,B
+201340,Spring,2013,40875,CSIS,115,2,Database Design and App fo Bus,Cotler,3,15,15,Lecture,3,F,N
+201340,Spring,2013,40977,CSIS,115,4,Database Design and App fo Bus,Cotler,3,15,16,Lecture,3,F,N
+201340,Spring,2013,40874,CSIS,115,10,Database Design and App fo Bus,Schindler,3,15,15,Lecture,3,P,N
+201340,Spring,2013,41475,CSIS,115,6,Database Design and App fo Bus,Yoder,3,15,14,Lecture,3,T,N
+201340,Spring,2013,41476,CSIS,116,8EH,Survey of Info Technology-Lab,Arunasalem,0,15,14,Lab,2,P,N
+201340,Spring,2013,40278,CSIS,116,9EW,Survey of Info Technology-Lab,Arunasalem,0,15,16,Lab,2,P,N
+201340,Spring,2013,40277,CSIS,116,6ET,Survey of Info Technology,Arunasalem,3,30,30,Lecture,2,P,N
+201340,Spring,2013,40053,CSIS,120,05W,Intro to Programming Lab,Egan,0,15,11,Lab,2,T,M
+201340,Spring,2013,40487,CSIS,120,04H,Intro to Programming-Lab,Egan,0,15,14,Lab,2,T,M
+201340,Spring,2013,40486,CSIS,120,10,Intro to Software Development,Egan,4,30,25,Lecture,3,T,M
+201340,Spring,2013,40876,CSIS,120,25W,Intro to Programming-Lab,Small,0,15,10,Lab,2,T,M
+201340,Spring,2013,40052,CSIS,120,01W,Intro to Programming Lab,Small,0,15,14,Lab,2,T,M
+201340,Spring,2013,40051,CSIS,120,8,Intro to Software Development,Small,4,30,24,Lecture,3,T,M
+201340,Spring,2013,42036,CSIS,180,09M,Web Design - Lab,Bryant,0,16,15,Lab,2,F,N
+201340,Spring,2013,42035,CSIS,180,5,Web Design,Bryant,3,16,15,Lecture,2,F,N
+201340,Spring,2013,42037,CSIS,200,13,Society in the Information Age,Fryling,3,24,24,Lecture,3,T,N
+201340,Spring,2013,42038,CSIS,210,05F,Data Structures - Lab,DiTursi,0,16,10,Lab,2,F,M
+201340,Spring,2013,40280,CSIS,210,1,Data Structures,DiTursi,3,16,10,Lecture,3,F,M
+201340,Spring,2013,40168,CSIS,225,09M,Object-Oriented Des & Prog-Lab,Lim,0,16,17,Lab,2,T,M
+201340,Spring,2013,40169,CSIS,225,13M,Object-Oriented Des & Prog Lab,Lim,0,16,17,Lab,2,T,M
+201340,Spring,2013,40279,CSIS,225,6,Advanced Programming,Lim,3,32,34,Lecture,2,T,M
+201340,Spring,2013,42176,CSIS,310,ME,Numerical Methods,Vernizzi,3,24,8,Lecture,3,T,M
+201340,Spring,2013,42043,CSIS,350,8,Database Management Systems,Vandenberg,3,15,16,Lecture,3,T,M
+201340,Spring,2013,41588,CSIS,351,1,Theory of Computation,Breimer,3,24,9,Lecture,3,T,M
+201340,Spring,2013,42041,CSIS,351,3,Theory of Computation,Breimer,3,24,24,Lecture,3,T,M
+201340,Spring,2013,42042,CSIS,365,11,Communications and Networks,Yoder,3,24,21,Lecture,3,T,M
+201340,Spring,2013,42039,CSIS,375,2,Intro to Artificial Intellig,Medsker,3,24,19,Lecture,3,T,M
+201340,Spring,2013,40054,CSIS,385,4,Design+Analysis of Algorithm,Flatland,3,24,24,Lecture,3,T,M
+201340,Spring,2013,42044,CSIS,385,8,Design+Analysis of Algorithm,Matthews,3,24,15,Lecture,3,T,M
+201340,Spring,2013,42046,CSIS,415,WE,Software Engineering II - Lab,Lederman,0,30,19,Lab,2,T,M
+201340,Spring,2013,42045,CSIS,415,9E,Software Engineering II,Lederman,3,30,19,Lecture,2,T,M
+201430,Fall,2013,30129,CSIS,10,3E,Intro to Computer Applicat,Cutler,3,30,30,Lecture,2,P,B
+201430,Fall,2013,30104,CSIS,10,09M,Intro to Computer App-Lab,Flatland,0,15,15,Lab,2,T,B
+201430,Fall,2013,30360,CSIS,10,01F,Intro to Computer App - Lab,Goldstein,0,15,6,Lab,2,F,B
+201430,Fall,2013,30359,CSIS,10,09W,Intro to Computer App - Lab,Goldstein,0,15,12,Lab,2,F,B
+201430,Fall,2013,31229,CSIS,10,3EM,Intro to Computer App-Lab,Goldstein,0,15,15,Lab,2,F,B
+201430,Fall,2013,30358,CSIS,10,7,Intro to Computer Applicat,Goldstein,3,30,30,Lecture,2,F,B
+201430,Fall,2013,30108,CSIS,10,01M,Intro to Computer App-Lab,Liss,0,15,10,Lab,2,F,B
+201430,Fall,2013,30106,CSIS,10,01W,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201430,Fall,2013,30130,CSIS,10,9EW,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201430,Fall,2013,30102,CSIS,10,15,Intro to Computer Applicat,Liss,3,30,28,Lecture,2,F,B
+201430,Fall,2013,30103,CSIS,10,2E,Intro to Computer Applicat,Rivituso,3,30,29,Lecture,2,P,B
+201430,Fall,2013,30105,CSIS,10,05M,Intro to Computer App-Lab,Schindler,0,15,14,Lab,2,P,B
+201430,Fall,2013,30107,CSIS,10,05F,Intro to Computer App-Lab,Schindler,0,15,14,Lab,2,P,B
+201430,Fall,2013,30911,CSIS,11,4EB,Prob Solving With Spreadsheets,Goldstein,1,15,11,Lecture,1.5,F,B
+201430,Fall,2013,30910,CSIS,11,4EA,Prob Solving With Spreadsheets,Goldstein,1,15,14,Lecture,1.5,F,B
+201430,Fall,2013,30304,CSIS,11,08A,Prob Solving With Spreadsheets,Horowitz,1,15,15,Lecture,1.5,T,B
+201430,Fall,2013,30305,CSIS,11,08B,Prob Solving With Spreadsheets,Horowitz,1,15,15,Lecture,1.5,T,B
+201430,Fall,2013,32398,CSIS,13,05M,Computer Ethics,Liss,1,24,21,Lecture,1,F,N
+201430,Fall,2013,32450,CSIS,19,05F,Stress-free Computing,Cotler,1,24,16,Lecture,1,F,N
+201430,Fall,2013,30112,CSIS,110,08H,Intro CS:Scientific Comp-Lab,Egan,0,16,16,Lab,2,T,M
+201430,Fall,2013,30114,CSIS,110,04H,Intro CS:Scientific Comp-Lab,Egan,0,16,16,Lab,2,T,M
+201430,Fall,2013,30109,CSIS,110,5,Intro CS:Scientific Comp.,Egan,3,32,32,Lecture,2,T,M
+201430,Fall,2013,30111,CSIS,110,02H,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,15,Lab,2,T,M
+201430,Fall,2013,30113,CSIS,110,09F,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,16,Lab,2,T,M
+201430,Fall,2013,30527,CSIS,110,9,Intro CS:3D Prog with Alice,Horowitz,3,32,31,Lecture,2,T,M
+201430,Fall,2013,30474,CSIS,110,08T,Intro CS:MM Python Prg-Lab,Lim,0,16,15,Lab,2,T,M
+201430,Fall,2013,30110,CSIS,110,7,Intro CS: MM Python Prg,Lim,3,16,16,Lecture,2,T,M
+201430,Fall,2013,30565,CSIS,110,12H,Intro CS MM Python Prg-Lab,Vandenberg,0,16,15,Lab,2,T,M
+201430,Fall,2013,30147,CSIS,110,29F,Intro CS:MM Python Prg-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201430,Fall,2013,30136,CSIS,110,11,Intro CS Multimedia Python Prg,Vandenberg,3,32,31,Lecture,2,T,M
+201430,Fall,2013,30306,CSIS,114,01W,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201430,Fall,2013,30363,CSIS,114,08H,Management Information Sys-lab,Cotler,0,16,16,Lab,2,F,B
+201430,Fall,2013,30361,CSIS,114,7,Management Information Systems,Cotler,3,32,32,Lecture,2,F,B
+201430,Fall,2013,30364,CSIS,114,24T,Management Information Sys-lab,DiTursi,0,16,16,Lab,2,F,B
+201430,Fall,2013,30309,CSIS,114,8,Management Information Systems,DiTursi,3,16,16,Lecture,2,F,B
+201430,Fall,2013,30308,CSIS,114,08T,Management Information Sys-Lab,Fryling,0,16,15,Lab,2,T,B
+201430,Fall,2013,30310,CSIS,114,05W,Management Information Sys-Lab,Fryling,0,16,16,Lab,2,T,B
+201430,Fall,2013,30573,CSIS,114,10T,Management Information Sys-Lab,Fryling,0,16,16,Lab,2,T,B
+201430,Fall,2013,30307,CSIS,114,09W,Management Information Sys-Lab,Fryling,0,16,17,Lab,2,T,B
+201430,Fall,2013,30572,CSIS,114,6,Management Information Systems,Fryling,3,32,32,Lecture,2,T,B
+201430,Fall,2013,30678,CSIS,114,15,Management Information Systems,Fryling,3,32,32,Lecture,2,T,B
+201430,Fall,2013,30679,CSIS,114,8EH,Management Information Sys-Lab,Mehta,0,16,16,Lab,2,P,B
+201430,Fall,2013,30362,CSIS,114,3E,Management Information Systems,Mehta,3,16,16,Lecture,2,P,B
+201430,Fall,2013,30365,CSIS,114,04H,Management Information Sys-lab,Schindler,0,15,13,Lab,2,P,B
+201430,Fall,2013,30915,CSIS,114,02H,Management Information Sys-Lab,Schindler,0,15,15,Lab,2,P,B
+201430,Fall,2013,30300,CSIS,114,23,Management Information Systems,Schindler,3,30,28,Lecture,2,P,B
+201430,Fall,2013,31230,CSIS,115,2,Database Design and App fo Bus,Cotler,3,15,13,Lecture,3,F,N
+201430,Fall,2013,30944,CSIS,115,4,Database Design and App fo Bus,Cotler,3,15,14,Lecture,3,F,N
+201430,Fall,2013,30943,CSIS,115,10,Database Design and App fo Bus,Horowitz,3,15,15,Lecture,3,T,N
+201430,Fall,2013,31033,CSIS,120,05F,Intro to Programming-Lab,Small,0,15,8,Lab,2,T,M
+201430,Fall,2013,30466,CSIS,120,01F,Intro to Programming - Lab,Small,0,15,9,Lab,2,T,M
+201430,Fall,2013,31032,CSIS,120,4,Intro to Software Development,Small,4,30,17,Lecture,3,T,M
+201430,Fall,2013,31232,CSIS,180,05W,Web Design-Lab,Breimer,0,16,16,Lab,2,T,N
+201430,Fall,2013,31231,CSIS,180,5,Web Design,Breimer,3,16,16,Lecture,2,T,N
+201430,Fall,2013,31552,CSIS,200,24,Nature of Humans & Machines,Medsker,3,24,27,Lecture,3,T,N
+201430,Fall,2013,31973,CSIS,200,6,Intro to GIS,Yoder,3,15,15,Lecture,3,T,N
+201430,Fall,2013,30116,CSIS,210,10H,Data Structures-Lab,Yoder,0,16,6,Lab,2,T,M
+201430,Fall,2013,30149,CSIS,210,09F,Data Structures-Lab,Yoder,0,16,13,Lab,2,T,M
+201430,Fall,2013,30115,CSIS,210,31,Data Structures,Yoder,3,32,19,Lecture,3,T,M
+201430,Fall,2013,30192,CSIS,220,01W,Comp Arch & Assemb Lan-Lab,DiTursi,0,16,8,Lab,2,F,M
+201430,Fall,2013,30193,CSIS,220,05W,Comp Arch & Assemb Lan-Lab,DiTursi,0,16,14,Lab,2,F,M
+201430,Fall,2013,30117,CSIS,220,2,Assembly Lang and Comp Archtcr,DiTursi,4,32,22,Lecture,3,F,M
+201430,Fall,2013,30896,CSIS,251,13M,Discrete Structures I-Lab,Matthews,0,16,15,Lab,1.5,T,M
+201430,Fall,2013,30897,CSIS,251,3EM,Discrete Structures I-Lab,Matthews,0,16,16,Lab,1.5,T,M
+201430,Fall,2013,31545,CSIS,251,10,Discrete Structures,Matthews,4,22,8,Lecture,2,T,M
+201430,Fall,2013,30467,CSIS,251,8,Discrete Structures,Matthews,4,22,23,Lecture,2,T,M
+201430,Fall,2013,30456,CSIS,350,13,Database Management Systems,Vandenberg,3,16,16,Lecture,3,T,M
+201430,Fall,2013,32449,CSIS,380,04T,Computer Graphics-L,Flatland,0,16,13,Lab,2,T,M
+201430,Fall,2013,32448,CSIS,380,HF,Computer Graphics,Flatland,3,16,13,Lecture,2,T,M
+201430,Fall,2013,30946,CSIS,390,13W,Web Application Develop - Lab,Breimer,0,16,16,Lab,2,T,M
+201430,Fall,2013,30945,CSIS,390,11,Web Application Development,Breimer,3,16,16,Lecture,2,T,M
+201430,Fall,2013,32400,CSIS,400,12,App Development,Lim,3,14,14,Lecture,3,T,M
+201430,Fall,2013,32451,CSIS,401,8,Robotics,Small,3,10,9,Lecture,3,T,M
+201430,Fall,2013,32028,CSIS,410,01W,Software Engineering I-Lab,Lederman,0,28,27,Lab,2,T,M
+201430,Fall,2013,30118,CSIS,410,01M,Software Engineering I,Lederman,3,28,27,Lecture,2,T,M
+201440,Spring,2014,40039,CSIS,10,WE,Intro to Computer App.-Lab,Coco,0,15,15,Lab,2,P,B
+201440,Spring,2014,40036,CSIS,10,3E,Intro to Computer Applications,Cutler,3,30,29,Lecture,2,P,B
+201440,Spring,2014,42658,CSIS,10,11,Intro to Computer Applications,Goldstein,3,30,31,Lecture,2,F,B
+201440,Spring,2014,40870,CSIS,10,01M,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201440,Spring,2014,40189,CSIS,10,09F,Intro to Computer App-Lab,Liss,0,15,16,Lab,2,F,B
+201440,Spring,2014,40585,CSIS,10,09W,Intro to Computer App.-Lab,Liss,0,15,16,Lab,2,F,B
+201440,Spring,2014,40584,CSIS,10,2,Intro to Computer Applications,Liss,3,30,28,Lecture,2,F,B
+201440,Spring,2014,41470,CSIS,10,3,Intro to Computer Applications,Liss,3,30,30,Lecture,2,F,B
+201440,Spring,2014,40041,CSIS,10,05W,Intro to Computer App.-Lab,NA,0,15,16,Lab,2,P,B
+201440,Spring,2014,40622,CSIS,10,7EM,Intro to Computer App - Lab,Rivituso,0,15,16,Lab,2,P,B
+201440,Spring,2014,40037,CSIS,10,2E,Intro to Computer Applications,Rivituso,3,30,24,Lecture,2,P,B
+201440,Spring,2014,42659,CSIS,10,08T,Intro to Computer App.-Lab,Schindler,0,15,16,Lab,2,P,B
+201440,Spring,2014,40038,CSIS,10,HE,Intro to Computer App.-Lab,Sherman,0,15,16,Lab,2,P,B
+201440,Spring,2014,40040,CSIS,10,TE2,Intro to Computer App.-Lab,Yates,0,15,16,Lab,2,P,B
+201440,Spring,2014,40457,CSIS,11,TRB,Prob Solving With Spreadsheets,Arunasalem,1,15,13,Lecture,1.5,P,B
+201440,Spring,2014,40456,CSIS,11,TRA,Prob Solving With Spreadsheets,Arunasalem,1,15,14,Lecture,1.5,P,B
+201440,Spring,2014,42034,CSIS,19,07W,Stress-free Computing,Cotler,1,24,20,Lecture,1,F,N
+201440,Spring,2014,41541,CSIS,19,03M,Programming in C,DiTursi,1,16,14,Lecture,1,F,N
+201440,Spring,2014,41474,CSIS,19,07M,CS in Movies,Lim,1,24,18,Lecture,1,T,N
+201440,Spring,2014,42668,CSIS,19,12T,User Experience,Robinson,1,24,9,Lecture,1,P,N
+201440,Spring,2014,40050,CSIS,110,25F,Intro CS:Sci Comp Lab,Egan,0,16,16,Lab,2,T,M
+201440,Spring,2014,42660,CSIS,110,09F,Intro to CS:Sci Comp Lab,Egan,0,16,16,Lab,2,T,M
+201440,Spring,2014,40357,CSIS,110,7,Intro to CS:Sci Comp,Egan,3,32,32,Lecture,2,T,M
+201440,Spring,2014,40871,CSIS,110,10H,Intro CS: Multi Python Prg-Lab,Vandenberg,0,16,15,Lab,2,T,M
+201440,Spring,2014,40366,CSIS,110,05F,Intro CS:Multi Python Prg-Lab,Vandenberg,0,16,17,Lab,2,T,M
+201440,Spring,2014,40458,CSIS,110,5,Intro CS:Multimedia Python Prg,Vandenberg,3,32,32,Lecture,2,T,M
+201440,Spring,2014,40659,CSIS,114,24T,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201440,Spring,2014,40873,CSIS,114,04H,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201440,Spring,2014,40658,CSIS,114,4,Management Information Systems,Cotler,3,32,32,Lecture,2,F,B
+201440,Spring,2014,40195,CSIS,114,08H,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201440,Spring,2014,40197,CSIS,114,09F,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201440,Spring,2014,40191,CSIS,114,9,Management Information Systems,DiTursi,3,32,32,Lecture,2,F,B
+201440,Spring,2014,40193,CSIS,114,15W,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201440,Spring,2014,40196,CSIS,114,15M,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201440,Spring,2014,40362,CSIS,114,10T,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201440,Spring,2014,40365,CSIS,114,10R,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201440,Spring,2014,40275,CSIS,114,8,Management Information Systems,Goldstein,3,32,32,Lecture,2,F,B
+201440,Spring,2014,40361,CSIS,114,10,Management Information Systems,Goldstein,3,32,32,Lecture,2,F,B
+201440,Spring,2014,40194,CSIS,114,7EM,Management Information Sys-Lab,Mehta,0,12,12,Lab,2,P,B
+201440,Spring,2014,42661,CSIS,114,9EW,Management Information Sys-Lab,Mehta,0,12,12,Lab,2,P,B
+201440,Spring,2014,40121,CSIS,114,7,Management Information Systems,Mehta,3,24,24,Lecture,2,P,B
+201440,Spring,2014,40192,CSIS,114,05M,Management Information Sys-Lab,Schindler,0,16,16,Lab,2,P,B
+201440,Spring,2014,40872,CSIS,114,02T,Management Information Sys-Lab,Schindler,0,16,16,Lab,2,P,B
+201440,Spring,2014,40153,CSIS,114,25,Management Information Systems,Schindler,3,32,32,Lecture,2,P,B
+201440,Spring,2014,40875,CSIS,115,2,Database Design and App fo Bus,Cotler,3,15,14,Lecture,3,F,N
+201440,Spring,2014,40977,CSIS,115,4,Database Design and App fo Bus,Yoder,3,15,10,Lecture,3,T,N
+201440,Spring,2014,40874,CSIS,115,10,Database Design and App fo Bus,Yoder,3,15,13,Lecture,3,T,N
+201440,Spring,2014,41475,CSIS,115,6,Database Design and App fo Bus,Yoder,3,15,15,Lecture,3,T,N
+201440,Spring,2014,40053,CSIS,120,10T,Intro to Programming Lab,Fryling,0,16,11,Lab,2,T,M
+201440,Spring,2014,40487,CSIS,120,6ET,Intro to Programming-Lab,Fryling,0,16,12,Lab,2,T,M
+201440,Spring,2014,40486,CSIS,120,15,Intro to Software Development,Fryling,4,32,23,Lecture,3,T,M
+201440,Spring,2014,40052,CSIS,120,04T,Intro to Programming Lab,Lim,0,16,11,Lab,2,T,M
+201440,Spring,2014,40876,CSIS,120,08T,Intro to Programming-Lab,Lim,0,16,13,Lab,2,T,M
+201440,Spring,2014,40051,CSIS,120,9,Intro to Software Development,Small,4,32,24,Lecture,3,T,M
+201440,Spring,2014,42036,CSIS,180,09M,Web Design - Lab,Breimer,0,16,11,Lab,2,T,N
+201440,Spring,2014,42662,CSIS,180,05M,Web Design-Lab,Breimer,0,16,17,Lab,2,T,N
+201440,Spring,2014,42035,CSIS,180,7,Web Design,Breimer,3,32,28,Lecture,2,T,N
+201440,Spring,2014,42038,CSIS,210,01F,Data Structures - Lab,Flatland,0,16,15,Lab,2,T,M
+201440,Spring,2014,40280,CSIS,210,3,Data Structures,Flatland,3,16,15,Lecture,3,T,M
+201440,Spring,2014,40168,CSIS,225,09W,Object-Oriented Des & Prog-Lab,Lim,0,16,17,Lab,2,T,M
+201440,Spring,2014,40279,CSIS,225,11,Advanced Programming,Lim,3,16,17,Lecture,2,T,M
+201440,Spring,2014,41588,CSIS,351,1,Theory of Computation,DiTursi,3,32,19,Lecture,3,F,M
+201440,Spring,2014,42663,CSIS,355,8,Advanced Database,Vandenberg,3,16,8,Lecture,3,T,M
+201440,Spring,2014,40054,CSIS,385,6,Design+Analysis of Algorithm,Flatland,3,32,27,Lecture,3,T,M
+201440,Spring,2014,42665,CSIS,390,01W,Web Application Develop-Lab,Breimer,0,16,16,Lab,2,T,M
+201440,Spring,2014,42664,CSIS,390,1,Web Application Development,Breimer,3,16,16,Lecture,2,T,M
+201440,Spring,2014,42666,CSIS,400,4,Cryptography and Security,DiTursi,3,24,17,Lecture,3,F,M
+201440,Spring,2014,42046,CSIS,415,WE,Software Engineering II - Lab,Lederman,0,32,27,Lab,2,T,M
+201440,Spring,2014,42045,CSIS,415,9E,Software Engineering II,Lederman,3,32,27,Lecture,2,T,M
+201530,Fall,2014,30130,CSIS,10,9EW,Intro to Computer App-Lab,Coco,0,15,15,Lab,2,P,B
+201530,Fall,2014,30360,CSIS,10,01F,Intro to Computer App - Lab,Coco,0,16,14,Lab,2,P,B
+201530,Fall,2014,30129,CSIS,10,3E,Intro to Computer Applicat,Cutler,3,32,29,Lecture,2,P,B
+201530,Fall,2014,30104,CSIS,10,09F,Intro to Computer App-Lab,Hudspeth,0,16,15,Lab,2,P,B
+201530,Fall,2014,30105,CSIS,10,05M,Intro to Computer App-Lab,Liss,0,15,14,Lab,2,F,B
+201530,Fall,2014,30108,CSIS,10,01M,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201530,Fall,2014,30358,CSIS,10,1,Intro to Computer Applicat,Liss,3,30,28,Lecture,2,F,B
+201530,Fall,2014,30102,CSIS,10,11,Intro to Computer Applicat,Liss,3,30,29,Lecture,2,F,B
+201530,Fall,2014,30106,CSIS,10,01W,Intro to Computer App-Lab,Mendez,0,15,15,Lab,2,P,B
+201530,Fall,2014,30103,CSIS,10,2E,Intro to Computer Applicat,Rivituso,3,30,28,Lecture,2,P,B
+201530,Fall,2014,30107,CSIS,10,05F,Intro to Computer App-Lab,Schindler,0,15,15,Lab,2,P,B
+201530,Fall,2014,31229,CSIS,10,3EM,Intro to Computer App-Lab,Sherman,0,15,15,Lab,2,P,B
+201530,Fall,2014,30305,CSIS,11,08B,Prob Solving With Spreadsheets,Liss,1,16,14,Lecture,1.5,F,B
+201530,Fall,2014,30304,CSIS,11,08A,Prob Solving With Spreadsheets,Liss,1,16,15,Lecture,1.5,F,B
+201530,Fall,2014,30910,CSIS,11,4EA,Prob Solving With Spreadsheets,Sherman,1,15,14,Lecture,1.5,P,B
+201530,Fall,2014,30911,CSIS,11,4EB,Prob Solving With Spreadsheets,Sherman,1,16,15,Lecture,1.5,P,B
+201530,Fall,2014,32450,CSIS,19,08H,Competitive Programming,Lim,1,16,3,Lecture,1,T,N
+201530,Fall,2014,30112,CSIS,110,08H,Intro CS:Scientific Comp-Lab,Egan,0,16,16,Lab,2,T,M
+201530,Fall,2014,30147,CSIS,110,29F,Intro CS: Scientific Comp Lab,Egan,0,16,17,Lab,2,T,M
+201530,Fall,2014,30527,CSIS,110,9,Intro CS:Scientific Comp,Egan,3,32,33,Lecture,2,T,M
+201530,Fall,2014,32708,CSIS,110,05F,Intro CS:MM Python Prg Lab,Fryling,0,16,15,Lab,2,T,M
+201530,Fall,2014,30565,CSIS,110,H08,Intro CS: Linux Systems-Lab,Goldstein,0,16,13,Lab,2,F,M
+201530,Fall,2014,30113,CSIS,110,11F,Intro CS:Linux Systems Lab,Goldstein,0,16,14,Lab,2,F,M
+201530,Fall,2014,30136,CSIS,110,11,Intro CS: Linux Systems,Goldstein,3,32,27,Lecture,2,F,M
+201530,Fall,2014,30111,CSIS,110,02H,Intro CS:3D Prog w/Alice-Lab,Horowitz,0,16,11,Lab,2,T,M
+201530,Fall,2014,30114,CSIS,110,04H,Intro CS:3D Prog 2/Alice-Lab,Horowitz,0,16,15,Lab,2,T,M
+201530,Fall,2014,30109,CSIS,110,5,Intro CS:3D Prog w/Alice,Horowitz,3,32,27,Lecture,2,T,M
+201530,Fall,2014,32711,CSIS,110,7EM,Intro CS: Scientific Comp Lab,Mehta,0,16,14,Lab,2,P,M
+201530,Fall,2014,32712,CSIS,110,9EW,Intro CS: Scientific Comp Lab,Mehta,0,16,14,Lab,2,P,M
+201530,Fall,2014,32709,CSIS,110,3E,Intro CS: Scientific Comp,Mehta,3,32,28,Lecture,2,P,M
+201530,Fall,2014,30474,CSIS,110,01F,Intro CS:MM Python Prg-Lab,Vandenberg,0,16,15,Lab,2,T,M
+201530,Fall,2014,30110,CSIS,110,7,Intro CS: MM Python Prg,Vandenberg,3,32,30,Lecture,2,T,M
+201530,Fall,2014,30364,CSIS,114,24T,Management Information Sys-lab,Berman,0,16,16,Lab,2,P,B
+201530,Fall,2014,30573,CSIS,114,10T,Management Information Sys-Lab,Cotler,0,16,14,Lab,2,F,B
+201530,Fall,2014,30308,CSIS,114,08T,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201530,Fall,2014,30572,CSIS,114,6,Management Information Systems,Cotler,3,32,30,Lecture,2,F,B
+201530,Fall,2014,30361,CSIS,114,5,Management Information Systems,Cotler,3,32,33,Lecture,2,F,B
+201530,Fall,2014,30915,CSIS,114,02H,Management Information Sys-Lab,DiTursi,0,16,15,Lab,2,F,B
+201530,Fall,2014,30306,CSIS,114,01F,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201530,Fall,2014,30300,CSIS,114,23,Management Information Systems,DiTursi,3,32,31,Lecture,2,F,B
+201530,Fall,2014,30365,CSIS,114,04H,Management Information Sys-lab,Fryling,0,16,16,Lab,2,T,B
+201530,Fall,2014,30309,CSIS,114,8,Management Information Systems,Fryling,3,32,32,Lecture,2,T,B
+201530,Fall,2014,30679,CSIS,114,8EH,Management Information Sys-Lab,Goldstein,0,16,11,Lab,2,F,B
+201530,Fall,2014,32716,CSIS,114,6ET,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201530,Fall,2014,30678,CSIS,114,2E,Management Information Systems,Goldstein,3,32,27,Lecture,2,F,B
+201530,Fall,2014,30310,CSIS,114,05M,Management Information Sys-Lab,Schindler,0,16,16,Lab,2,P,B
+201530,Fall,2014,32717,CSIS,114,09M,Management Information Sys-Lab,Schindler,0,16,17,Lab,2,P,B
+201530,Fall,2014,30307,CSIS,114,9EW,Management Information Sys-Lab,Yates,0,16,6,Lab,2,P,B
+201530,Fall,2014,30363,CSIS,114,7EM,Management Information Sys-lab,Yates,0,16,10,Lab,2,P,B
+201530,Fall,2014,30362,CSIS,114,3E,Management Information Systems,Yates,3,32,16,Lecture,2,P,B
+201530,Fall,2014,30944,CSIS,115,4,Database Design and App fo Bus,Cotler,3,15,16,Lecture,3,F,N
+201530,Fall,2014,30943,CSIS,115,10,Database Design and App fo Bus,Horowitz,3,15,14,Lecture,3,T,N
+201530,Fall,2014,31230,CSIS,115,6,Database Design and App fo Bus,Lim,3,15,15,Lecture,3,T,N
+201530,Fall,2014,31033,CSIS,120,04T,Intro to Programming-Lab,Small,0,16,9,Lab,2,T,M
+201530,Fall,2014,30466,CSIS,120,08T,Intro to Programming - Lab,Small,0,16,13,Lab,2,T,M
+201530,Fall,2014,31032,CSIS,120,9,Intro to Software Development,Small,4,32,22,Lecture,3,T,M
+201530,Fall,2014,32719,CSIS,180,09W,Web Design-Lab,Breimer,0,16,11,Lab,2,T,N
+201530,Fall,2014,31232,CSIS,180,01W,Web Design-Lab,Breimer,0,16,17,Lab,2,T,N
+201530,Fall,2014,31231,CSIS,180,1,Web Design,Breimer,3,32,28,Lecture,2,T,N
+201530,Fall,2014,31552,CSIS,200,8E,Intro to Cognitive Science,Medsker,3,30,21,Lecture,3,T,N
+201530,Fall,2014,30149,CSIS,210,01W,Data Structures-Lab,Baciewicz,0,16,15,Lab,2,P,M
+201530,Fall,2014,32869,CSIS,210,02T,Data Structures - Lab,Breimer,0,16,12,Lab,2,T,M
+201530,Fall,2014,32868,CSIS,210,11,Data Structures,Flatland,3,16,13,Lecture,3,T,M
+201530,Fall,2014,30115,CSIS,210,7,Data Structures,Flatland,3,32,29,Lecture,3,T,M
+201530,Fall,2014,30116,CSIS,210,05W,Data Structures-Lab,Small,0,16,15,Lab,2,T,M
+201530,Fall,2014,30193,CSIS,220,05M,Comp Arch & Assemb Lan-Lab,DiTursi,0,16,12,Lab,2,F,M
+201530,Fall,2014,30192,CSIS,220,09M,Comp Arch & Assemb Lan-Lab,DiTursi,0,16,18,Lab,2,F,M
+201530,Fall,2014,30117,CSIS,220,10,Assembly Lang and Comp Archtcr,DiTursi,4,32,30,Lecture,3,F,M
+201530,Fall,2014,30897,CSIS,251,3EM,Discrete Structures I-Lab,Matthews,0,16,14,Lab,1.5,T,M
+201530,Fall,2014,30896,CSIS,251,7EM,Discrete Structures I-Lab,Matthews,0,16,16,Lab,1.5,T,M
+201530,Fall,2014,31545,CSIS,251,12,Discrete Structures,Matthews,4,32,30,Lecture,2,T,M
+201530,Fall,2014,30456,CSIS,350,13,Database Management Systems,Vandenberg,3,16,16,Lecture,3,T,M
+201530,Fall,2014,30946,CSIS,390,05W,Web Application Develop - Lab,Breimer,0,16,15,Lab,2,T,M
+201530,Fall,2014,30945,CSIS,390,5,Web Application Development,Breimer,3,16,15,Lecture,2,T,M
+201530,Fall,2014,32400,CSIS,400,12,App Development,Lim,3,16,11,Lecture,3,T,M
+201530,Fall,2014,30118,CSIS,410,2,Software Engineering I,Fryling,3,28,30,Lecture,2,T,M
+201530,Fall,2014,32721,CSIS,410,22,Software Engineering I-Lab,Lim,0,28,30,Lab,2,T,M
+201540,Spring,2015,40038,CSIS,10,HE,Intro to Computer App.-Lab,Coco,0,15,14,Lab,2,P,B
+201540,Spring,2015,40040,CSIS,10,TE2,Intro to Computer App.-Lab,Coco,0,15,15,Lab,2,P,B
+201540,Spring,2015,40036,CSIS,10,3E,Intro to Computer Applications,Cutler,3,30,30,Lecture,2,P,B
+201540,Spring,2015,42659,CSIS,10,08T,Intro to Computer App.-Lab,DiTursi,0,15,10,Lab,2,F,B
+201540,Spring,2015,40041,CSIS,10,05W,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201540,Spring,2015,40189,CSIS,10,09F,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
+201540,Spring,2015,40870,CSIS,10,01M,Intro to Computer App.-Lab,Liss,0,15,15,Lab,2,F,B
+201540,Spring,2015,41470,CSIS,10,1,Intro to Computer Applications,Liss,3,30,29,Lecture,2,F,B
+201540,Spring,2015,42658,CSIS,10,7,Intro to Computer Applications,Liss,3,30,30,Lecture,2,F,B
+201540,Spring,2015,40622,CSIS,10,7EM,Intro to Computer App - Lab,Mendez,0,16,15,Lab,2,P,B
+201540,Spring,2015,40037,CSIS,10,2E,Intro to Computer Applications,Rivituso,3,30,25,Lecture,2,P,B
+201540,Spring,2015,40039,CSIS,10,WE,Intro to Computer App.-Lab,Sherman,0,15,15,Lab,2,P,B
+201540,Spring,2015,40457,CSIS,11,TRB,Prob Solving With Spreadsheets,Dickinson,1,15,13,Lecture,1.5,P,B
+201540,Spring,2015,40456,CSIS,11,TRA,Prob Solving With Spreadsheets,Dickinson,1,15,15,Lecture,1.5,P,B
+201540,Spring,2015,43146,CSIS,19,07W,Artificial Intelligence Sem,Small,1,24,19,Lecture,1,T,N
+201540,Spring,2015,42660,CSIS,110,09F,Intro to CS:Linux Prg-Lab,Goldstein,0,16,13,Lab,2,F,M
+201540,Spring,2015,40366,CSIS,110,05F,Intro CS:Linux Prg-Lab,Goldstein,0,16,16,Lab,2,F,M
+201540,Spring,2015,40458,CSIS,110,5,Intro CS:Linux Prg,Goldstein,3,32,29,Lecture,2,F,M
+201540,Spring,2015,42890,CSIS,110,9EW,Intro to CS:  Sci Comp Lab,Mehta,0,16,12,Lab,2,P,M
+201540,Spring,2015,42886,CSIS,110,MWE,Intro to CS: Sci Comp,Mehta,3,32,12,Lecture,2,P,M
+201540,Spring,2015,40050,CSIS,110,25F,Intro CS:Multi Python Prg-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201540,Spring,2015,40871,CSIS,110,08H,Intro CS: Multi Python Prg-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201540,Spring,2015,40357,CSIS,110,7,Intro to CS:Multimedia Python,Vandenberg,3,32,32,Lecture,2,T,M
+201540,Spring,2015,43139,CSIS,114,6ET,Management Information Sys-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201540,Spring,2015,40362,CSIS,114,10T,Management Information Sys-Lab,Cotler,0,16,15,Lab,2,F,B
+201540,Spring,2015,40365,CSIS,114,01W,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201540,Spring,2015,40153,CSIS,114,25,Management Information Systems,Cotler,3,32,31,Lecture,2,F,B
+201540,Spring,2015,40275,CSIS,114,8,Management Information Systems,Cotler,3,32,31,Lecture,2,F,B
+201540,Spring,2015,40191,CSIS,114,1,Management Information Systems,Cotler,3,16,16,Lecture,2,F,B
+201540,Spring,2015,40873,CSIS,114,04H,Management Information Sys-Lab,DiTursi,0,16,15,Lab,2,F,B
+201540,Spring,2015,40197,CSIS,114,09M,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201540,Spring,2015,40659,CSIS,114,24T,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201540,Spring,2015,40658,CSIS,114,4,Management Information Systems,DiTursi,3,32,31,Lecture,2,F,B
+201540,Spring,2015,40195,CSIS,114,09W,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201540,Spring,2015,40196,CSIS,114,15M,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201540,Spring,2015,40361,CSIS,114,10,Management Information Systems,Goldstein,3,32,32,Lecture,2,F,B
+201540,Spring,2015,40192,CSIS,114,05M,Management Information Sys-Lab,Schindler,0,16,15,Lab,2,P,B
+201540,Spring,2015,40194,CSIS,114,7EM,Management Information Sys-Lab,Yates,0,16,11,Lab,2,P,B
+201540,Spring,2015,42661,CSIS,114,9EW,Management Information Sys-Lab,Yates,0,16,11,Lab,2,P,B
+201540,Spring,2015,40121,CSIS,114,7,Management Information Systems,Yates,3,32,22,Lecture,2,P,B
+201540,Spring,2015,40875,CSIS,115,2,Database Design and App fo Bus,Cotler,3,16,16,Lecture,3,F,N
+201540,Spring,2015,40977,CSIS,115,4,Database Design and App fo Bus,Schindler,3,16,16,Lecture,3,P,N
+201540,Spring,2015,41475,CSIS,115,6,Database Design and App fo Bus,Vandenberg,3,16,16,Lecture,3,T,N
+201540,Spring,2015,42894,CSIS,120,04H,Intro to Programming Lab,Breimer,0,16,16,Lab,2,T,M
+201540,Spring,2015,42893,CSIS,120,2,Intro to Software Development,Breimer,4,33,33,Lecture,3,T,M
+201540,Spring,2015,40053,CSIS,120,10T,Intro to Programming Lab,Fryling,0,16,16,Lab,2,T,M
+201540,Spring,2015,40486,CSIS,120,13,Intro to Software Development,Fryling,4,16,16,Lecture,3,T,M
+201540,Spring,2015,40487,CSIS,120,12H,Intro to Programming-Lab,Matthews,0,16,8,Lab,2,T,M
+201540,Spring,2015,40052,CSIS,120,04T,Intro to Programming Lab,Yoder,0,16,11,Lab,2,T,M
+201540,Spring,2015,40876,CSIS,120,08T,Intro to Programming-Lab,Yoder,0,16,12,Lab,2,T,M
+201540,Spring,2015,40051,CSIS,120,9,Intro to Software Development,Yoder,4,32,14,Lecture,3,T,M
+201540,Spring,2015,42036,CSIS,180,08T,Web Design - Lab,Egan,0,16,16,Lab,2,T,N
+201540,Spring,2015,42662,CSIS,180,10T,Web Design-Lab,Egan,0,16,16,Lab,2,T,N
+201540,Spring,2015,42035,CSIS,180,3,Web Design,Egan,3,32,32,Lecture,2,T,N
+201540,Spring,2015,42038,CSIS,210,01F,Data Structures - Lab,Baciewicz,0,16,16,Lab,2,P,M
+201540,Spring,2015,40280,CSIS,210,3,Data Structures,Baciewicz,3,16,16,Lecture,3,P,M
+201540,Spring,2015,42897,CSIS,225,05W,Object-Oriented Des & Prog Lab,DiTursi,0,16,11,Lab,2,F,M
+201540,Spring,2015,42898,CSIS,225,13W,Object-Oriented Des & Prog Lab,Lim,0,16,12,Lab,2,T,M
+201540,Spring,2015,40168,CSIS,225,09W,Object-Oriented Des & Prog-Lab,Lim,0,16,13,Lab,2,T,M
+201540,Spring,2015,40279,CSIS,225,11,Advanced Programming,Lim,3,24,13,Lecture,2,T,M
+201540,Spring,2015,42896,CSIS,225,7,Advanced Programming,Lim,3,24,23,Lecture,2,T,M
+201540,Spring,2015,42899,CSIS,310,8,Numerical Methods,Vernizzi,3,24,18,Lecture,3,T,M
+201540,Spring,2015,43142,CSIS,351,6,Theory of Computation,Matthews,3,32,33,Lecture,3,T,M
+201540,Spring,2015,42900,CSIS,365,5,Communications and Networks,Yoder,3,25,25,Lecture,3,T,M
+201540,Spring,2015,42903,CSIS,385,08T,Design+Analysis of Alg Lab,Flatland,0,16,16,Lab,2,T,M
+201540,Spring,2015,42905,CSIS,385,02T,Design+Analysis of Alg Lab,Flatland,0,17,17,Lab,2,T,M
+201540,Spring,2015,42995,CSIS,385,3,Design+Analysis of Algorithm,Flatland,3,33,33,Lecture,2,T,M
+201540,Spring,2015,42910,CSIS,401,09W,Robotics Lab,Small,0,15,15,Lab,2,T,M
+201540,Spring,2015,42909,CSIS,401,09M,Robotics,Small,3,15,15,Lecture,2,T,M
+201540,Spring,2015,42045,CSIS,415,9E,Software Engineering II,Fryling,3,32,29,Lecture,2,T,M
+201540,Spring,2015,42895,CSIS,415,WE,Software Engineering II-Lab,Lim,0,32,29,Lab,2,T,M
+201630,Fall,2015,31229,CSIS,10,3EM,Intro to Computer App-Lab,Armitage,0,16,15,Lab,2,P,B
+201630,Fall,2015,30129,CSIS,10,3E,Intro to Computer Applicat,Cutler,3,32,9,Lecture,2,P,B
+201630,Fall,2015,30130,CSIS,10,9EW,Intro to Computer App-Lab,Ekblaw,0,16,16,Lab,2,P,B
+201630,Fall,2015,30105,CSIS,10,05M,Intro to Computer App-Lab,Liss,0,16,15,Lab,2,F,B
+201630,Fall,2015,30108,CSIS,10,01M,Intro to Computer App-Lab,Liss,0,16,15,Lab,2,F,B
+201630,Fall,2015,30106,CSIS,10,05W,Intro to Computer App-Lab,Liss,0,16,16,Lab,2,F,B
+201630,Fall,2015,30358,CSIS,10,1,Intro to Computer Applicat,Liss,3,32,27,Lecture,2,F,B
+201630,Fall,2015,30102,CSIS,10,11,Intro to Computer Applicat,Liss,3,32,32,Lecture,2,F,B
+201630,Fall,2015,30103,CSIS,10,2E,Intro to Computer Applicat,Rivituso,3,32,25,Lecture,2,P,B
+201630,Fall,2015,30107,CSIS,10,05F,Intro to Computer App-Lab,Small,0,16,16,Lab,2,T,B
+201630,Fall,2015,30910,CSIS,11,4EA,Prob Solving With Spreadsheets,Dickinson,1,16,11,Lecture,1.5,P,B
+201630,Fall,2015,30304,CSIS,11,08A,Prob Solving With Spreadsheets,Lim,1,16,16,Lecture,1.5,T,B
+201630,Fall,2015,30112,CSIS,110,08H,Intro CS: MM Python Prg-Lab,Egan,0,16,16,Lab,2,T,M
+201630,Fall,2015,30147,CSIS,110,29F,Intro CS: MM Python Prg-Lab,Egan,0,16,16,Lab,2,T,M
+201630,Fall,2015,30527,CSIS,110,9,Intro CS:MM Python Prg,Egan,3,32,32,Lecture,2,T,M
+201630,Fall,2015,30111,CSIS,110,28H,Intro CS:MM Python Prg-Lab,Fryling,0,16,13,Lab,2,T,M
+201630,Fall,2015,30109,CSIS,110,15,Intro CS:MM Python Prg,Fryling,3,32,26,Lecture,2,T,M
+201630,Fall,2015,30113,CSIS,110,09F,Intro CS:Linux Systems Lab,Goldstein,0,16,8,Lab,2,F,M
+201630,Fall,2015,30565,CSIS,110,10H,Intro CS: Linux Systems-Lab,Goldstein,0,16,12,Lab,2,F,M
+201630,Fall,2015,30136,CSIS,110,11,Intro CS: Linux Systems,Goldstein,3,32,20,Lecture,2,F,M
+201630,Fall,2015,30114,CSIS,110,24H,Intro CS:MM Python Prg-Lab,Lim,0,16,13,Lab,2,T,M
+201630,Fall,2015,32712,CSIS,110,9EW,Intro CS: Scientific Comp Lab,Mehta,0,16,9,Lab,2,P,M
+201630,Fall,2015,32711,CSIS,110,7EM,Intro CS: Scientific Comp Lab,Mehta,0,16,14,Lab,2,P,M
+201630,Fall,2015,32709,CSIS,110,3E,Intro CS: Scientific Comp,Mehta,3,32,23,Lecture,2,P,M
+201630,Fall,2015,32708,CSIS,110,05F,Intro CS:MM Python Prg Lab,Vandenberg,0,16,16,Lab,2,T,M
+201630,Fall,2015,30474,CSIS,110,01F,Intro CS:MM Python Prg-Lab,Vandenberg,0,17,17,Lab,2,T,M
+201630,Fall,2015,30110,CSIS,110,7,Intro CS: MM Python Prg,Vandenberg,3,33,33,Lecture,2,T,M
+201630,Fall,2015,30306,CSIS,114,01F,Management Information Sys-Lab,Cotler,0,16,15,Lab,2,F,B
+201630,Fall,2015,30364,CSIS,114,24T,Management Information Sys-lab,Cotler,0,16,16,Lab,2,F,B
+201630,Fall,2015,30365,CSIS,114,04H,Management Information Sys-lab,Cotler,0,16,16,Lab,2,F,B
+201630,Fall,2015,30915,CSIS,114,02H,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201630,Fall,2015,30300,CSIS,114,23,Management Information Systems,Cotler,3,32,31,Lecture,2,F,B
+201630,Fall,2015,30309,CSIS,114,10,Management Information Systems,Cotler,3,32,32,Lecture,2,F,B
+201630,Fall,2015,30308,CSIS,114,08T,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201630,Fall,2015,30573,CSIS,114,10T,Management Information Sys-Lab,Goldstein,0,16,16,Lab,2,F,B
+201630,Fall,2015,30572,CSIS,114,6,Management Information Systems,Goldstein,3,32,32,Lecture,2,F,B
+201630,Fall,2015,32717,CSIS,114,09M,Management Information Sys-Lab,Schindler,0,16,14,Lab,2,P,B
+201630,Fall,2015,30310,CSIS,114,05M,Management Information Sys-Lab,Schindler,0,16,16,Lab,2,P,B
+201630,Fall,2015,30361,CSIS,114,5,Management Information Systems,Schindler,3,32,30,Lecture,2,P,B
+201630,Fall,2015,30307,CSIS,114,9EW,Management Information Sys-Lab,Yates,0,16,13,Lab,2,P,B
+201630,Fall,2015,30363,CSIS,114,7EM,Management Information Sys-lab,Yates,0,16,15,Lab,2,P,B
+201630,Fall,2015,30362,CSIS,114,3E,Management Information Systems,Yates,3,32,28,Lecture,2,P,B
+201630,Fall,2015,30943,CSIS,115,10,Database Design and App fo Bus,Lim,3,16,16,Lecture,3,T,N
+201630,Fall,2015,31230,CSIS,115,6,Database Design and App fo Bus,Yoder,3,16,16,Lecture,3,T,N
+201630,Fall,2015,33058,CSIS,120,02T,Intro to Programming-Lab,Breimer,0,16,14,Lab,2,T,M
+201630,Fall,2015,33057,CSIS,120,1,Intro to Software Development,Breimer,4,16,14,Lecture,3,T,M
+201630,Fall,2015,30466,CSIS,120,08T,Intro to Programming - Lab,Small,0,16,15,Lab,2,T,M
+201630,Fall,2015,31033,CSIS,120,04T,Intro to Programming-Lab,Small,0,16,15,Lab,2,T,M
+201630,Fall,2015,31032,CSIS,120,9,Intro to Software Development,Small,4,32,30,Lecture,3,T,M
+201630,Fall,2015,33340,CSIS,200,4,Software Tools for Physicists,Bellis,3,24,17,Lecture,3,T,N
+201630,Fall,2015,33282,CSIS,200,10,Software Tools for Physicists,Bellis,3,24,18,Lecture,3,T,N
+201630,Fall,2015,33272,CSIS,200,AR,HNRS:The Nature of Humans/Mach,Medsker,3,10,8,Lecture,3,T,N
+201630,Fall,2015,31552,CSIS,200,12,User Interface Concepts,Robinson,3,30,13,Lecture,3,P,N
+201630,Fall,2015,30149,CSIS,210,13W,Data Structures-Lab,Baciewicz,0,16,15,Lab,2,P,M
+201630,Fall,2015,30116,CSIS,210,05W,Data Structures-Lab,Baciewicz,0,16,16,Lab,2,P,M
+201630,Fall,2015,32869,CSIS,210,09W,Data Structures - Lab,Baciewicz,0,17,17,Lab,2,P,M
+201630,Fall,2015,30115,CSIS,210,7,Data Structures,Flatland,3,32,31,Lecture,3,T,M
+201630,Fall,2015,32868,CSIS,210,11,Data Structures,Flatland,3,17,17,Lecture,3,T,M
+201630,Fall,2015,30192,CSIS,220,09M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,16,Lab,2,F,M
+201630,Fall,2015,30193,CSIS,220,25M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,16,Lab,2,F,M
+201630,Fall,2015,33090,CSIS,220,01M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,16,Lab,2,F,M
+201630,Fall,2015,33089,CSIS,220,4,Assembly Lang and Comp Archtcr,DiTursi,4,16,16,Lecture,3,F,M
+201630,Fall,2015,30117,CSIS,220,8,Assembly Lang and Comp Archtcr,DiTursi,4,32,32,Lecture,3,F,M
+201630,Fall,2015,33095,CSIS,251,13M,Discrete Structures-Lab,Matthews,0,18,16,Lab,1.5,T,M
+201630,Fall,2015,30896,CSIS,251,7EM,Discrete Structures I-Lab,Matthews,0,16,17,Lab,1.5,T,M
+201630,Fall,2015,30897,CSIS,251,3EM,Discrete Structures I-Lab,Matthews,0,16,17,Lab,1.5,T,M
+201630,Fall,2015,31545,CSIS,251,8,Discrete Structures,Matthews,4,24,25,Lecture,2,T,M
+201630,Fall,2015,33094,CSIS,251,6,Discrete Structures,Matthews,4,24,25,Lecture,2,T,M
+201630,Fall,2015,33063,CSIS,330,9MF,Operating Systems-Lab,Yoder,0,16,12,Lab,3,T,M
+201630,Fall,2015,33062,CSIS,330,10,Operating Systems,Yoder,4,16,12,Lecture,3,T,M
+201630,Fall,2015,30456,CSIS,350,13,Database Management Systems,Vandenberg,3,28,26,Lecture,3,T,M
+201630,Fall,2015,30946,CSIS,390,05W,Web Application Develop - Lab,Breimer,0,18,16,Lab,2,T,M
+201630,Fall,2015,33064,CSIS,390,09W,Web Application Develop-Lab,Breimer,0,16,16,Lab,2,T,M
+201630,Fall,2015,30945,CSIS,390,3,Web Application Development,Breimer,3,34,32,Lecture,2,T,M
+201630,Fall,2015,32721,CSIS,410,8EH,Software Engineering I-Lab,Fryling,0,16,10,Lab,2,T,M
+201630,Fall,2015,33230,CSIS,410,12H,Software Engineering I -Lab,Fryling,0,16,11,Lab,2,T,M
+201630,Fall,2015,30118,CSIS,410,6ET,Software Engineering I,Fryling,3,32,21,Lecture,2,T,M
+201640,Spring,2016,40036,CSIS,10,3E,Intro to Computer Applications,Cutler,3,32,30,Lecture,2,P,B
+201640,Spring,2016,40039,CSIS,10,WE,Intro to Computer App.-Lab,Ekblaw,0,16,15,Lab,2,P,B
+201640,Spring,2016,40041,CSIS,10,05W,Intro to Computer App.-Lab,Goldstein,0,16,16,Lab,2,F,B
+201640,Spring,2016,42658,CSIS,10,5,Intro to Computer Applications,Goldstein,3,33,31,Lecture,2,F,B
+201640,Spring,2016,41470,CSIS,10,1,Intro to Computer Applications,Goldstein,3,32,31,Lecture,2,F,B
+201640,Spring,2016,40037,CSIS,10,2E,Intro to Computer Applications,Rivituso,3,32,32,Lecture,2,P,B
+201640,Spring,2016,40622,CSIS,10,7EM,Intro to Computer App - Lab,Sahni,0,16,14,Lab,2,P,B
+201640,Spring,2016,40040,CSIS,10,TE2,Intro to Computer App.-Lab,Sahni,0,16,15,Lab,2,P,B
+201640,Spring,2016,40038,CSIS,10,HE,Intro to Computer App.-Lab,Sahni,0,16,16,Lab,2,P,B
+201640,Spring,2016,40189,CSIS,10,09F,Intro to Computer App-Lab,Schindler,0,16,15,Lab,2,P,B
+201640,Spring,2016,40870,CSIS,10,05M,Intro to Computer App.-Lab,Schindler,0,16,15,Lab,2,P,B
+201640,Spring,2016,42659,CSIS,10,10T,Intro to Computer App.-Lab,Schindler,0,16,16,Lab,2,P,B
+201640,Spring,2016,43752,CSIS,11,PRA,Prob Solving With Spreadsheets,Dickinson,1,15,15,Lecture,1.5,P,B
+201640,Spring,2016,43751,CSIS,11,PRB,Prob Solving With Spreadsheets,Dickinson,1,16,16,Lecture,1.5,P,B
+201640,Spring,2016,42660,CSIS,110,09F,Intro to CS:Linux Prg-Lab,Goldstein,0,16,14,Lab,2,F,M
+201640,Spring,2016,40357,CSIS,110,11,Intro to CS:Linux Prg,Goldstein,3,16,14,Lecture,2,F,M
+201640,Spring,2016,42888,CSIS,110,8ET,Intro to CS: MM Python Lab,Mehta,0,16,9,Lab,2,P,M
+201640,Spring,2016,42890,CSIS,110,6ET,Intro to CS: MM Python Lab,Mehta,0,16,14,Lab,2,P,M
+201640,Spring,2016,42886,CSIS,110,2E,Intro to CS: MM Python,Mehta,,32,24,Lecture,2,P,M
+201640,Spring,2016,40050,CSIS,110,25F,Intro CS:Music Python Prg-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201640,Spring,2016,40871,CSIS,110,08H,Intro CS: Music Python Prg-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201640,Spring,2016,40458,CSIS,110,5,Intro CS:Music Python,Vandenberg,3,32,32,Lecture,2,T,M
+201640,Spring,2016,40192,CSIS,114,05M,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,P,B
+201640,Spring,2016,40196,CSIS,114,15M,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,P,B
+201640,Spring,2016,40153,CSIS,114,27,Management Information Systems,Armitage,3,32,32,Lecture,2,P,B
+201640,Spring,2016,40195,CSIS,114,09W,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201640,Spring,2016,40362,CSIS,114,08H,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201640,Spring,2016,40365,CSIS,114,01M,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201640,Spring,2016,40659,CSIS,114,06T,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,F,B
+201640,Spring,2016,40191,CSIS,114,1,Management Information Systems,Cotler,3,32,32,Lecture,2,F,B
+201640,Spring,2016,40658,CSIS,114,4,Management Information Systems,Cotler,3,32,32,Lecture,2,F,B
+201640,Spring,2016,40873,CSIS,114,08T,Management Information Sys-Lab,Liu,0,16,5,Lab,2,F,B
+201640,Spring,2016,40197,CSIS,114,12T,Management Information Sys-Lab,Liu,0,16,12,Lab,2,F,B
+201640,Spring,2016,40275,CSIS,114,13,Management Information Systems,Liu,3,32,17,Lecture,2,F,B
+201640,Spring,2016,40194,CSIS,114,7EM,Management Information Sys-Lab,Yates,0,12,12,Lab,2,P,B
+201640,Spring,2016,42661,CSIS,114,9EW,Management Information Sys-Lab,Yates,0,12,12,Lab,2,P,B
+201640,Spring,2016,40121,CSIS,114,7,Management Information Systems,Yates,3,24,24,Lecture,2,P,B
+201640,Spring,2016,40875,CSIS,115,2,Database Design and App fo Bus,Schindler,3,16,16,Lecture,3,P,N
+201640,Spring,2016,40977,CSIS,115,4,Database Design and App fo Bus,Schindler,3,16,16,Lecture,3,P,N
+201640,Spring,2016,41475,CSIS,115,6,Database Design and App fo Bus,Yoder,3,16,16,Lecture,3,T,N
+201640,Spring,2016,42894,CSIS,120,01M,Intro to Programming Lab,Breimer,0,16,16,Lab,2,T,M
+201640,Spring,2016,43589,CSIS,120,05M,Intro to Programming-Lab,Breimer,0,16,16,Lab,2,T,M
+201640,Spring,2016,42893,CSIS,120,2,Intro to Software Development,Breimer,4,32,32,Lecture,3,T,M
+201640,Spring,2016,40487,CSIS,120,05F,Intro to Programming-Lab,DiTursi,0,16,12,Lab,2,F,M
+201640,Spring,2016,40053,CSIS,120,09M,Intro to Programming Lab,DiTursi,0,16,16,Lab,2,F,M
+201640,Spring,2016,40486,CSIS,120,8,Intro to Software Development,DiTursi,4,32,28,Lecture,3,F,M
+201640,Spring,2016,40052,CSIS,120,04T,Intro to Programming Lab,Lim,0,16,14,Lab,2,T,M
+201640,Spring,2016,40876,CSIS,120,05W,Intro to Programming-Lab,Small,0,16,16,Lab,2,T,M
+201640,Spring,2016,40051,CSIS,120,9,Intro to Software Development,Small,4,32,30,Lecture,3,T,M
+201640,Spring,2016,42036,CSIS,180,08T,Web Design - Lab,Egan,0,16,16,Lab,2,T,N
+201640,Spring,2016,42035,CSIS,180,7,Web Design,Egan,3,31,31,Lecture,2,T,N
+201640,Spring,2016,42662,CSIS,180,10T,Web Design-Lab,Ekblaw,0,15,15,Lab,2,P,N
+201640,Spring,2016,42038,CSIS,210,05F,Data Structures - Lab,Yoder,0,16,7,Lab,2,T,M
+201640,Spring,2016,43590,CSIS,210,09F,Data Structures-Lab,Yoder,0,16,15,Lab,2,T,M
+201640,Spring,2016,40280,CSIS,210,9,Data Structures,Yoder,3,32,22,Lecture,3,T,M
+201640,Spring,2016,42898,CSIS,225,13W,Object-Oriented Des & Prog Lab,Lim,0,16,11,Lab,2,T,M
+201640,Spring,2016,42897,CSIS,225,05W,Object-Oriented Des & Prog Lab,Lim,0,16,15,Lab,2,T,M
+201640,Spring,2016,40168,CSIS,225,09W,Object-Oriented Des & Prog-Lab,Lim,0,16,16,Lab,2,T,M
+201640,Spring,2016,40279,CSIS,225,5,Advanced Programming,Lim,3,24,19,Lecture,2,T,M
+201640,Spring,2016,42896,CSIS,225,7,Advanced Programming,Lim,3,24,23,Lecture,2,T,M
+201640,Spring,2016,43142,CSIS,351,2,Theory of Computation,DiTursi,3,24,24,Lecture,3,F,M
+201640,Spring,2016,43503,CSIS,351,4,Theory of Computation,DiTursi,3,24,24,Lecture,3,F,M
+201640,Spring,2016,43593,CSIS,355,3,Advanced Database,Vandenberg,3,16,15,Lecture,3,T,M
+201640,Spring,2016,42905,CSIS,385,12T,Design+Analysis of Alg Lab,Baciewicz,0,16,11,Lab,2,P,M
+201640,Spring,2016,43594,CSIS,385,10T,Design+Analysis of Alg-Lab,Baciewicz,0,16,16,Lab,2,P,M
+201640,Spring,2016,42903,CSIS,385,08T,Design+Analysis of Alg Lab,Flatland,0,16,16,Lab,2,T,M
+201640,Spring,2016,42995,CSIS,385,11,Design+Analysis of Algorithm,Flatland,3,24,20,Lecture,2,T,M
+201640,Spring,2016,43595,CSIS,385,9,Design+Analysis of Algorithm,Flatland,3,24,23,Lecture,2,T,M
+201640,Spring,2016,43596,CSIS,400,6,Machine Learning,Breimer,3,25,25,Lecture,3,T,M
+201640,Spring,2016,43597,CSIS,415,13M,Software Engineering II-Lab,Fryling,0,16,9,Lab,2,T,M
+201640,Spring,2016,43598,CSIS,415,7EM,Software Engineering II-Lab,Fryling,0,16,12,Lab,2,T,M
+201640,Spring,2016,42045,CSIS,415,9E,Software Engineering II,Fryling,3,32,21,Lecture,2,T,M
+201730,Fall,2016,30105,CSIS,10,8EH,Intro to Computer App-Lab,Kuperman,0,16,11,Lab,2,P,B
+201730,Fall,2016,30103,CSIS,10,2E,Intro to Computer Applicat,Rivituso,3,32,31,Lecture,2,P,B
+201730,Fall,2016,30130,CSIS,10,9EW,Intro to Computer App-Lab,Sivakumar,0,16,16,Lab,2,P,B
+201730,Fall,2016,30129,CSIS,10,3E,Intro to Computer Applicat,Sivakumar,3,28,24,Lecture,2,P,B
+201730,Fall,2016,30108,CSIS,10,6ET,Intro to Computer App-Lab,White,0,16,13,Lab,2,F,B
+201730,Fall,2016,31229,CSIS,10,3EM,Intro to Computer App-Lab,White,0,16,15,Lab,2,F,B
+201730,Fall,2016,33605,CSIS,11,3EA,Prob Solving With Spreadsheets,Armitage,1,16,14,Lecture,1.5,F,B
+201730,Fall,2016,33601,CSIS,11,08B,Prob Solving With Spreadsheets,Goldstein,1,16,12,Lecture,1.5,T,B
+201730,Fall,2016,30304,CSIS,11,08A,Prob Solving With Spreadsheets,Goldstein,1,16,15,Lecture,1.5,T,B
+201730,Fall,2016,33602,CSIS,11,01A,Prob Solving With Spreadsheets,Teresco,1,16,13,Lecture,1.5,T,B
+201730,Fall,2016,33604,CSIS,11,01B,Prob Solving With Spreadsheets,Teresco,1,16,14,Lecture,1.5,T,B
+201730,Fall,2016,30910,CSIS,11,2EA,Prob Solving With Spreadsheets,White,1,16,12,Lecture,1.5,F,B
+201730,Fall,2016,30114,CSIS,110,24H,Intro CS:MM Python Prg-Lab,Cotler,0,16,16,Lab,2,T,M
+201730,Fall,2016,30109,CSIS,110,15,Intro CS:MM Python Prg,Cotler,3,32,32,Lecture,2,T,M
+201730,Fall,2016,30111,CSIS,110,28H,Intro CS:MM Python Prg-Lab,Egan,0,16,16,Lab,2,T,M
+201730,Fall,2016,30474,CSIS,110,01F,Intro CS:MM Python Prg-Lab,Egan,0,16,16,Lab,2,T,M
+201730,Fall,2016,32708,CSIS,110,05F,Intro CS:MM Python Prg Lab,Egan,0,16,16,Lab,2,T,M
+201730,Fall,2016,30110,CSIS,110,7,Intro CS: MM Python Prg,Egan,3,32,32,Lecture,2,T,M
+201730,Fall,2016,30113,CSIS,110,09F,Intro CS:Linux Systems Lab,Goldstein,0,16,13,Lab,2,T,M
+201730,Fall,2016,30565,CSIS,110,10H,Intro CS: Linux Systems-Lab,Goldstein,0,16,15,Lab,2,T,M
+201730,Fall,2016,30136,CSIS,110,11,Intro CS: Linux Systems,Goldstein,3,32,28,Lecture,2,T,M
+201730,Fall,2016,32712,CSIS,110,9EW,Intro CS: MM Python Prg Lab,Mehta,0,16,13,Lab,2,P,M
+201730,Fall,2016,32709,CSIS,110,3E,Intro CS: MM Python Prg,Mehta,3,16,13,Lecture,2,P,M
+201730,Fall,2016,30112,CSIS,110,08H,Intro CS: Music Python -Lab,Vandenberg,0,16,16,Lab,2,T,M
+201730,Fall,2016,30147,CSIS,110,29F,Intro CS: Music Python-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201730,Fall,2016,30527,CSIS,110,9,Intro CS:Music Python,Vandenberg,3,32,32,Lecture,2,T,M
+201730,Fall,2016,33129,CSIS,110,BET,Beth HS: Intro to CS,Flatland,3,38,38,Lecture,2,T,M
+201730,Fall,2016,33130,CSIS,110,BHL,Beth HS: Intro to CS-Lab,Egan,0,38,38,Lab,2,T,M
+201730,Fall,2016,33608,CSIS,110,HN,Mohan HS: Intro to CS,Vandenberg,3,12,12,Lecture,2,T,M
+201730,Fall,2016,33607,CSIS,110,HNL,Mohan HS: Intro to CS Lab,Goldstein,0,12,12,Lab,2,T,M
+201730,Fall,2016,30573,CSIS,114,10T,Management Information Sys-Lab,Armitage,0,16,7,Lab,2,F,B
+201730,Fall,2016,30308,CSIS,114,08T,Management Information Sys-Lab,Armitage,0,16,15,Lab,2,F,B
+201730,Fall,2016,30572,CSIS,114,6,Management Information Systems,Armitage,3,32,22,Lecture,2,F,B
+201730,Fall,2016,30306,CSIS,114,01F,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,T,B
+201730,Fall,2016,30915,CSIS,114,02H,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,T,B
+201730,Fall,2016,30309,CSIS,114,10,Management Information Systems,Cotler,3,32,27,Lecture,2,T,B
+201730,Fall,2016,30300,CSIS,114,23,Management Information Systems,Cotler,3,32,32,Lecture,2,T,B
+201730,Fall,2016,30365,CSIS,114,04H,Management Information Sys-lab,Lim,0,16,12,Lab,2,T,B
+201730,Fall,2016,30364,CSIS,114,24T,Management Information Sys-lab,Lim,0,16,15,Lab,2,T,B
+201730,Fall,2016,30310,CSIS,114,05M,Management Information Sys-Lab,Small,0,16,16,Lab,2,T,B
+201730,Fall,2016,32717,CSIS,114,09M,Management Information Sys-Lab,White,0,16,16,Lab,2,F,B
+201730,Fall,2016,30361,CSIS,114,5,Management Information Systems,White,3,32,32,Lecture,2,F,B
+201730,Fall,2016,30307,CSIS,114,9EW,Management Information Sys-Lab,Yates,0,16,14,Lab,2,P,B
+201730,Fall,2016,30363,CSIS,114,7EM,Management Information Sys-lab,Yates,0,16,15,Lab,2,P,B
+201730,Fall,2016,30362,CSIS,114,3E,Management Information Systems,Yates,3,32,29,Lecture,2,P,B
+201730,Fall,2016,30943,CSIS,115,10,Database Design and App fo Bus,Lim,3,16,16,Lecture,3,T,N
+201730,Fall,2016,31230,CSIS,115,6,Database Design and App fo Bus,White,3,16,15,Lecture,3,F,N
+201730,Fall,2016,33609,CSIS,115,4,Database Design and App fo Bus,White,3,16,16,Lecture,3,F,N
+201730,Fall,2016,30466,CSIS,120,09W,Intro to Software Dev - Lab,Small,0,16,15,Lab,2,T,M
+201730,Fall,2016,31033,CSIS,120,05W,Intro to Software Dev - Lab,Small,0,16,16,Lab,2,T,M
+201730,Fall,2016,31032,CSIS,120,3,Intro to Software Development,Small,4,32,31,Lecture,3,T,M
+201730,Fall,2016,33340,CSIS,200,4,Software Tools for Physicists,Bellis,3,24,8,Lecture,3,T,N
+201730,Fall,2016,33871,CSIS,200,12,Software tools for Physicists,Bellis,3,24,21,Lecture,3,T,N
+201730,Fall,2016,30116,CSIS,210,05W,Data Structures-Lab,Teresco,0,16,14,Lab,2,T,M
+201730,Fall,2016,30149,CSIS,210,13W,Data Structures-Lab,Teresco,0,16,15,Lab,2,T,M
+201730,Fall,2016,30115,CSIS,210,7,Data Structures,Teresco,3,32,29,Lecture,3,T,M
+201730,Fall,2016,33651,CSIS,210,W13,Data Structures-Lab,Yoder,0,16,7,Lab,2,T,M
+201730,Fall,2016,32869,CSIS,210,09W,Data Structures - Lab,Yoder,0,16,9,Lab,2,T,M
+201730,Fall,2016,32868,CSIS,210,11,Data Structures,Yoder,3,32,16,Lecture,3,T,M
+201730,Fall,2016,30193,CSIS,220,25M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,13,Lab,2,F,M
+201730,Fall,2016,33090,CSIS,220,01M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,13,Lab,2,F,M
+201730,Fall,2016,30192,CSIS,220,09M,Assembly Lang and Comp Arc-Lab,DiTursi,0,17,17,Lab,2,F,M
+201730,Fall,2016,33089,CSIS,220,4,Assembly Lang and Comp Archtcr,DiTursi,4,24,21,Lecture,3,F,M
+201730,Fall,2016,30117,CSIS,220,8,Assembly Lang and Comp Archtcr,DiTursi,4,24,22,Lecture,3,F,M
+201730,Fall,2016,30896,CSIS,251,7EM,Discrete Structures I-Lab,Matthews,0,18,15,Lab,1.5,T,M
+201730,Fall,2016,30897,CSIS,251,3EM,Discrete Structures I-Lab,Matthews,0,18,18,Lab,1.5,T,M
+201730,Fall,2016,33095,CSIS,251,13M,Discrete Structures-Lab,Matthews,0,18,18,Lab,1.5,T,M
+201730,Fall,2016,31545,CSIS,251,8,Discrete Structures,Matthews,4,32,28,Lecture,2,T,M
+201730,Fall,2016,33094,CSIS,251,10,Discrete Structures,Matthews,4,24,23,Lecture,2,T,M
+201730,Fall,2016,30456,CSIS,350,13,Database Management Systems,Vandenberg,3,28,28,Lecture,3,T,M
+201730,Fall,2016,33610,CSIS,365,4,Communications and Networks,Yoder,3,32,23,Lecture,3,T,M
+201730,Fall,2016,33612,CSIS,380,09W,Computer Graphics - Lab,Flatland,0,16,16,Lab,2,T,M
+201730,Fall,2016,33611,CSIS,380,11,Computer Graphics,Flatland,3,16,16,Lecture,2,T,M
+201730,Fall,2016,33794,CSIS,400,5,Adv Topic:  Computer Security,Armitage,3,32,14,Lecture,3,F,M
+201730,Fall,2016,33613,CSIS,400,12,Mobile App Development,Lim,3,16,16,Lecture,3,T,M
+201730,Fall,2016,33230,CSIS,410,12H,Software Engineering I -Lab,Fryling,0,16,11,Lab,2,T,M
+201730,Fall,2016,33652,CSIS,410,10H,Software Engineering I-Lab,Fryling,0,16,11,Lab,2,T,M
+201730,Fall,2016,32721,CSIS,410,8EH,Software Engineering I-Lab,Fryling,0,16,16,Lab,2,T,M
+201730,Fall,2016,30118,CSIS,410,6ET,Software Engineering I,Fryling,3,40,38,Lecture,2,T,M
+201740,Spring,2017,42658,CSIS,10,5,Intro to Computer Applications,Armitage,3,32,32,Lecture,2,F,B
+201740,Spring,2017,40038,CSIS,10,HE,Intro to Computer App.-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201740,Spring,2017,40040,CSIS,10,TE2,Intro to Computer App.-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201740,Spring,2017,40870,CSIS,10,09F,Intro to Computer App.-Lab,DiTursi,0,16,15,Lab,2,F,B
+201740,Spring,2017,40037,CSIS,10,2E,Intro to Computer Applications,Rivituso,3,32,31,Lecture,2,P,B
+201740,Spring,2017,40041,CSIS,10,05F,Intro to Computer App.-Lab,White,0,16,16,Lab,2,F,B
+201740,Spring,2017,43905,CSIS,11,1EA,Prob Solving Sprdshts Hybrid,Goldstein,1,16,13,Lecture,1.5,T,B
+201740,Spring,2017,43902,CSIS,11,3EA,Prob Solving Sprdshts Hybird,Goldstein,1,16,15,Lecture,1.5,T,B
+201740,Spring,2017,43901,CSIS,11,13A,Prob Solving Sprdshts Hybrid,Goldstein,1,16,16,Lecture,1.5,T,B
+201740,Spring,2017,43999,CSIS,11,13B,Prob Solving With Spreadsheets,Teresco,1,17,16,Lecture,1.5,T,B
+201740,Spring,2017,42890,CSIS,110,6ET,Intro to CS: MM Python Lab,Mehta,0,16,15,Lab,2,P,M
+201740,Spring,2017,42888,CSIS,110,8ET,Intro to CS: MM Python Lab,Mehta,0,16,16,Lab,2,P,M
+201740,Spring,2017,42886,CSIS,110,2E,Intro to CS: MM Python,Mehta,3,32,31,Lecture,2,P,M
+201740,Spring,2017,42660,CSIS,110,09F,Intro to CS: Music Python Lab,Vandenberg,0,16,16,Lab,2,T,M
+201740,Spring,2017,43870,CSIS,110,06H,Intro to CS: Music Python-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201740,Spring,2017,40357,CSIS,110,11,Intro to CS: Music Phython,Vandenberg,3,32,32,Lecture,2,T,M
+201740,Spring,2017,40197,CSIS,114,08T,Management Information Sys-Lab,Armitage,0,17,16,Lab,2,F,B
+201740,Spring,2017,40195,CSIS,114,09F,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201740,Spring,2017,40362,CSIS,114,08H,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201740,Spring,2017,40873,CSIS,114,10T,Management Information Sys-Lab,Armitage,0,17,17,Lab,2,F,B
+201740,Spring,2017,40658,CSIS,114,4,Management Information Systems,Armitage,3,32,32,Lecture,2,F,B
+201740,Spring,2017,40275,CSIS,114,15,Management Information Systems,Armitage,3,33,33,Lecture,2,F,B
+201740,Spring,2017,40365,CSIS,114,01M,Management Information Sys-Lab,Cotler,0,17,17,Lab,2,T,B
+201740,Spring,2017,40191,CSIS,114,1,Management Information Systems,Cotler,3,17,17,Lecture,2,T,B
+201740,Spring,2017,40192,CSIS,114,05M,Management Information Sys-Lab,Liu,0,16,16,Lab,2,T,B
+201740,Spring,2017,40196,CSIS,114,15M,Management Information Sys-Lab,Liu,0,16,16,Lab,2,T,B
+201740,Spring,2017,40153,CSIS,114,27,Management Information Systems,Liu,3,32,32,Lecture,2,T,B
+201740,Spring,2017,42661,CSIS,114,9EW,Management Information Sys-Lab,Yates,0,18,16,Lab,2,P,B
+201740,Spring,2017,40194,CSIS,114,7EM,Management Information Sys-Lab,Yates,0,16,16,Lab,2,P,B
+201740,Spring,2017,40121,CSIS,114,7,Management Information Systems,Yates,3,34,32,Lecture,2,P,B
+201740,Spring,2017,43996,CSIS,115,10,Database Design and App fo Bus,DiTursi,3,16,16,Lecture,3,F,N
+201740,Spring,2017,40875,CSIS,115,2E,Database Design and App fo Bus,Greiner,3,16,16,Lecture,3,P,N
+201740,Spring,2017,40977,CSIS,115,4,Database Design and App fo Bus,Yoder,3,16,16,Lecture,3,T,N
+201740,Spring,2017,40053,CSIS,120,09M,Intro to Software Dev-Lab,Lim,0,16,11,Lab,2,T,M
+201740,Spring,2017,40487,CSIS,120,10H,Intro to Software Dev-Lab,Lim,0,16,12,Lab,2,T,M
+201740,Spring,2017,40486,CSIS,120,8,Intro to Software Development,Lim,4,32,23,Lecture,3,T,M
+201740,Spring,2017,42894,CSIS,120,01M,Intro to Software Dev-Lab,White,0,16,10,Lab,2,F,M
+201740,Spring,2017,43589,CSIS,120,05M,Intro to Software Dev-Lab,White,0,16,14,Lab,2,F,M
+201740,Spring,2017,40052,CSIS,120,04T,Intro to Software Dev-Lab,White,0,16,15,Lab,2,F,M
+201740,Spring,2017,40876,CSIS,120,05W,Intro to Software Dev-Lab,White,0,16,15,Lab,2,F,M
+201740,Spring,2017,42893,CSIS,120,2,Intro to Software Development,White,4,32,23,Lecture,3,F,M
+201740,Spring,2017,40051,CSIS,120,9,Intro to Software Development,White,4,32,31,Lecture,3,F,M
+201740,Spring,2017,42035,CSIS,180,7,Web Design,Cotler,3,33,33,Lecture,2,T,N
+201740,Spring,2017,42662,CSIS,180,09W,Web Design-Lab,Egan,0,16,16,Lab,2,T,N
+201740,Spring,2017,42036,CSIS,180,09M,Web Design - Lab,Egan,0,17,17,Lab,2,T,N
+201740,Spring,2017,43873,CSIS,180,9EW,Web Design-Lab,Tomaszewski,0,16,16,Lab,2,P,N
+201740,Spring,2017,43872,CSIS,180,7EM,Web Design,Tomaszewski,3,16,16,Lecture,2,P,N
+201740,Spring,2017,44249,CSIS,200,05F,C Programming,DiTursi,1,16,16,Lecture,3,F,N
+201740,Spring,2017,43874,CSIS,200,MW,UX Concepts,Robinson,3,24,20,Lecture,3,P,N
+201740,Spring,2017,44219,CSIS,210,W09,Data Structures-Lab,Yoder,0,16,4,Lab,2,T,M
+201740,Spring,2017,42038,CSIS,210,09W,Data Structures - Lab,Yoder,0,16,15,Lab,2,T,M
+201740,Spring,2017,40280,CSIS,210,9,Data Structures,Yoder,3,32,19,Lecture,3,T,M
+201740,Spring,2017,42898,CSIS,225,13W,Advanced Programming-Lab,Lim,0,16,10,Lab,2,T,M
+201740,Spring,2017,40168,CSIS,225,09W,Advanced Programming Lab,Lim,0,16,15,Lab,2,T,M
+201740,Spring,2017,42896,CSIS,225,7,Advanced Programming,Lim,3,24,23,Lecture,2,T,M
+201740,Spring,2017,42897,CSIS,225,05W,Advanced Programming Lab,Teresco,0,16,12,Lab,2,T,M
+201740,Spring,2017,40279,CSIS,225,5,Advanced Programming,Teresco,3,24,14,Lecture,2,T,M
+201740,Spring,2017,43142,CSIS,351,2,Theory of Computation,DiTursi,3,24,12,Lecture,3,F,M
+201740,Spring,2017,43503,CSIS,351,4,Theory of Computation,DiTursi,3,24,24,Lecture,3,F,M
+201740,Spring,2017,42903,CSIS,385,08T,Design+Analysis of Alg Lab,Flatland,0,16,14,Lab,2,T,M
+201740,Spring,2017,43594,CSIS,385,10T,Design+Analysis of Alg-Lab,Flatland,0,16,16,Lab,2,T,M
+201740,Spring,2017,43595,CSIS,385,9,Design+Analysis of Algorithm,Flatland,3,24,24,Lecture,2,T,M
+201740,Spring,2017,42905,CSIS,385,12T,Design+Analysis of Alg Lab,Teresco,0,16,6,Lab,2,T,M
+201740,Spring,2017,42995,CSIS,385,11,Design+Analysis of Algorithm,Teresco,3,24,12,Lecture,2,T,M
+201740,Spring,2017,43880,CSIS,390,01W,Web Application Dev Lab,Breimer,0,16,15,Lab,2,T,M
+201740,Spring,2017,43882,CSIS,390,06T,Web Application Dev - Lab,Breimer,0,16,15,Lab,2,T,M
+201740,Spring,2017,43881,CSIS,390,05W,Web Application Dev - Lab,Breimer,0,16,16,Lab,2,T,M
+201740,Spring,2017,43877,CSIS,390,1,Web Application Development,Breimer,3,16,14,Lecture,2,T,M
+201740,Spring,2017,43879,CSIS,390,3,Web Application Development,Breimer,3,32,32,Lecture,2,T,M
+201740,Spring,2017,43884,CSIS,400,10,Information Retrieval,Liu,3,32,18,Lecture,3,T,M
+201740,Spring,2017,43598,CSIS,415,7EM,Software Engineering II-Lab,Fryling,0,16,10,Lab,2,T,M
+201740,Spring,2017,43997,CSIS,415,12T,Software Engineering II-Lab,Fryling,0,16,11,Lab,2,T,M
+201740,Spring,2017,43597,CSIS,415,13M,Software Engineering II-Lab,Fryling,0,16,16,Lab,2,T,M
+201740,Spring,2017,42045,CSIS,415,9E,Software Engineering II,Fryling,3,38,37,Lecture,2,T,M
+201830,Fall,2017,30108,CSIS,10,6ET,Intro to Computer App-Lab,Arunasalem,0,15,14,Lab,2,P,B
+201830,Fall,2017,30130,CSIS,10,9EW,Intro to Computer App-Lab,Arunasalem,0,15,14,Lab,2,P,B
+201830,Fall,2017,30129,CSIS,10,3E,Intro to Computer Applicat,Arunasalem,3,28,25,Lecture,2,P,B
+201830,Fall,2017,31229,CSIS,10,3EM,Intro to Computer App-Lab,Ekblaw,0,15,13,Lab,2,P,B
+201830,Fall,2017,30103,CSIS,10,2E,Intro to Computer Applicat,Rivituso,3,32,31,Lecture,2,P,B
+201830,Fall,2017,30105,CSIS,10,8EH,Intro to Computer App-Lab,White,0,15,15,Lab,2,F,B
+201830,Fall,2017,33601,CSIS,11,3EB,Prob Solving With Spreadsheets,Roberts,1,16,13,Lecture,1.5,P,B
+201830,Fall,2017,30910,CSIS,11,2EA,Prob Solving With Spreadsheets,Roberts,1,16,15,Lecture,1.5,P,B
+201830,Fall,2017,33605,CSIS,11,3EA,Prob Solving With Spreadsheets,Roberts,1,16,16,Lecture,1.5,P,B
+201830,Fall,2017,34074,CSIS,11,2EB,Prob Solving With Spreadsheets,Roberts,1,16,16,Lecture,1.5,P,B
+201830,Fall,2017,33604,CSIS,11,01B,Prob Solving With Spreadsheets,White,1,16,15,Lecture,1.5,F,B
+201830,Fall,2017,33602,CSIS,11,01A,Prob Solving With Spreadsheets,White,1,16,16,Lecture,1.5,F,B
+201830,Fall,2017,30474,CSIS,110,01F,Intro CS:MM Python Prg-Lab,Egan,0,16,14,Lab,2,T,M
+201830,Fall,2017,32708,CSIS,110,05F,Intro CS:MM Python Prg Lab,Egan,0,16,15,Lab,2,T,M
+201830,Fall,2017,30110,CSIS,110,7,Intro CS: MM Python Prg,Egan,3,32,29,Lecture,2,T,M
+201830,Fall,2017,34374,CSIS,110,BET,Intro to Computer Science/Beth,Flatland,3,31,31,Lecture,2,T,M
+201830,Fall,2017,34373,CSIS,110,BEL,Intro to Computer Sci - BE Lab,Goldstein,0,25,25,Lab,2,T,M
+201830,Fall,2017,30113,CSIS,110,09F,Intro CS:Linux Systems Lab,Goldstein,0,16,10,Lab,2,T,M
+201830,Fall,2017,33607,CSIS,110,MHL,Mohan HS:  Intro to CS Lab,Matthews,0,25,17,Lab,2,T,M
+201830,Fall,2017,30136,CSIS,110,11,Intro CS: Linux Systems,Goldstein,3,16,10,Lecture,2,T,M
+201830,Fall,2017,32712,CSIS,110,8ET,Intro CS: MM Python Prg Lab,Mehta,0,16,9,Lab,2,P,M
+201830,Fall,2017,32711,CSIS,110,6ET,Intro CS: MM Python Prg-Lab,Mehta,0,16,10,Lab,2,P,M
+201830,Fall,2017,32709,CSIS,110,6E,Intro CS: MM Python Prg,Mehta,3,32,19,Lecture,2,P,M
+201830,Fall,2017,30112,CSIS,110,08H,Intro CS: Music Python -Lab,Vandenberg,0,16,12,Lab,2,T,M
+201830,Fall,2017,30147,CSIS,110,29F,Intro CS: Music Python-Lab,Vandenberg,0,16,16,Lab,2,T,M
+201830,Fall,2017,33608,CSIS,110,MH,Mohan HS: Intro to CS,Vandenberg,3,25,17,Lecture,2,T,M
+201830,Fall,2017,30527,CSIS,110,9,Intro CS:Music Python,Vandenberg,3,32,28,Lecture,2,T,M
+201830,Fall,2017,30111,CSIS,110,28H,Intro CS:MM Python Prg-Lab,White,0,16,9,Lab,2,F,M
+201830,Fall,2017,30114,CSIS,110,F05,Intro CS:MM Python Prg-Lab,White,0,16,12,Lab,2,F,M
+201830,Fall,2017,30109,CSIS,110,5,Intro CS:MM Python Prg,White,3,32,21,Lecture,2,F,M
+201830,Fall,2017,30308,CSIS,114,08T,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201830,Fall,2017,30573,CSIS,114,10T,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201830,Fall,2017,30572,CSIS,114,6,Management Information Systems,Armitage,3,32,32,Lecture,2,F,B
+201830,Fall,2017,30310,CSIS,114,05M,Management Information Sys-Lab,Breimer,0,16,16,Lab,2,T,B
+201830,Fall,2017,32717,CSIS,114,01M,Management Information Sys-Lab,Breimer,0,16,16,Lab,2,T,B
+201830,Fall,2017,30361,CSIS,114,1,Management Information Systems,Breimer,3,32,32,Lecture,2,T,B
+201830,Fall,2017,34266,CSIS,114,09M,Management Information Sys-Lab,Cotler,0,16,16,Lab,2,T,B
+201830,Fall,2017,30306,CSIS,114,01F,Management Information Sys-Lab,Cotler,0,17,17,Lab,2,T,B
+201830,Fall,2017,30300,CSIS,114,23,Management Information Systems,Cotler,3,33,33,Lecture,2,T,B
+201830,Fall,2017,30307,CSIS,114,9EW,Management Information Sys-Lab,Cramer,0,16,16,Lab,2,P,B
+201830,Fall,2017,30363,CSIS,114,7EM,Management Information Sys-lab,Cramer,0,16,16,Lab,2,P,B
+201830,Fall,2017,30362,CSIS,114,3E,Management Information Systems,Cramer,3,32,32,Lecture,2,P,B
+201830,Fall,2017,30364,CSIS,114,24T,Management Information Sys-lab,Liu,0,16,11,Lab,2,T,B
+201830,Fall,2017,30365,CSIS,114,04H,Management Information Sys-lab,Liu,0,16,13,Lab,2,T,B
+201830,Fall,2017,30309,CSIS,114,10,Management Information Systems,Liu,3,32,24,Lecture,2,T,B
+201830,Fall,2017,33609,CSIS,115,7,Database Design and App fo Bus,Armitage,3,16,15,Lecture,3,F,N
+201830,Fall,2017,30943,CSIS,115,6EH,Database Design and App fo Bus,Greiner,3,16,15,Lecture,3,P,N
+201830,Fall,2017,31230,CSIS,115,6,Database Design and App fo Bus,White,3,16,16,Lecture,3,F,N
+201830,Fall,2017,30466,CSIS,120,13W,Intro to Software Dev - Lab,Small,0,16,14,Lab,2,T,M
+201830,Fall,2017,31033,CSIS,120,05W,Intro to Software Dev - Lab,Small,0,16,14,Lab,2,T,M
+201830,Fall,2017,31032,CSIS,120,9,Intro to Software Development,Small,4,32,28,Lecture,3,T,M
+201830,Fall,2017,34090,CSIS,200,3,Intro to CyberSecurity,Armitage,3,24,17,Lecture,3,F,N
+201830,Fall,2017,33871,CSIS,200,12,Software tools for Physicists,Bellis,3,36,35,Lecture,3,T,N
+201830,Fall,2017,34294,CSIS,210,01W,Data Structures-Lab,Teresco,0,16,8,Lab,2,T,M
+201830,Fall,2017,30116,CSIS,210,05W,Data Structures-Lab,Teresco,0,16,16,Lab,2,T,M
+201830,Fall,2017,30115,CSIS,210,5,Data Structures,Teresco,3,24,24,Lecture,3,T,M
+201830,Fall,2017,32869,CSIS,210,09W,Data Structures - Lab,Yoder,0,16,12,Lab,2,T,M
+201830,Fall,2017,33651,CSIS,210,W13,Data Structures-Lab,Yoder,0,16,12,Lab,2,T,M
+201830,Fall,2017,32868,CSIS,210,11,Data Structures,Yoder,3,32,24,Lecture,3,T,M
+201830,Fall,2017,33090,CSIS,220,01M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,8,Lab,2,F,M
+201830,Fall,2017,30192,CSIS,220,09M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,10,Lab,2,F,M
+201830,Fall,2017,30193,CSIS,220,25M,Assembly Lang and Comp Arc-Lab,DiTursi,0,16,16,Lab,2,F,M
+201830,Fall,2017,33089,CSIS,220,4,Assembly Lang and Comp Archtcr,DiTursi,4,24,13,Lecture,3,F,M
+201830,Fall,2017,30117,CSIS,220,6,Assembly Lang and Comp Archtcr,DiTursi,4,24,21,Lecture,3,F,M
+201830,Fall,2017,30896,CSIS,251,7EM,Discrete Structures I-Lab,Matthews,0,18,11,Lab,1.5,T,M
+201830,Fall,2017,30897,CSIS,251,3EM,Discrete Structures I-Lab,Matthews,0,19,17,Lab,1.5,T,M
+201830,Fall,2017,33095,CSIS,251,13M,Discrete Structures-Lab,Matthews,0,18,18,Lab,1.5,T,M
+201830,Fall,2017,33094,CSIS,251,10,Discrete Structures,Matthews,4,24,19,Lecture,2,T,M
+201830,Fall,2017,31545,CSIS,251,8,Discrete Structures,Matthews,4,32,27,Lecture,2,T,M
+201830,Fall,2017,30456,CSIS,350,13,Database Management Systems,Vandenberg,3,28,28,Lecture,3,T,M
+201830,Fall,2017,33612,CSIS,380,09W,Computer Graphics - Lab,Flatland,0,18,18,Lab,2,T,M
+201830,Fall,2017,33611,CSIS,380,11,Computer Graphics,Flatland,3,18,18,Lecture,2,T,M
+201830,Fall,2017,33613,CSIS,400,8,Unix/Linux,Goldstein,3,16,16,Lecture,3,T,M
+201830,Fall,2017,33794,CSIS,400,4,Parallel Proc/High Perf Comp,Teresco,3,17,15,Lecture,3,T,M
+201830,Fall,2017,34098,CSIS,401,05F,Robotics Lab,Liu,0,16,16,Lab,2,T,M
+201830,Fall,2017,34100,CSIS,401,05M,Robotics,Small,3,16,16,Lecture,2,T,M
+201830,Fall,2017,34102,CSIS,410,9EW,Software Engineering I,Cotler,3,24,14,Lecture,2,T,M
+201830,Fall,2017,32721,CSIS,410,12H,Software Engineering I-Lab,Fryling,0,16,7,Lab,2,T,M
+201830,Fall,2017,33230,CSIS,410,12T,Software Engineering I -Lab,Fryling,0,16,15,Lab,2,T,M
+201830,Fall,2017,33652,CSIS,410,10T,Software Engineering I-Lab,Fryling,0,16,15,Lab,2,T,M
+201830,Fall,2017,30118,CSIS,410,W9E,Software Engineering I,Fryling,3,24,23,Lecture,2,T,M
+201840,Spring,2018,40038,CSIS,10,8EH,Intro to Computer App.-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201840,Spring,2018,40040,CSIS,10,6ET,Intro to Computer App.-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201840,Spring,2018,40870,CSIS,10,T6E,Intro to Computer App.-Lab,Demissie,0,16,16,Lab,2,P,B
+201840,Spring,2018,42658,CSIS,10,13,Intro to Computer Applications,Goldstein,3,32,32,Lecture,2,T,B
+201840,Spring,2018,40037,CSIS,10,2E,Intro to Computer Applications,Rivituso,3,32,32,Lecture,2,P,B
+201840,Spring,2018,40041,CSIS,10,04T,Intro to Computer App.-Lab,White,0,16,16,Lab,2,F,B
+201840,Spring,2018,44487,CSIS,11,05B,Prob Solving Spreadsheets,Ekblaw,1,16,14,Lecture,1.5,P,B
+201840,Spring,2018,43905,CSIS,11,5EA,Prob Solving Spreadsheets,Ekblaw,1,16,15,Lecture,1.5,P,B
+201840,Spring,2018,43901,CSIS,11,3EA,Prob Solving Spreadsheets,Roberts,1,16,16,Lecture,1.5,P,B
+201840,Spring,2018,43999,CSIS,11,3EB,Prob Solving Spreadsheets,Roberts,1,16,16,Lecture,1.5,P,B
+201840,Spring,2018,42660,CSIS,110,05F,Intro to CS: MM Python Lab,Egan,0,16,16,Lab,2,T,M
+201840,Spring,2018,43870,CSIS,110,04H,Intro to CS: MM Python-Lab,Egan,0,16,16,Lab,2,T,M
+201840,Spring,2018,40357,CSIS,110,7,Intro to CS: MM Python,Egan,3,32,32,Lecture,2,T,M
+201840,Spring,2018,42890,CSIS,110,F09,Intro to CS: MM Python Lab,Goldstein,0,16,16,Lab,2,T,M
+201840,Spring,2018,42888,CSIS,110,H06,Intro to CS: MM Python Lab,Matthews,0,17,16,Lab,2,T,M
+201840,Spring,2018,42886,CSIS,110,9,Intro to CS: MM Python,Matthews,3,33,32,Lecture,2,T,M
+201840,Spring,2018,40197,CSIS,114,05F,Management Information Sys-Lab,Armitage,0,16,15,Lab,2,F,B
+201840,Spring,2018,40362,CSIS,114,24H,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201840,Spring,2018,40275,CSIS,114,5,Management Information Systems,Armitage,3,32,31,Lecture,2,F,B
+201840,Spring,2018,40196,CSIS,114,W9E,Management Information Sys-Lab,"Armitage, Linda",0,16,14,Lab,2,P,B
+201840,Spring,2018,40153,CSIS,114,3E,Management Information Systems,"Armitage, Linda",3,32,30,Lecture,2,P,B
+201840,Spring,2018,40658,CSIS,114,3,Management Information Systems,Cotler,3,32,32,Lecture,2,T,B
+201840,Spring,2018,42661,CSIS,114,9EW,Management Information Sys-Lab,Dickinson,0,16,14,Lab,2,P,B
+201840,Spring,2018,40194,CSIS,114,7EM,Management Information Sys-Lab,Dickinson,0,16,16,Lab,2,P,B
+201840,Spring,2018,40121,CSIS,114,23E,Management Information Systems,Dickinson,3,32,30,Lecture,2,P,B
+201840,Spring,2018,40195,CSIS,114,04H,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201840,Spring,2018,40873,CSIS,114,03F,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201840,Spring,2018,40192,CSIS,114,ME7,Management Information Sys-Lab,Liu,0,16,16,Lab,2,T,B
+201840,Spring,2018,40977,CSIS,115,8,Database Design and App fo Bus,Armitage,3,16,16,Lecture,3,F,N
+201840,Spring,2018,43996,CSIS,115,10,Database Design and App fo Bus,Vandenberg,3,16,16,Lecture,3,T,N
+201840,Spring,2018,40053,CSIS,120,09M,Intro to Software Dev-Lab,Liu,0,16,9,Lab,2,T,M
+201840,Spring,2018,40487,CSIS,120,10H,Intro to Software Dev-Lab,Liu,0,16,11,Lab,2,T,M
+201840,Spring,2018,40486,CSIS,120,8,Intro to Software Development,Liu,4,32,20,Lecture,3,T,M
+201840,Spring,2018,43589,CSIS,120,25W,Intro to Software Dev-Lab,Small,0,16,14,Lab,2,T,M
+201840,Spring,2018,40052,CSIS,120,13W,Intro to Software Dev-Lab,Small,0,16,16,Lab,2,T,M
+201840,Spring,2018,40051,CSIS,120,9,Intro to Software Development,Small,4,32,30,Lecture,3,T,M
+201840,Spring,2018,42894,CSIS,120,01M,Intro to Software Dev-Lab,White,0,16,7,Lab,2,F,M
+201840,Spring,2018,40876,CSIS,120,05W,Intro to Software Dev-Lab,White,0,16,8,Lab,2,F,M
+201840,Spring,2018,42893,CSIS,120,2,Intro to Software Development,White,4,32,15,Lecture,3,F,M
+201840,Spring,2018,42036,CSIS,180,09F,Web Design - Lab,Egan,0,16,16,Lab,2,T,N
+201840,Spring,2018,42662,CSIS,180,08H,Web Design-Lab,Egan,0,16,16,Lab,2,T,N
+201840,Spring,2018,42035,CSIS,180,11,Web Design,Egan,3,32,32,Lecture,2,T,N
+201840,Spring,2018,44479,CSIS,180,8EH,Web Design-Lab,Mehta,0,16,13,Lab,2,P,N
+201840,Spring,2018,43873,CSIS,180,6ET,Web Design-Lab,Mehta,0,16,16,Lab,2,P,N
+201840,Spring,2018,43872,CSIS,180,2E,Web Design,Mehta,3,32,29,Lecture,2,P,N
+201840,Spring,2018,44219,CSIS,210,13W,Data Structures-Lab,White,0,16,4,Lab,2,F,M
+201840,Spring,2018,42038,CSIS,210,09W,Data Structures - Lab,White,0,16,12,Lab,2,F,M
+201840,Spring,2018,40280,CSIS,210,9,Data Structures,White,3,32,16,Lecture,3,F,M
+201840,Spring,2018,42898,CSIS,225,12T,Advanced Programming-Lab,Lim,0,16,12,Lab,2,T,M
+201840,Spring,2018,40168,CSIS,225,08T,Advanced Programming Lab,Lim,0,16,13,Lab,2,T,M
+201840,Spring,2018,42897,CSIS,225,04T,Advanced Programming Lab,Lim,0,17,16,Lab,2,T,M
+201840,Spring,2018,40279,CSIS,225,5,Advanced Programming,Lim,3,24,19,Lecture,2,T,M
+201840,Spring,2018,42896,CSIS,225,7,Advanced Programming,Lim,3,24,22,Lecture,2,T,M
+201840,Spring,2018,43142,CSIS,351,2,Theory of Computation,DiTursi,3,24,8,Lecture,3,F,M
+201840,Spring,2018,43503,CSIS,351,8,Theory of Computation,DiTursi,3,24,24,Lecture,3,F,M
+201840,Spring,2018,44481,CSIS,355,12,Advanced Database,Vandenberg,3,16,15,Lecture,3,T,M
+201840,Spring,2018,43594,CSIS,385,12T,Design+Analysis of Alg-Lab,Teresco,0,16,10,Lab,2,T,M
+201840,Spring,2018,42903,CSIS,385,04T,Design+Analysis of Alg Lab,Teresco,0,16,13,Lab,2,T,M
+201840,Spring,2018,42905,CSIS,385,03W,Design+Analysis of Alg Lab,Teresco,0,16,16,Lab,2,T,M
+201840,Spring,2018,42995,CSIS,385,5,Design+Analysis of Algorithm,Teresco,3,24,16,Lecture,2,T,M
+201840,Spring,2018,43595,CSIS,385,3,Design+Analysis of Algorithm,Teresco,3,24,23,Lecture,2,T,M
+201840,Spring,2018,43881,CSIS,390,02T,Web Application Dev - Lab,Breimer,0,16,13,Lab,2,T,M
+201840,Spring,2018,43880,CSIS,390,01W,Web Application Dev Lab,Breimer,0,16,16,Lab,2,T,M
+201840,Spring,2018,43877,CSIS,390,1,Web Application Development,Breimer,3,32,29,Lecture,2,T,M
+201840,Spring,2018,44480,CSIS,400,10,Proactive Cyber Security,Armitage,3,32,32,Lecture,3,F,M
+201840,Spring,2018,43884,CSIS,400,9,Cryptography,DiTursi,3,24,19,Lecture,3,F,M
+201840,Spring,2018,43597,CSIS,415,06T,Software Engineering II-Lab,Cotler,0,16,10,Lab,2,T,M
+201840,Spring,2018,43598,CSIS,415,05M,Software Engineering II-Lab,Cotler,0,16,11,Lab,2,T,M
+201840,Spring,2018,43997,CSIS,415,M7E,Software Engineering II-Lab,Cotler,0,16,16,Lab,2,T,M
+201840,Spring,2018,42045,CSIS,415,8E,Software Engineering II,Cotler,3,38,37,Lecture,2,T,M
+201930,Fall,2018,34636,CSIS,10,03M,Intro to Computer App - Lab,Egan,0,16,16,Lab,2,T,B
+201930,Fall,2018,30108,CSIS,10,6ET,Intro to Computer App-Lab,Fryling,0,16,16,Lab,2,T,B
+201930,Fall,2018,34637,CSIS,10,11M,Intro to Computer App-Lab,Goldstein,0,16,16,Lab,2,T,B
+201930,Fall,2018,34634,CSIS,10,11,Intro to Computer Applications,Goldstein,3,32,32,Lecture,2,T,B
+201930,Fall,2018,30103,CSIS,10,2E,Intro to Computer Applicat,Rivituso,3,32,30,Lecture,2,P,B
+201930,Fall,2018,30105,CSIS,10,8EH,Intro to Computer App-Lab,White,0,16,14,Lab,2,F,B
+201930,Fall,2018,34655,CSIS,11,2EB,Prob Solving With Spreadsheets,"Armitage, Linda",1,16,7,Lecture,1.5,P,B
+201930,Fall,2018,30910,CSIS,11,2EA,Prob Solving With Spreadsheets,Arunasalem,1,16,14,Lecture,1.5,P,B
+201930,Fall,2018,33602,CSIS,11,04A,Prob Solving With Spreadsheets,Fryling,1,16,13,Lecture,1.5,T,B
+201930,Fall,2018,34657,CSIS,11,04B,Prob Solving With Spreadsheets,Fryling,1,16,14,Lecture,1.5,T,B
+201930,Fall,2018,33605,CSIS,11,3EA,Prob Solving With Spreadsheets,Roberts,1,16,13,Lecture,1.5,P,B
+201930,Fall,2018,34656,CSIS,11,3EB,Prob Solving With Spreadsheets,Roberts,1,16,15,Lecture,1.5,P,B
+201930,Fall,2018,30474,CSIS,110,01F,Intro CS:MM Python Prg-Lab,Egan,0,16,14,Lab,2,T,M
+201930,Fall,2018,32708,CSIS,110,05F,Intro CS:MM Python Prg Lab,Egan,0,16,16,Lab,2,T,M
+201930,Fall,2018,30110,CSIS,110,7,Intro CS: MM Python Prg,Egan,3,32,30,Lecture,2,T,M
+201930,Fall,2018,32711,CSIS,110,04T,Intro CS: Graphics & Games Lab,Flatland,0,16,10,Lab,2,T,M
+201930,Fall,2018,32712,CSIS,110,02T,Intro CS: Graphics & Games Lab,Flatland,0,16,12,Lab,2,T,M
+201930,Fall,2018,32709,CSIS,110,1,Intro CS: Graphics & Games,Flatland,3,32,22,Lecture,2,T,M
+201930,Fall,2018,30112,CSIS,110,04H,Intro CS: Music Python -Lab,Vandenberg,0,16,14,Lab,2,T,M
+201930,Fall,2018,30147,CSIS,110,29F,Intro CS: Music Python-Lab,Vandenberg,0,16,15,Lab,2,T,M
+201930,Fall,2018,30527,CSIS,110,9,Intro CS:Music Python,Vandenberg,3,32,29,Lecture,2,T,M
+201930,Fall,2018,30114,CSIS,110,F05,Intro CS:MM Python Prg-Lab,White,0,16,9,Lab,2,F,M
+201930,Fall,2018,30111,CSIS,110,01M,Intro CS:MM Python Prg-Lab,White,0,16,11,Lab,2,F,M
+201930,Fall,2018,30109,CSIS,110,2,Intro CS:MM Python Prg,White,3,32,20,Lecture,2,F,M
+201930,Fall,2018,30308,CSIS,114,05W,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201930,Fall,2018,30573,CSIS,114,08T,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201930,Fall,2018,30572,CSIS,114,6,Management Information Systems,Armitage,3,32,32,Lecture,2,F,B
+201930,Fall,2018,30307,CSIS,114,9EW,Management Information Sys-Lab,"Armitage, Linda",0,16,16,Lab,2,P,B
+201930,Fall,2018,30363,CSIS,114,7EM,Management Information Sys-lab,"Armitage, Linda",0,16,16,Lab,2,P,B
+201930,Fall,2018,30362,CSIS,114,3E,Management Information Systems,"Armitage, Linda",3,32,32,Lecture,2,P,B
+201930,Fall,2018,30306,CSIS,114,01F,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201930,Fall,2018,30310,CSIS,114,05F,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201930,Fall,2018,32717,CSIS,114,09W,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201930,Fall,2018,34266,CSIS,114,09M,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201930,Fall,2018,30300,CSIS,114,23,Management Information Systems,DiTursi,3,32,32,Lecture,2,F,B
+201930,Fall,2018,30361,CSIS,114,8,Management Information Systems,DiTursi,3,32,32,Lecture,2,F,B
+201930,Fall,2018,30364,CSIS,114,24T,Management Information Sys-lab,Liu,0,16,16,Lab,2,T,B
+201930,Fall,2018,30365,CSIS,114,04H,Management Information Sys-lab,Liu,0,16,16,Lab,2,T,B
+201930,Fall,2018,30309,CSIS,114,10,Management Information Systems,Liu,3,32,32,Lecture,2,T,B
+201930,Fall,2018,33609,CSIS,115,9,Database Design and App fo Bus,Armitage,3,16,15,Lecture,3,F,N
+201930,Fall,2018,31230,CSIS,115,6,Database Design and App fo Bus,Yoder,3,16,12,Lecture,3,T,N
+201930,Fall,2018,30943,CSIS,115,10,Database Design and App fo Bus,Yoder,3,16,15,Lecture,3,T,N
+201930,Fall,2018,31033,CSIS,120,05W,Intro to Software Dev - Lab,Small,0,16,13,Lab,2,T,M
+201930,Fall,2018,30466,CSIS,120,13W,Intro to Software Dev - Lab,Small,0,16,14,Lab,2,T,M
+201930,Fall,2018,31032,CSIS,120,9,Intro to Software Development,Small,4,32,27,Lecture,3,T,M
+201930,Fall,2018,34639,CSIS,180,6ET,Web Design-Lab,Mehta,0,16,14,Lab,2,P,N
+201930,Fall,2018,34640,CSIS,180,8EH,Web Design-Lab,Mehta,0,16,14,Lab,2,P,N
+201930,Fall,2018,34638,CSIS,180,2E,Web Design,Mehta,3,32,28,Lecture,2,P,N
+201930,Fall,2018,34090,CSIS,200,15,Intro to CyberSecurity,Armitage,3,24,16,Lecture,3,F,N
+201930,Fall,2018,34642,CSIS,200,8,Data Analytics & Visualization,Dickinson,3,16,7,Lecture,3,P,N
+201930,Fall,2018,34647,CSIS,201,08T,No Code Mobile App Dev Lab,Fryling,0,16,14,Lab,2,T,N
+201930,Fall,2018,34643,CSIS,201,7E,No Code Mobile App Dev,Fryling,3,32,14,Lecture,2,T,N
+201930,Fall,2018,34294,CSIS,210,01W,Data Structures-Lab,Teresco,0,16,8,Lab,2,T,M
+201930,Fall,2018,30116,CSIS,210,05W,Data Structures-Lab,Teresco,0,16,15,Lab,2,T,M
+201930,Fall,2018,32869,CSIS,210,09W,Data Structures - Lab,Teresco,0,16,16,Lab,2,T,M
+201930,Fall,2018,32868,CSIS,210,11,Data Structures,Teresco,3,32,11,Lecture,3,T,M
+201930,Fall,2018,30115,CSIS,210,5,Data Structures,Teresco,3,32,28,Lecture,3,T,M
+201930,Fall,2018,30192,CSIS,220,09M,Assembly Lang and Comp Arc-Lab,White,0,16,16,Lab,2,F,M
+201930,Fall,2018,30193,CSIS,220,25M,Assembly Lang and Comp Arc-Lab,White,0,16,16,Lab,2,F,M
+201930,Fall,2018,33089,CSIS,220,4,Assembly Lang and Comp Archtcr,White,4,32,32,Lecture,3,F,M
+201930,Fall,2018,30896,CSIS,251,7EM,Discrete Structures I-Lab,Matthews,0,16,11,Lab,1.5,T,M
+201930,Fall,2018,30897,CSIS,251,3EM,Discrete Structures I-Lab,Matthews,0,16,15,Lab,1.5,T,M
+201930,Fall,2018,33095,CSIS,251,13M,Discrete Structures-Lab,Matthews,0,16,17,Lab,1.5,T,M
+201930,Fall,2018,33094,CSIS,251,10,Discrete Structures,Matthews,4,24,19,Lecture,2,T,M
+201930,Fall,2018,31545,CSIS,251,8,Discrete Structures,Matthews,4,24,24,Lecture,2,T,M
+201930,Fall,2018,30456,CSIS,350,12,Database Management Systems,Vandenberg,3,28,27,Lecture,3,T,M
+201930,Fall,2018,34649,CSIS,365,3,Communications and Networks,Goldstein,3,28,24,Lecture,3,T,M
+201930,Fall,2018,34787,CSIS,370,05F,Robotics - Lab,Liu,0,16,13,Lab,2,T,M
+201930,Fall,2018,34786,CSIS,370,25M,Robotics,Liu,3,16,13,Lecture,2,T,M
+201930,Fall,2018,33613,CSIS,400,6,Human Computer Interaction,Cotler,3,24,23,Lecture,3,T,M
+201930,Fall,2018,33652,CSIS,410,10T,Software Engineering I-Lab,Cotler,0,18,17,Lab,2,T,M
+201930,Fall,2018,32721,CSIS,410,08H,Software Engineering I-Lab,Cotler,0,20,20,Lab,2,T,M
+201930,Fall,2018,30118,CSIS,410,8E,Software Engineering I,Cotler,3,37,37,Lecture,2,T,M
+201940,Spring,2019,40040,CSIS,10,6ET,Intro to Computer App.-Lab,"Armitage, Linda",0,16,16,Lab,2,P,B
+201940,Spring,2019,40038,CSIS,10,8EH,Intro to Computer App.-Lab,Arunasalem,0,16,16,Lab,2,P,B
+201940,Spring,2019,40870,CSIS,10,09W,Intro to Computer App.-Lab,Goldstein,0,16,16,Lab,2,T,B
+201940,Spring,2019,42658,CSIS,10,13,Intro to Computer Applications,Goldstein,3,32,32,Lecture,2,T,B
+201940,Spring,2019,40037,CSIS,10,2E,Intro to Computer Applications,Roberts,3,32,32,Lecture,2,P,B
+201940,Spring,2019,40041,CSIS,10,TE,Intro to Computer App.-Lab,Schindler,0,16,16,Lab,2,P,B
+201940,Spring,2019,45234,CSIS,11,10A,Prob Solving Sprdshts Hybrid,Cotler,1,16,16,Lecture,1.5,T,B
+201940,Spring,2019,45233,CSIS,11,02B,Prob Solving Sprdshts Hybrid,Goldstein,1,16,6,Lecture,1.5,T,B
+201940,Spring,2019,45232,CSIS,11,02A,Prob Solving Sprdshts Hybrid,Goldstein,1,16,14,Lecture,1.5,T,B
+201940,Spring,2019,43999,CSIS,11,01B,Prob Solving Spreadsheets,White,1,16,13,Lecture,1.5,F,B
+201940,Spring,2019,43901,CSIS,11,01A,Prob Solving Spreadsheets,White,1,16,16,Lecture,1.5,F,B
+201940,Spring,2019,42660,CSIS,110,05F,Intro to CS: MM Python Lab,Egan,0,16,15,Lab,2,T,M
+201940,Spring,2019,43870,CSIS,110,02H,Intro to CS: MM Python-Lab,Egan,0,16,15,Lab,2,T,M
+201940,Spring,2019,40357,CSIS,110,7,Intro to CS: MM Python,Egan,3,32,30,Lecture,2,T,M
+201940,Spring,2019,42888,CSIS,110,H06,Intro to CS: GameMaker-Lab,Flatland,0,16,9,Lab,2,T,M
+201940,Spring,2019,42890,CSIS,110,F09,Intro to CS: GameMaker-Lab,Flatland,0,16,12,Lab,2,T,M
+201940,Spring,2019,42886,CSIS,110,11,Intro to CS: GameMaker,Flatland,3,32,21,Lecture,2,T,M
+201940,Spring,2019,40197,CSIS,114,05F,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201940,Spring,2019,40362,CSIS,114,24H,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+201940,Spring,2019,40275,CSIS,114,5,Management Information Systems,Armitage,3,32,32,Lecture,2,F,B
+201940,Spring,2019,40192,CSIS,114,ME7,Management Information Sys-Lab,"Armitage, Linda",0,16,16,Lab,2,P,B
+201940,Spring,2019,40196,CSIS,114,W9E,Management Information Sys-Lab,"Armitage, Linda",0,16,16,Lab,2,P,B
+201940,Spring,2019,40153,CSIS,114,3E,Management Information Systems,"Armitage, Linda",3,32,32,Lecture,2,P,B
+201940,Spring,2019,40195,CSIS,114,06H,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201940,Spring,2019,40873,CSIS,114,03F,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+201940,Spring,2019,40658,CSIS,114,3,Management Information Systems,DiTursi,3,32,32,Lecture,2,F,B
+201940,Spring,2019,40194,CSIS,114,09M,Management Information Sys-Lab,Liu,0,16,16,Lab,2,T,B
+201940,Spring,2019,42661,CSIS,114,05M,Management Information Sys-Lab,Liu,0,16,16,Lab,2,T,B
+201940,Spring,2019,40121,CSIS,114,4,Management Information Systems,Liu,3,32,32,Lecture,2,T,B
+201940,Spring,2019,40977,CSIS,115,8,Database Design and App fo Bus,Armitage,3,16,16,Lecture,3,F,N
+201940,Spring,2019,43996,CSIS,115,12,Database Design and App fo Bus,Armitage,3,16,16,Lecture,3,F,N
+201940,Spring,2019,40487,CSIS,120,03M,Intro to Software Dev-Lab,Fryling,0,16,13,Lab,2,T,M
+201940,Spring,2019,40053,CSIS,120,09M,Intro to Software Dev-Lab,Fryling,0,17,16,Lab,2,T,M
+201940,Spring,2019,40486,CSIS,120,6,Intro to Software Development,Fryling,4,32,29,Lecture,3,T,M
+201940,Spring,2019,43589,CSIS,120,25W,Intro to Software Dev-Lab,Small,0,16,13,Lab,2,T,M
+201940,Spring,2019,40052,CSIS,120,13W,Intro to Software Dev-Lab,Small,0,16,15,Lab,2,T,M
+201940,Spring,2019,40051,CSIS,120,9,Intro to Software Development,Small,4,32,28,Lecture,3,T,M
+201940,Spring,2019,40876,CSIS,120,05W,Intro to Software Dev-Lab,White,0,16,16,Lab,2,F,M
+201940,Spring,2019,42893,CSIS,120,2,Intro to Software Development,White,4,16,16,Lecture,3,F,M
+201940,Spring,2019,43873,CSIS,180,6ET,Web Design-Lab,Mehta,0,16,15,Lab,2,P,N
+201940,Spring,2019,44479,CSIS,180,8EH,Web Design-Lab,Mehta,0,16,16,Lab,2,P,N
+201940,Spring,2019,43872,CSIS,180,2E,Web Design,Mehta,3,32,31,Lecture,2,P,N
+201940,Spring,2019,42662,CSIS,180,9EW,Web Design-Lab,Schindler,0,16,7,Lab,2,P,N
+201940,Spring,2019,42036,CSIS,180,7EM,Web Design - Lab,Schindler,0,16,8,Lab,2,P,N
+201940,Spring,2019,42035,CSIS,180,5E,Web Design,Schindler,3,32,15,Lecture,2,P,N
+201940,Spring,2019,44980,CSIS,201,09M,Diversity in CS - Lab,Egan,0,24,10,Lab,2,T,N
+201940,Spring,2019,44978,CSIS,201,9,Diversity in CS,Egan,3,24,10,Lecture,2,T,N
+201940,Spring,2019,44219,CSIS,210,04T,Data Structures-Lab,White,0,16,8,Lab,2,F,M
+201940,Spring,2019,42038,CSIS,210,09W,Data Structures - Lab,White,0,16,16,Lab,2,F,M
+201940,Spring,2019,40280,CSIS,210,9,Data Structures,White,3,32,24,Lecture,3,F,M
+201940,Spring,2019,42897,CSIS,225,04T,Advanced Programming Lab,Lim,0,13,12,Lab,2,T,M
+201940,Spring,2019,42898,CSIS,225,05W,Advanced Programming-Lab,Lim,0,16,16,Lab,2,T,M
+201940,Spring,2019,42896,CSIS,225,7,Advanced Programming,Lim,3,39,33,Lecture,2,T,M
+201940,Spring,2019,40168,CSIS,225,08T,Advanced Programming Lab,White,0,13,5,Lab,2,F,M
+201940,Spring,2019,44986,CSIS,320,10T,Machine Learning-Lab,DiTursi,0,16,7,Lab,2,F,M
+201940,Spring,2019,44984,CSIS,320,09M,Machine Learning-Lab,DiTursi,0,16,15,Lab,2,F,M
+201940,Spring,2019,44983,CSIS,320,11,Machine Learning,DiTursi,3,32,22,Lecture,2,F,M
+201940,Spring,2019,43503,CSIS,351,8,Theory of Computation,Matthews,3,32,32,Lecture,3,T,M
+201940,Spring,2019,44990,CSIS,380,02H,Computer Graphics-Lab,Flatland,0,16,13,Lab,2,T,M
+201940,Spring,2019,44989,CSIS,380,10H,Computer Graphics-Lab,Flatland,0,16,16,Lab,2,T,M
+201940,Spring,2019,44988,CSIS,380,3,Computer Graphics,Flatland,3,32,29,Lecture,2,T,M
+201940,Spring,2019,42903,CSIS,385,04T,Design+Analysis of Alg Lab,Teresco,0,13,13,Lab,2,T,M
+201940,Spring,2019,42905,CSIS,385,05W,Design+Analysis of Alg Lab,Teresco,0,13,13,Lab,2,T,M
+201940,Spring,2019,43594,CSIS,385,10T,Design+Analysis of Alg-Lab,Teresco,0,13,13,Lab,2,T,M
+201940,Spring,2019,42995,CSIS,385,5,Design+Analysis of Algorithm,Teresco,3,39,39,Lecture,2,T,M
+201940,Spring,2019,43881,CSIS,390,02T,Web Application Dev - Lab,Breimer,0,16,14,Lab,2,T,M
+201940,Spring,2019,43880,CSIS,390,01W,Web Application Dev Lab,Breimer,0,16,16,Lab,2,T,M
+201940,Spring,2019,43877,CSIS,390,1,Web Application Development,Breimer,3,32,30,Lecture,2,T,M
+201940,Spring,2019,43597,CSIS,415,04T,Software Engineering II-Lab,Cotler,0,16,9,Lab,2,T,M
+201940,Spring,2019,43598,CSIS,415,05M,Software Engineering II-Lab,Cotler,0,16,9,Lab,2,T,M
+201940,Spring,2019,43997,CSIS,415,13M,Software Engineering II-Lab,Cotler,0,16,16,Lab,2,T,M
+201940,Spring,2019,42045,CSIS,415,7E,Software Engineering II,Cotler,3,38,33,Lecture,2,T,M
+202030,Fall,2019,30105,CSIS,10,9EW,Intro to Computer App-Lab,"Armitage, Linda",0,16,16,Lab,2,P,B
+202030,Fall,2019,34637,CSIS,10,8EH,Intro to Computer App-Lab,Arunasalem,0,16,15,Lab,2,P,B
+202030,Fall,2019,34636,CSIS,10,T6E,Intro to Computer App - Lab,Arunasalem,0,16,15,Lab,2,P,B
+202030,Fall,2019,34634,CSIS,10,5E,Intro to Computer Applications,Rivituso,3,32,30,Lecture,2,P,B
+202030,Fall,2019,30103,CSIS,10,10,Intro to Computer Applicat,Schindler,3,32,31,Lecture,2,P,B
+202030,Fall,2019,30108,CSIS,10,7EM,Intro to Computer App-Lab,White,0,16,15,Lab,2,F,B
+202030,Fall,2019,30910,CSIS,11,2EA,Prob Solving With Spreadsheets,Arunasalem,1,16,14,Lecture,1.5,P,B
+202030,Fall,2019,34655,CSIS,11,2EB,Prob Solving With Spreadsheets,Arunasalem,1,16,10,Lecture,1.5,P,B
+202030,Fall,2019,33602,CSIS,11,04A,Prob Solving With Spreadsheets,Breimer,1,16,15,Lecture,1.5,T,B
+202030,Fall,2019,34657,CSIS,11,04B,Prob Solving With Spreadsheets,Breimer,1,16,14,Lecture,1.5,T,B
+202030,Fall,2019,33605,CSIS,11,06A,Prob Solving With Spreadsheets,DiTursi,1,16,12,Lecture,1.5,F,B
+202030,Fall,2019,34656,CSIS,11,06B,Prob Solving With Spreadsheets,DiTursi,1,16,13,Lecture,1.5,F,B
+202030,Fall,2019,32711,CSIS,110,02T,Intro CS: Multimedia Lab,Flatland,0,15,12,Lab,2,T,M
+202030,Fall,2019,32712,CSIS,110,10T,Intro CS: Multimedia Lab,Flatland,0,15,17,Lab,2,T,M
+202030,Fall,2019,32709,CSIS,110,13,Intro CS: Multimedia,Flatland,3,30,29,Lecture,2,T,M
+202030,Fall,2019,30474,CSIS,110,08H,Intro CS:MM Python Prg-Lab,Fryling,0,15,13,Lab,2,T,M
+202030,Fall,2019,32708,CSIS,110,10H,Intro CS:MM Python Prg Lab,Fryling,0,15,12,Lab,2,T,M
+202030,Fall,2019,30110,CSIS,110,7,Intro CS: MM Python Prg,Fryling,3,30,25,Lecture,2,T,M
+202030,Fall,2019,30111,CSIS,110,05F,Intro CS:Linux-Lab,Goldstein,0,15,6,Lab,2,T,M
+202030,Fall,2019,30114,CSIS,110,09F,Intro CS:Linux-Lab,Goldstein,0,15,11,Lab,2,T,M
+202030,Fall,2019,30109,CSIS,110,2,Intro CS: Linux,Goldstein,3,30,17,Lecture,2,T,M
+202030,Fall,2019,30112,CSIS,110,04H,Intro CS: Music Python -Lab,Vandenberg,0,15,10,Lab,2,T,M
+202030,Fall,2019,30147,CSIS,110,29F,Intro CS: Music Python-Lab,Vandenberg,0,15,15,Lab,2,T,M
+202030,Fall,2019,30527,CSIS,110,9,Intro CS:Music Python,Vandenberg,3,30,25,Lecture,2,T,M
+202030,Fall,2019,30363,CSIS,114,7EM,Management Information Sys-lab,Allen,0,16,16,Lab,2,P,B
+202030,Fall,2019,30307,CSIS,114,9EW,Management Information Sys-Lab,Allen,0,16,8,Lab,2,P,B
+202030,Fall,2019,30362,CSIS,114,3E,Management Information Systems,Allen,3,32,24,Lecture,2,P,B
+202030,Fall,2019,30573,CSIS,114,05F,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+202030,Fall,2019,34266,CSIS,114,09M,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+202030,Fall,2019,30365,CSIS,114,10H,Management Information Sys-lab,Armitage,0,16,16,Lab,2,F,B
+202030,Fall,2019,30308,CSIS,114,W09,Management Information Sys-Lab,Armitage,0,16,16,Lab,2,F,B
+202030,Fall,2019,30572,CSIS,114,6,Management Information Systems,Armitage,3,32,32,Lecture,2,F,B
+202030,Fall,2019,30361,CSIS,114,8,Management Information Systems,Armitage,3,32,32,Lecture,2,F,B
+202030,Fall,2019,35119,CSIS,114,6ET,Management Information Sys-Lab,"Armitage, Linda",0,16,15,Lab,2,P,B
+202030,Fall,2019,35120,CSIS,114,8ET,Management Information Sys-Lab,"Armitage, Linda",0,16,16,Lab,2,P,B
+202030,Fall,2019,35118,CSIS,114,2E,Management Information Systems,"Armitage, Linda",3,32,31,Lecture,2,P,B
+202030,Fall,2019,30306,CSIS,114,02H,Management Information Sys-Lab,DiTursi,0,16,11,Lab,2,F,B
+202030,Fall,2019,30310,CSIS,114,02T,Management Information Sys-Lab,DiTursi,0,16,16,Lab,2,F,B
+202030,Fall,2019,30300,CSIS,114,1,Management Information Systems,DiTursi,3,32,27,Lecture,2,F,B
+202030,Fall,2019,32717,CSIS,114,09W,Management Information Sys-Lab,Schindler,0,16,16,Lab,2,P,B
+202030,Fall,2019,30364,CSIS,114,24T,Management Information Sys-lab,Schindler,0,16,11,Lab,2,P,B
+202030,Fall,2019,30309,CSIS,114,11,Management Information Systems,Schindler,3,32,27,Lecture,2,P,B
+202030,Fall,2019,30943,CSIS,115,8,Database Design and App fo Bus,Yoder,3,16,16,Lecture,3,T,N
+202030,Fall,2019,33609,CSIS,115,10,Database Design and App fo Bus,Yoder,3,16,15,Lecture,3,T,N
+202030,Fall,2019,31033,CSIS,120,05W,Intro to Software Dev - Lab,Small,0,16,14,Lab,2,T,M
+202030,Fall,2019,30466,CSIS,120,13W,Intro to Software Dev - Lab,Small,0,16,16,Lab,2,T,M
+202030,Fall,2019,31032,CSIS,120,12,Intro to Software Development,Small,4,32,30,Lecture,3,T,M
+202030,Fall,2019,34639,CSIS,180,6ET,Web Design-Lab,Mehta,0,16,15,Lab,2,P,N
+202030,Fall,2019,34640,CSIS,180,8EH,Web Design-Lab,Mehta,0,16,10,Lab,2,P,N
+202030,Fall,2019,34638,CSIS,180,2E,Web Design,Mehta,3,32,25,Lecture,2,P,N
+202030,Fall,2019,34090,CSIS,200,15,Intro to CyberSecurity,Armitage,3,28,22,Lecture,3,F,N
+202030,Fall,2019,34294,CSIS,210,05W,Data Structures-Lab,Teresco,0,16,15,Lab,2,T,M
+202030,Fall,2019,32869,CSIS,210,09W,Data Structures - Lab,Teresco,0,16,14,Lab,2,T,M
+202030,Fall,2019,32868,CSIS,210,11,Data Structures,Teresco,3,32,29,Lecture,3,T,M
+202030,Fall,2019,30116,CSIS,210,05F,Data Structures-Lab,White,0,17,15,Lab,2,F,M
+202030,Fall,2019,30115,CSIS,210,5,Data Structures,White,3,17,15,Lecture,3,F,M
+202030,Fall,2019,30193,CSIS,220,01M,Assembly Lang and Comp Arc-Lab,White,0,16,16,Lab,2,F,M
+202030,Fall,2019,30192,CSIS,220,01W,Assembly Lang and Comp Arc-Lab,White,0,16,16,Lab,2,F,M
+202030,Fall,2019,33089,CSIS,220,4,Assembly Lang and Comp Archtcr,White,4,32,32,Lecture,3,F,M
+202030,Fall,2019,30917,CSIS,251,13M,Discrete Structures-Lab,Matthews,0,16,0,Lab,1.5,T,M
+202030,Fall,2019,33061,CSIS,251,3EM,Discrete Structures-Lab,Matthews,0,16,0,Lab,1.5,T,M
+202030,Fall,2019,30918,CSIS,251,7EM,Discrete Structures-Lab,Matthews,0,16,1,Lab,1.5,T,M
+202030,Fall,2019,33060,CSIS,251,8,Discrete Structures,Matthews,4,24,0,Lecture,2,T,M
+202030,Fall,2019,31547,CSIS,251,10,Discrete Structures,Matthews,4,24,1,Lecture,2,T,M
+202030,Fall,2019,35122,CSIS,340,3,Programming Languages,Teresco,3,28,22,Lecture,3,T,M
+202030,Fall,2019,30456,CSIS,350,12,Database Management Systems,Vandenberg,3,28,28,Lecture,3,T,M
+202030,Fall,2019,34787,CSIS,370,05F,Robotics - Lab,Liu,0,16,15,Lab,2,T,M
+202030,Fall,2019,34786,CSIS,370,25M,Robotics,Liu,3,16,15,Lecture,2,T,M
+202030,Fall,2019,33613,CSIS,400,1,Unix/Linux,Goldstein,3,16,12,Lecture,3,T,M
+202030,Fall,2019,30118,CSIS,410,6E,Software Engineering I,Cotler,3,40,29,Lecture,2,T,M
+202030,Fall,2019,33230,CSIS,410,04T,Software Engineering I -Lab,Fryling,0,16,7,Lab,2,T,M
+202030,Fall,2019,33652,CSIS,410,09M,Software Engineering I-Lab,Fryling,0,16,8,Lab,2,T,M
+202030,Fall,2019,32721,CSIS,410,13W,Software Engineering I-Lab,Fryling,0,16,14,Lab,2,T,M
+202040,Spring,2020,40041,CSIS,10,01M,Intro to Computer App.-Lab,Armitage,0,16,3,Lab,2,F,B
+202040,Spring,2020,42658,CSIS,10,1,Intro to Computer Applications,Armitage,3,32,4,Lecture,2,F,B
+202040,Spring,2020,40870,CSIS,10,12T,Intro to Computer App.-Lab,Liu,0,16,0,Lab,2,T,B
+202040,Spring,2020,40038,CSIS,10,7EM,Intro to Computer App.-Lab,TBA,0,16,2,Lab,2,P,B
+202040,Spring,2020,40040,CSIS,10,9EW,Intro to Computer App.-Lab,TBA,0,16,2,Lab,2,P,B
+202040,Spring,2020,40037,CSIS,10,3E,Intro to Computer Applications,TBA,3,32,3,Lecture,2,P,B
+202040,Spring,2020,45232,CSIS,11,02A,Prob Solving Spreadsheets,Breimer,1,16,5,Lecture,1.5,T,B
+202040,Spring,2020,45233,CSIS,11,02B,Prob Solving Spreadsheets,Breimer,1,16,1,Lecture,1.5,T,B
+202040,Spring,2020,45234,CSIS,11,10A,Prob Solving Spreadsheets,Goldstein,1,16,4,Lecture,1.5,T,B
+202040,Spring,2020,45578,CSIS,11,10B,Prob Solving With Spreadsheets,Goldstein,1,16,1,Lecture,1.5,T,B
+202040,Spring,2020,43901,CSIS,11,4EA,Prob Solving Spreadsheets,TBA,1,16,2,Lecture,1.5,P,B
+202040,Spring,2020,43999,CSIS,11,4EB,Prob Solving Spreadsheets,TBA,1,16,0,Lecture,1.5,P,B
+202040,Spring,2020,45769,CSIS,19,5W,Programming for Poets-Term A,Bellis,1,32,0,Lecture,1,T,N
+202040,Spring,2020,45495,CSIS,19,04T,Stress Free Computing,Cotler,1,24,23,Lecture,1,T,N
+202040,Spring,2020,43870,CSIS,110,04H,Intro to CS: MM Python-Lab,Fryling,0,16,5,Lab,2,T,M
+202040,Spring,2020,42660,CSIS,110,05F,Intro to CS: MM Python Lab,Fryling,0,16,7,Lab,2,T,M
+202040,Spring,2020,40357,CSIS,110,7,Intro to CS: MM Python,Fryling,3,32,12,Lecture,2,T,M
+202040,Spring,2020,42888,CSIS,110,06H,Intro to CS: Linux-Lab,Goldstein,0,16,1,Lab,2,T,M
+202040,Spring,2020,42890,CSIS,110,F09,Intro to CS: Linux-Lab,Goldstein,0,16,1,Lab,2,T,M
+202040,Spring,2020,42886,CSIS,110,11,Intro to CS: Linux,Goldstein,3,32,2,Lecture,2,T,M
+202040,Spring,2020,40362,CSIS,114,04H,Management Information Sys-Lab,Armitage,0,16,9,Lab,2,F,B
+202040,Spring,2020,40197,CSIS,114,05F,Management Information Sys-Lab,Armitage,0,16,10,Lab,2,F,B
+202040,Spring,2020,40275,CSIS,114,5,Management Information Systems,Armitage,3,32,19,Lecture,2,F,B
+202040,Spring,2020,42661,CSIS,114,05M,Management Information Sys-Lab,DiTursi,0,16,4,Lab,2,F,B
+202040,Spring,2020,40194,CSIS,114,09M,Management Information Sys-Lab,DiTursi,0,16,11,Lab,2,F,B
+202040,Spring,2020,40121,CSIS,114,4,Management Information Systems,DiTursi,3,32,15,Lecture,2,F,B
+202040,Spring,2020,40873,CSIS,114,6ET,Management Information Sys-Lab,TBA,0,16,3,Lab,2,P,B
+202040,Spring,2020,40195,CSIS,114,8EH,Management Information Sys-Lab,TBA,0,16,4,Lab,2,P,B
+202040,Spring,2020,40192,CSIS,114,ME7,Management Information Sys-Lab,TBA,0,16,6,Lab,2,P,B
+202040,Spring,2020,40196,CSIS,114,W9E,Management Information Sys-Lab,TBA,0,16,1,Lab,2,P,B
+202040,Spring,2020,40658,CSIS,114,2E,Management Information Systems,TBA,3,32,7,Lecture,2,P,B
+202040,Spring,2020,40153,CSIS,114,3E,Management Information Systems,TBA,3,32,7,Lecture,2,P,B
+202040,Spring,2020,40977,CSIS,115,8,Database Design and App fo Bus,Vandenberg,3,16,16,Lecture,3,T,N
+202040,Spring,2020,43996,CSIS,115,12,Database Design and App fo Bus,Vandenberg,3,16,16,Lecture,3,T,N
+202040,Spring,2020,40052,CSIS,120,09W,Intro to Software Dev-Lab,Small,0,16,4,Lab,2,T,M
+202040,Spring,2020,43589,CSIS,120,25W,Intro to Software Dev-Lab,Small,0,16,2,Lab,2,T,M
+202040,Spring,2020,40051,CSIS,120,8,Intro to Software Development,Small,4,32,6,Lecture,3,T,M
+202040,Spring,2020,45567,CSIS,120,01W,Intro to Software Develop-Lab,White,0,16,2,Lab,2,F,M
+202040,Spring,2020,40487,CSIS,120,03M,Intro to Software Dev-Lab,White,0,16,1,Lab,2,F,M
+202040,Spring,2020,40876,CSIS,120,05W,Intro to Software Dev-Lab,White,0,16,3,Lab,2,F,M
+202040,Spring,2020,40053,CSIS,120,09M,Intro to Software Dev-Lab,White,0,16,0,Lab,2,F,M
+202040,Spring,2020,40486,CSIS,120,6,Intro to Software Development,White,4,32,5,Lecture,3,F,M
+202040,Spring,2020,42893,CSIS,120,12,Intro to Software Development,White,4,32,1,Lecture,3,F,M
+202040,Spring,2020,44479,CSIS,180,06T,Web Design-Lab,TBA,0,16,1,Lab,2,P,N
+202040,Spring,2020,43873,CSIS,180,09M,Web Design-Lab,TBA,0,16,6,Lab,2,P,N
+202040,Spring,2020,42036,CSIS,180,12H,Web Design - Lab,TBA,0,16,3,Lab,2,P,N
+202040,Spring,2020,42662,CSIS,180,8EH,Web Design-Lab,TBA,0,16,6,Lab,2,P,N
+202040,Spring,2020,43872,CSIS,180,9,Web Design,TBA,3,32,7,Lecture,2,P,N
+202040,Spring,2020,42035,CSIS,180,6ET,Web Design,TBA,3,32,9,Lecture,2,P,N
+202040,Spring,2020,44219,CSIS,210,04T,Data Structures-Lab,Liu,0,16,2,Lab,2,T,M
+202040,Spring,2020,42038,CSIS,210,09W,Data Structures - Lab,Liu,0,16,6,Lab,2,T,M
+202040,Spring,2020,40280,CSIS,210,9,Data Structures,Liu,3,32,8,Lecture,3,T,M
+202040,Spring,2020,42897,CSIS,225,04T,Advanced Programming Lab,Teresco,0,16,7,Lab,2,T,M
+202040,Spring,2020,42898,CSIS,225,05W,Advanced Programming-Lab,Teresco,0,16,3,Lab,2,T,M
+202040,Spring,2020,40168,CSIS,225,08T,Advanced Programming Lab,Teresco,0,16,2,Lab,2,T,M
+202040,Spring,2020,42896,CSIS,225,7,Advanced Programming,Teresco,3,24,7,Lecture,2,T,M
+202040,Spring,2020,45568,CSIS,225,9,Advanced Programming,Teresco,3,24,5,Lecture,2,T,M
+202040,Spring,2020,44984,CSIS,320,01W,Machine Learning-Lab,DiTursi,0,16,7,Lab,2,F,M
+202040,Spring,2020,44986,CSIS,320,10T,Machine Learning-Lab,DiTursi,0,16,4,Lab,2,F,M
+202040,Spring,2020,44983,CSIS,320,3,Machine Learning,DiTursi,3,32,11,Lecture,2,F,M
+202040,Spring,2020,45493,CSIS,351,6,Theory of Computation,Breimer,3,24,8,Lecture,3,T,M
+202040,Spring,2020,43592,CSIS,351,8,Theory of Computation,Matthews,3,24,14,Lecture,3,T,M
+202040,Spring,2020,45490,CSIS,355,4,Advanced Database,Vandenberg,3,16,13,Lecture,3,T,M
+202040,Spring,2020,43594,CSIS,385,01W,Design+Analysis of Alg-Lab,Flatland,0,16,7,Lab,2,T,M
+202040,Spring,2020,42903,CSIS,385,02T,Design+Analysis of Alg Lab,Flatland,0,16,3,Lab,2,T,M
+202040,Spring,2020,42905,CSIS,385,09W,Design+Analysis of Alg Lab,Flatland,0,16,9,Lab,2,T,M
+202040,Spring,2020,42995,CSIS,385,1,Design+Analysis of Algorithm,Flatland,3,24,9,Lecture,2,T,M
+202040,Spring,2020,45496,CSIS,385,3,Design+Analysis of Algorithm,Flatland,3,24,10,Lecture,2,T,M
+202040,Spring,2020,43880,CSIS,390,05F,Web Application Dev Lab,Lim,0,16,8,Lab,2,T,M
+202040,Spring,2020,43881,CSIS,390,10H,Web Application Dev - Lab,Lim,0,16,8,Lab,2,T,M
+202040,Spring,2020,43877,CSIS,390,5,Web Application Development,Lim,3,32,16,Lecture,2,T,M
+202040,Spring,2020,45491,CSIS,400,11,Advanced Cybersecurity,Armitage,3,32,16,Lecture,3,F,M
+202040,Spring,2020,45569,CSIS,400,06H,Game Programming in Unity,Lim,1,16,11,Lecture,3,T,M
+202040,Spring,2020,43597,CSIS,415,10T,Software Engineering II-Lab,Cotler,0,16,12,Lab,2,T,M
+202040,Spring,2020,43997,CSIS,415,13M,Software Engineering II-Lab,Cotler,0,16,10,Lab,2,T,M
+202040,Spring,2020,42045,CSIS,415,6E,Software Engineering II,Cotler,3,32,21,Lecture,2,T,M
