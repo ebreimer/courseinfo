@@ -1,4 +1,4 @@
-﻿Term,Semester,Year,AcademicYear,CRN,Subject,Number,Section,Title,Instructor,Credits,Max,Enroll,SectionType,ContactHours,InstructorType,CourseType
+Term,Semester,Year,AcademicYear,CRN,Subject,Number,Section,Title,Instructor,Credits,Max,Enroll,SectionType,ContactHours,InstructorType,CourseType
 201030,Fall,2009,2009-2010,30114,CSIS,10,7,Intro to Computer Applicat,Bryant,3,30,26,Lecture,2,F,B
 201030,Fall,2009,2009-2010,30115,CSIS,10,9,Intro to Computer Applicat,Liss,3,30,30,Lecture,2,F,B
 201030,Fall,2009,2009-2010,30116,CSIS,10,8T,Intro to Computer App-Lab,Liss,0,15,15,Lab,2,F,B
@@ -1829,4 +1829,3 @@
 202230,Fall,2021,2021-2022,36114,CSIS,11,05M,Prob Solving With Spreadsheets,White,1,16,15,Lecture,2,F,B
 202230,Fall,2021,2021-2022,36178,CSIS,306,3,Advanced Cyber Security,Armitage,3,24,22,Lecture,3,F,M
 202230,Fall,2021,2021-2022,36339,CSIS,301,09W,C Programming in Unix,Teresco,1,16,16,Lecture,2,T,M
-,,,,,,,,,,,,,,,,
